@@ -1,0 +1,1201 @@
+﻿Patient_ID,Patient_Name,Age,Gender,Blood_Type,Medical_Condition,Treatment,Department,Admission_Date,Discharge_Date,Length_of_Stay_Days,Treatment_Outcome,Readmitted,Satisfaction_Score,BP_Systolic,BP_Diastolic,Heart_Rate,Glucose_Level,BMI,Cholesterol,Insurance_Type,Treatment_Cost_USD
+P0001,Priya Mehta,49,Female,B-,Heart Disease,Beta Blockers,General Medicine,2021-02-23,2021-03-17,22,Stable,No,9,101,97,82,78,16.9,175,Medicaid,12016.71
+P0002,Robert Wilson,53,Male,O+,Back Pain,Physical Therapy,Neurology,2021-10-15,2021-11-07,23,Improved,No,10,109,73,103,156,19,217,Private,5287.46
+P0003,Laura Kumar,66,Female,O+,Hypertension,Metoprolol,Endocrinology,2024-01-21,2024-02-09,19,Recovered,No,7,95,102,69,267,24.4,140,Medicare,42838.23
+P0004,Emily Patel,65,Female,B-,Depression,Cognitive Behavioral Therapy,Endocrinology,2022-12-29,2023-01-21,23,Deteriorated,No,9,167,100,65,206,37.1,161,None,23381.88
+P0005,Anita Joshi,22,Female,O+,Back Pain,Epidural Injection,Psychiatry,2024-07-01,2024-07-10,9,Recovered,Yes,9,117,101,86,171,41.7,237,Medicaid,7572.14
+P0006,Mark Williams,64,Male,AB-,Heart Disease,Beta Blockers,Cardiology,2025-09-18,2025-10-04,16,Recovered,No,10,104,69,95,110,39,228,Medicaid,30022.25
+P0007,Daniel Sharma,32,Male,O+,Anemia,Erythropoietin,Pulmonology,2023-10-25,2023-10-29,4,Improved,No,2,148,60,101,294,36.9,248,Medicaid,38217.13
+P0008,Rekha Johnson,38,Female,B+,COPD,Bronchodilators,Psychiatry,2023-08-20,2023-09-05,16,Recovered,No,2,129,75,58,131,41.5,140,Government,4739.85
+P0009,Laura Patel,51,Female,O-,COPD,Steroids,Orthopedics,2022-05-17,2022-06-16,30,Improved,No,2,129,85,97,236,26.8,252,Private,22848.56
+P0010,Pooja Wilson,46,Female,AB-,Diabetes,Metformin,Cardiology,2020-08-29,2020-09-06,8,Recovered,Yes,10,132,64,87,130,24.1,244,Government,11104.72
+P0011,Ashley Shah,30,Female,B-,Hypertension,Lifestyle Modification,Cardiology,2023-12-22,2024-01-05,14,Improved,Yes,4,176,101,96,95,17.8,206,Medicaid,40129.33
+P0012,David Patel,53,Male,AB+,Obesity,Orlistat,General Medicine,2020-11-04,2020-11-19,15,Stable,No,3,102,63,96,208,40.2,143,Medicare,46355.17
+P0013,Jessica Verma,39,Female,O+,Anxiety,Benzodiazepines,Nephrology,2024-05-18,2024-05-27,9,Deteriorated,No,4,126,87,99,257,44.9,262,Government,33262.63
+P0014,Laura Davis,25,Other,AB+,Migraine,Lifestyle Modification,General Medicine,2020-08-22,2020-08-24,2,Improved,Yes,4,157,70,58,200,18.3,167,Private,3891.81
+P0015,Amy Joshi,23,Female,AB-,Kidney Disease,Dialysis,General Medicine,2024-09-13,2024-10-05,22,Improved,Yes,5,130,76,68,241,36.8,181,None,13647.92
+P0016,Sunita Sharma,76,Female,A+,Kidney Disease,Dialysis,Neurology,2020-10-27,2020-11-14,18,Recovered,No,5,106,82,59,295,23.1,192,Medicaid,8308.47
+P0017,Suresh Gupta,51,Male,A-,Hypertension,Lisinopril,Orthopedics,2021-09-28,2021-10-07,9,Improved,No,1,133,73,98,232,40.7,249,Medicare,24682.33
+P0018,Anita Sharma,60,Female,B+,Back Pain,NSAIDs,General Medicine,2022-12-08,2022-12-14,6,Stable,No,10,180,87,90,72,19.2,158,Medicare,27506.72
+P0019,Deepak Johnson,23,Male,B+,Cancer,Surgery,Endocrinology,2022-05-10,2022-06-01,22,Recovered,No,4,135,109,90,296,41.4,278,Government,37599.14
+P0020,Priya Patel,60,Female,B-,Back Pain,Surgery,Endocrinology,2022-10-13,2022-10-22,9,Recovered,No,4,138,62,109,190,22.5,237,Private,17808.09
+P0021,Jessica Smith,53,Female,A+,Thyroid Disorder,Levothyroxine,Oncology,2023-02-17,2023-03-01,12,Stable,No,5,176,94,76,77,19.3,186,Private,9339.11
+P0022,Emily Smith,73,Female,O-,Kidney Disease,Dialysis,Neurology,2024-04-26,2024-05-25,29,Improved,No,4,95,105,82,70,31.1,257,Medicare,34499.43
+P0023,James Taylor,58,Male,O+,Anemia,Iron Supplements,Oncology,2023-05-15,2023-06-01,17,Improved,No,3,131,85,99,145,32.1,169,Medicare,21312.09
+P0024,Priya Rao,54,Female,O-,Heart Disease,Bypass Surgery,Orthopedics,2023-08-12,2023-08-27,15,Improved,No,10,155,90,105,300,43.8,163,Private,33113.11
+P0025,Pooja Rao,46,Female,AB+,Back Pain,NSAIDs,Nephrology,2021-08-26,2021-08-27,1,Recovered,No,8,168,109,59,186,28,267,Government,10124.54
+P0026,Rahul Kumar,72,Male,AB+,Heart Disease,Beta Blockers,Orthopedics,2025-10-22,2025-11-06,15,Recovered,No,8,105,89,63,275,29.5,255,Medicaid,49400.68
+P0027,Anil Garcia,75,Male,A-,Arthritis,Physical Therapy,Nephrology,2023-02-09,2023-03-06,25,Stable,No,9,170,75,72,182,18.2,193,Government,12107.43
+P0028,Michael Gupta,45,Male,AB+,Hypertension,Lifestyle Modification,Oncology,2024-07-27,2024-08-07,11,Improved,Yes,10,97,73,108,177,27.3,269,Medicare,47330.07
+P0029,John Rao,67,Male,A+,Thyroid Disorder,Surgery,Oncology,2022-06-22,2022-07-08,16,Recovered,No,3,152,61,79,156,35.4,223,Medicare,36346.98
+P0030,Priya Singh,72,Female,O+,Asthma,Bronchodilators,Psychiatry,2022-01-14,2022-01-16,2,Improved,No,7,117,89,75,156,38.1,217,Private,14273.7
+P0031,Daniel Verma,62,Male,AB-,Heart Disease,Aspirin Therapy,Orthopedics,2020-06-13,2020-07-08,25,Recovered,No,4,115,61,94,109,22.9,241,None,33638.21
+P0032,Sushma Taylor,32,Female,A-,Back Pain,NSAIDs,Neurology,2023-06-28,2023-07-02,4,Improved,No,4,163,103,79,171,43.3,170,None,4261.83
+P0033,Lisa Kumar,23,Female,AB+,Depression,Psychotherapy,Psychiatry,2024-02-26,2024-02-29,3,Improved,No,3,91,86,107,195,19.1,212,Government,31961.46
+P0034,Neha Taylor,79,Female,O-,Obesity,Diet Program,Endocrinology,2023-01-04,2023-01-15,11,Deteriorated,No,8,125,88,70,262,29.5,276,Government,33575.33
+P0035,Emily Mehta,61,Female,AB-,Arthritis,Methotrexate,Endocrinology,2020-02-11,2020-02-28,17,Deteriorated,No,8,120,106,81,195,32.1,181,Private,34685.16
+P0036,Sanjay Williams,49,Male,O-,Arthritis,Methotrexate,Oncology,2025-04-22,2025-05-10,18,Improved,Yes,4,160,81,77,249,29.2,198,Private,12944.48
+P0037,Sushma Shah,45,Female,B+,Migraine,Botox Injections,General Medicine,2023-02-06,2023-03-02,24,Improved,No,9,166,78,61,283,21.6,178,None,18363.61
+P0038,Amit Davis,55,Male,A-,Migraine,Topiramate,Neurology,2025-07-03,2025-07-07,4,Deteriorated,No,2,150,90,83,157,21.3,133,Medicare,12997.68
+P0039,Amy Verma,37,Female,AB+,Asthma,Montelukast,Oncology,2020-12-14,2020-12-22,8,Recovered,No,5,167,98,105,228,22.5,253,None,19328.71
+P0040,Anita Taylor,30,Female,A+,Back Pain,NSAIDs,Pulmonology,2022-05-14,2022-05-23,9,Stable,No,5,120,71,90,89,20.5,224,Government,22799.93
+P0041,Deepak Jones,27,Male,O+,Anemia,B12 Injections,Orthopedics,2022-12-19,2023-01-14,26,Stable,Yes,3,144,67,89,127,34.8,188,Medicaid,41418.24
+P0042,Amy Rao,74,Female,O+,Hypertension,Lifestyle Modification,Neurology,2023-05-30,2023-06-22,23,Improved,No,10,154,94,86,182,18.3,130,Private,44526.43
+P0043,Mark Wilson,20,Male,AB-,Back Pain,Epidural Injection,Nephrology,2020-06-13,2020-07-08,25,Stable,No,2,156,101,83,141,21.3,269,None,22076.31
+P0044,James Kumar,38,Male,A+,Depression,Psychotherapy,Oncology,2025-07-22,2025-08-01,10,Stable,No,9,160,62,84,92,25.1,202,Medicaid,6238.12
+P0045,Amit Shah,84,Male,B-,Depression,Psychotherapy,Neurology,2024-12-15,2025-01-09,25,Recovered,No,10,160,68,73,182,41.5,244,Government,6510.59
+P0046,Rahul Davis,70,Male,AB-,Hypertension,Amlodipine,Pulmonology,2021-04-09,2021-04-24,15,Deteriorated,No,4,153,105,73,200,36.5,226,Medicaid,41818.84
+P0047,Pradeep Taylor,83,Male,AB-,Migraine,Topiramate,Oncology,2020-10-12,2020-10-21,9,Stable,No,10,133,110,87,138,39.8,192,Government,36439.52
+P0048,William Johnson,60,Male,AB+,COPD,Steroids,Orthopedics,2025-02-08,2025-03-10,30,Improved,No,7,179,75,91,168,22.8,225,Government,2660.54
+P0049,Anita Gupta,82,Female,O-,Kidney Disease,Diet Modification,Endocrinology,2021-02-15,2021-03-15,28,Stable,No,5,157,89,55,254,20.2,159,Medicaid,4204
+P0050,Sunita Smith,66,Female,A+,Depression,Psychotherapy,Neurology,2020-05-27,2020-06-16,20,Recovered,No,1,119,107,60,181,44.4,145,None,22462.09
+P0051,Ritu Johnson,65,Female,B+,Anxiety,SSRIs,Pulmonology,2022-09-27,2022-10-14,17,Improved,No,10,111,71,60,226,41.3,278,Government,34315.16
+P0052,Ravi Jones,50,Male,AB-,Anemia,Iron Supplements,General Medicine,2025-03-20,2025-04-18,29,Improved,No,5,110,64,83,158,44.6,196,None,32127.47
+P0053,Michael Garcia,31,Male,B-,Heart Disease,Bypass Surgery,Neurology,2024-01-10,2024-01-29,19,Improved,No,5,92,102,80,140,16.2,132,Medicaid,45575.54
+P0054,Pooja Shah,50,Female,B+,Anemia,B12 Injections,Cardiology,2021-02-01,2021-03-02,29,Stable,No,7,129,110,83,78,32.8,153,Government,4961.6
+P0055,Daniel Johnson,85,Male,AB+,COPD,Pulmonary Rehabilitation,Nephrology,2021-11-04,2021-11-13,9,Deteriorated,Yes,4,127,107,110,156,39.3,239,Medicaid,48163.22
+P0056,Michael Sharma,51,Male,O-,COPD,Bronchodilators,Neurology,2025-02-05,2025-02-17,12,Stable,No,10,164,84,107,233,43.3,147,Medicaid,33904.41
+P0057,Vijay Jones,56,Male,AB+,Anemia,Blood Transfusion,Cardiology,2021-04-22,2021-04-27,5,Recovered,No,9,128,91,62,94,22.8,257,Medicaid,7215.37
+P0058,Rekha Brown,30,Female,A+,Thyroid Disorder,Surgery,Psychiatry,2024-07-29,2024-08-07,9,Recovered,No,6,117,88,83,130,40.8,145,Medicare,49055.92
+P0059,Suresh Jones,29,Male,O-,Anemia,B12 Injections,Orthopedics,2020-03-28,2020-03-30,2,Stable,No,4,106,110,91,122,18,261,Government,10754.29
+P0060,Lisa Sharma,53,Female,A+,Thyroid Disorder,Methimazole,Pulmonology,2021-06-16,2021-07-04,18,Improved,No,6,104,102,110,76,19.8,211,Government,39604.24
+P0061,Rajesh Brown,85,Male,O+,Hypertension,Lisinopril,General Medicine,2025-05-04,2025-05-19,15,Stable,No,9,165,66,83,198,22.4,277,Medicare,2646.57
+P0062,Priya Verma,79,Female,O-,Thyroid Disorder,Surgery,Nephrology,2024-10-12,2024-11-03,22,Recovered,No,9,99,65,75,225,20.3,152,Medicare,14113.29
+P0063,Ashley Rao,76,Other,O-,COPD,Steroids,General Medicine,2021-02-10,2021-03-08,26,Stable,No,2,117,87,83,297,22.6,206,Medicare,41457.25
+P0064,Ravi Johnson,37,Male,O-,Anemia,Blood Transfusion,Endocrinology,2020-10-01,2020-10-04,3,Stable,No,9,145,66,102,259,26.8,153,Private,28040.35
+P0065,David Verma,54,Male,B-,Kidney Disease,Diet Modification,Orthopedics,2023-12-11,2023-12-15,4,Improved,No,5,109,102,85,127,40.6,209,Medicare,42345.98
+P0066,Lisa Taylor,21,Female,A-,Kidney Disease,Diet Modification,Neurology,2020-04-28,2020-05-04,6,Improved,Yes,1,133,82,55,116,41.2,264,Medicaid,33038.56
+P0067,David Jones,61,Male,AB-,Asthma,Montelukast,Endocrinology,2023-06-30,2023-07-24,24,Improved,No,8,96,69,65,263,33.9,140,Medicare,13969.09
+P0068,Thomas Kumar,62,Male,B+,Anxiety,Benzodiazepines,Nephrology,2023-03-06,2023-03-28,22,Stable,No,4,157,102,74,81,22.4,273,None,3211.71
+P0069,Suresh Sharma,81,Male,A+,Migraine,Botox Injections,Orthopedics,2021-12-20,2021-12-25,5,Improved,No,7,154,95,108,241,39.4,138,Medicare,20155.02
+P0070,Sarah Wilson,72,Female,AB+,Kidney Disease,Kidney Transplant,Cardiology,2024-09-06,2024-09-16,10,Recovered,No,4,131,70,106,228,29.3,212,Medicaid,4862.43
+P0071,Vijay Williams,57,Male,B-,Migraine,Lifestyle Modification,Endocrinology,2022-06-26,2022-07-07,11,Stable,No,3,155,100,62,205,30.8,209,Private,17879.44
+P0072,Pradeep Patel,37,Male,O-,Back Pain,Physical Therapy,Nephrology,2021-12-26,2022-01-20,25,Stable,No,6,162,108,92,184,35.8,264,Government,32328.1
+P0073,William Jones,56,Male,AB+,Back Pain,Epidural Injection,Neurology,2020-08-18,2020-08-30,12,Improved,No,2,149,88,57,84,26.7,193,Medicare,4298.18
+P0074,Anita Jones,42,Female,B+,Depression,Psychotherapy,Nephrology,2025-08-15,2025-08-20,5,Deceased,No,8,103,81,100,91,30.6,164,None,2437.54
+P0075,Deepak Williams,70,Male,B+,Back Pain,Epidural Injection,Psychiatry,2020-08-02,2020-08-28,26,Stable,No,10,98,81,61,212,35.7,192,None,12973.79
+P0076,Rajesh Johnson,57,Male,A-,Anemia,Blood Transfusion,Endocrinology,2021-06-12,2021-07-02,20,Stable,No,9,129,95,79,234,39,152,Medicare,33670.76
+P0077,Priya Johnson,57,Female,A+,Asthma,Corticosteroids,Orthopedics,2023-10-31,2023-11-25,25,Improved,No,9,107,69,59,145,40.5,145,None,25630.64
+P0078,Lisa Gupta,66,Female,B-,Asthma,Corticosteroids,Pulmonology,2022-01-10,2022-02-06,27,Stable,No,8,146,62,81,163,35.6,180,Medicaid,48494.64
+P0079,William Shah,65,Male,O-,Anemia,Blood Transfusion,Oncology,2025-03-06,2025-03-31,25,Improved,No,8,154,93,81,111,39.7,274,Medicaid,7350.73
+P0080,Jennifer Kumar,54,Female,O-,Hypertension,Amlodipine,Pulmonology,2023-01-22,2023-02-06,15,Deteriorated,No,7,145,65,69,279,29.1,209,Government,46558.36
+P0081,Vijay Johnson,46,Male,AB-,Diabetes,Lifestyle Modification,Psychiatry,2021-02-09,2021-03-08,27,Stable,Yes,8,108,68,57,143,42.6,240,Medicaid,34955.56
+P0082,Vijay Sharma,50,Male,A+,Heart Disease,Beta Blockers,Neurology,2025-12-01,2025-12-15,14,Recovered,Yes,8,120,79,62,82,22.9,279,Medicaid,23127.12
+P0083,Rekha Rao,72,Female,A+,Diabetes,Lifestyle Modification,Endocrinology,2022-09-12,2022-10-01,19,Improved,No,8,157,83,59,204,31.8,249,Medicare,27930.52
+P0084,Thomas Sharma,63,Other,AB-,Back Pain,Physical Therapy,Endocrinology,2023-11-13,2023-11-21,8,Stable,No,3,164,107,103,155,19.9,210,Medicare,27527.68
+P0085,Rekha Singh,76,Female,O+,Diabetes,Lifestyle Modification,Cardiology,2022-04-05,2022-04-07,2,Stable,Yes,4,130,79,87,171,44.7,259,None,23933.29
+P0086,Anita Smith,52,Female,AB+,Hypertension,Metoprolol,Nephrology,2024-11-24,2024-12-23,29,Improved,No,2,139,81,66,197,36.1,214,Private,46253.37
+P0087,Anil Davis,55,Male,AB+,Depression,SSRIs,Neurology,2020-11-23,2020-12-04,11,Stable,Yes,6,147,98,100,179,20.8,233,None,17901.58
+P0088,Anita Singh,69,Female,B+,Depression,Cognitive Behavioral Therapy,Nephrology,2020-05-07,2020-05-12,5,Stable,No,1,94,68,59,130,38.6,213,Medicare,18426.45
+P0089,Emily Jones,27,Female,O+,Kidney Disease,ACE Inhibitors,Neurology,2025-12-08,2025-12-20,12,Improved,No,5,121,67,56,258,21.4,252,Medicare,19655.88
+P0090,Paul Rao,80,Male,O+,Heart Disease,Aspirin Therapy,Pulmonology,2021-07-09,2021-08-06,28,Recovered,No,9,146,65,106,244,44.1,201,None,33558.07
+P0091,Sushma Johnson,83,Female,O+,Heart Disease,Aspirin Therapy,Nephrology,2022-04-03,2022-04-29,26,Recovered,No,2,93,83,90,216,26.7,261,Medicare,6923.68
+P0092,Sarah Miller,70,Other,AB+,Back Pain,Surgery,Endocrinology,2020-10-29,2020-11-03,5,Deceased,Yes,3,147,89,98,202,26,261,Medicaid,32169.8
+P0093,Anita Kumar,84,Female,O+,Asthma,Montelukast,Orthopedics,2021-11-05,2021-11-11,6,Improved,No,3,134,93,73,286,18.3,170,Medicaid,31935.33
+P0094,Jennifer Patel,37,Female,AB-,Asthma,Montelukast,Endocrinology,2020-06-17,2020-07-14,27,Deteriorated,No,1,95,101,104,217,23.7,173,Medicaid,38464.47
+P0095,Deepak Garcia,49,Male,O-,Back Pain,Surgery,Cardiology,2023-05-03,2023-05-18,15,Recovered,No,6,110,88,81,193,29.5,207,Medicare,30529.68
+P0096,John Miller,31,Male,O-,Depression,Cognitive Behavioral Therapy,Orthopedics,2025-03-25,2025-03-29,4,Improved,No,3,108,66,58,144,43.4,277,Medicaid,21197.67
+P0097,Meena Patel,81,Female,AB-,COPD,Steroids,Cardiology,2025-08-04,2025-09-02,29,Improved,Yes,5,101,85,87,187,44,175,Medicaid,29375.53
+P0098,Melissa Rao,19,Female,AB+,Thyroid Disorder,Levothyroxine,Psychiatry,2024-10-31,2024-11-05,5,Deteriorated,No,2,141,83,57,172,17.5,263,Medicaid,10135.44
+P0099,Daniel Mehta,33,Male,B+,Asthma,Albuterol Inhaler,Psychiatry,2024-06-01,2024-06-13,12,Stable,Yes,1,161,83,103,106,21.8,250,None,20368.66
+P0100,Jennifer Jones,37,Female,O+,Kidney Disease,ACE Inhibitors,Pulmonology,2023-09-05,2023-10-05,30,Stable,No,8,140,99,102,285,24.7,206,Medicare,25612.09
+P0101,Emily Smith,32,Female,A+,Anxiety,Therapy,Orthopedics,2020-04-19,2020-05-09,20,Improved,No,4,96,97,85,113,31.2,278,Medicaid,38843
+P0102,Kavita Shah,20,Female,O-,Obesity,Bariatric Surgery,Orthopedics,2024-09-11,2024-09-16,5,Improved,No,9,142,92,104,226,42.7,135,Medicare,35435.87
+P0103,Sarah Patel,76,Female,O+,Cancer,Surgery,Neurology,2023-12-22,2024-01-13,22,Stable,No,5,168,90,67,133,24.1,196,Government,11630.92
+P0104,Melissa Smith,79,Female,O-,Depression,SNRIs,General Medicine,2023-03-24,2023-03-28,4,Improved,No,2,138,85,107,158,43.7,157,Medicare,14877.41
+P0105,Melissa Shah,43,Female,A-,Thyroid Disorder,Radioactive Iodine,Orthopedics,2023-01-17,2023-01-22,5,Recovered,No,8,121,63,97,205,22.5,179,Government,3098.31
+P0106,Daniel Patel,70,Male,B+,Anemia,Blood Transfusion,Neurology,2025-05-09,2025-05-30,21,Recovered,No,1,131,78,96,85,42.3,142,Medicare,32788.79
+P0107,Sushma Verma,68,Female,AB-,Back Pain,Surgery,Neurology,2022-02-02,2022-03-04,30,Stable,No,9,94,60,74,215,33.5,205,Government,14585.8
+P0108,Amanda Mehta,42,Female,AB+,Back Pain,Physical Therapy,Neurology,2023-09-16,2023-09-22,6,Stable,Yes,10,113,60,102,156,38.9,265,Medicare,33882.86
+P0109,Sunita Williams,30,Female,O+,Asthma,Corticosteroids,Cardiology,2025-05-09,2025-05-20,11,Deteriorated,No,1,123,84,70,184,37.9,204,None,15446.32
+P0110,Anita Kumar,77,Female,AB-,Arthritis,Physical Therapy,Neurology,2024-07-18,2024-08-09,22,Improved,Yes,3,178,67,95,145,26.7,176,Medicaid,11346.87
+P0111,Daniel Garcia,45,Male,O-,Back Pain,NSAIDs,Psychiatry,2020-12-01,2020-12-18,17,Improved,No,3,99,96,62,85,40,249,Medicaid,10506.76
+P0112,Pradeep Wilson,80,Male,B-,Hypertension,Lifestyle Modification,Oncology,2020-08-15,2020-08-30,15,Recovered,No,1,148,96,58,213,29.4,198,Medicaid,36302.36
+P0113,David Johnson,26,Male,AB+,COPD,Bronchodilators,Neurology,2020-10-09,2020-11-08,30,Improved,No,8,142,71,104,104,38.2,227,Medicare,19035.82
+P0114,Daniel Gupta,62,Male,B-,Hypertension,Amlodipine,Orthopedics,2024-05-28,2024-06-14,17,Recovered,No,4,90,108,56,146,29.4,259,Medicare,21494.34
+P0115,Ravi Shah,32,Male,B-,Diabetes,Glipizide,Endocrinology,2020-03-05,2020-03-13,8,Recovered,Yes,8,166,62,83,223,35.5,132,Medicaid,12614.34
+P0116,Amit Gupta,82,Male,B+,Arthritis,Physical Therapy,Psychiatry,2023-07-30,2023-08-18,19,Improved,Yes,10,120,79,64,239,31.1,225,Medicare,15374.8
+P0117,Anita Johnson,66,Female,A+,Back Pain,Epidural Injection,Oncology,2024-09-01,2024-09-15,14,Recovered,No,8,113,108,89,191,23,177,Medicaid,15386.45
+P0118,David Davis,85,Male,A+,Asthma,Bronchodilators,Endocrinology,2022-09-21,2022-09-30,9,Recovered,No,10,147,83,60,207,37,168,Private,3051.06
+P0119,Mark Davis,45,Male,AB+,Obesity,Orlistat,Cardiology,2023-09-25,2023-10-05,10,Deceased,No,4,117,72,102,100,37.7,242,Government,45764.84
+P0120,Ritu Williams,77,Female,A+,COPD,Pulmonary Rehabilitation,Nephrology,2023-06-17,2023-06-26,9,Improved,No,7,149,66,106,254,29.6,201,Medicaid,45759.36
+P0121,Rekha Sharma,51,Female,AB-,COPD,Steroids,Orthopedics,2023-04-24,2023-04-29,5,Recovered,No,8,138,96,108,132,30.5,206,Government,13237.67
+P0122,Emily Patel,35,Female,A-,Migraine,Botox Injections,Cardiology,2022-01-23,2022-02-22,30,Deteriorated,No,4,157,62,108,286,18.2,132,Government,38334.77
+P0123,Thomas Jones,65,Male,B+,Diabetes,Glipizide,General Medicine,2025-06-21,2025-06-22,1,Recovered,Yes,7,142,60,56,205,36.9,257,Private,48885.23
+P0124,Jennifer Gupta,48,Female,A+,Heart Disease,Statins,Endocrinology,2023-12-22,2023-12-31,9,Stable,No,2,137,85,84,214,23.1,177,Private,15348.74
+P0125,Michael Davis,78,Male,B-,Diabetes,Metformin,Oncology,2021-12-02,2021-12-05,3,Improved,No,4,172,110,76,214,44.3,144,Medicaid,44792.17
+P0126,Amit Singh,53,Male,B-,Cancer,Chemotherapy,Cardiology,2022-01-04,2022-02-03,30,Deteriorated,No,10,116,97,64,262,39.8,221,Medicaid,46479.31
+P0127,Jessica Davis,60,Female,AB+,Anxiety,SSRIs,Psychiatry,2020-11-17,2020-12-04,17,Stable,No,10,96,66,82,129,40.3,207,None,30455.85
+P0128,Ravi Jones,80,Male,AB+,Heart Disease,Statins,Oncology,2024-03-17,2024-03-31,14,Recovered,Yes,3,100,109,94,145,39.1,138,None,4560.88
+P0129,Vijay Sharma,57,Male,O-,Obesity,Bariatric Surgery,Pulmonology,2023-01-09,2023-01-13,4,Recovered,No,2,145,88,90,212,30.9,146,Medicare,1799.96
+P0130,David Williams,28,Male,AB-,Migraine,Topiramate,Pulmonology,2025-11-04,2025-11-10,6,Stable,No,5,107,77,74,138,30.3,136,Private,8776.77
+P0131,Sanjay Garcia,43,Male,B+,Obesity,Lifestyle Modification,Oncology,2021-07-08,2021-07-18,10,Recovered,No,10,132,99,79,275,41,232,None,17069.44
+P0132,Pradeep Garcia,58,Male,B+,Asthma,Bronchodilators,Nephrology,2023-07-31,2023-08-10,10,Stable,No,4,163,110,70,153,26.9,220,Medicaid,18568.27
+P0133,Robert Shah,74,Male,A-,Back Pain,Epidural Injection,Oncology,2020-10-10,2020-11-06,27,Stable,No,7,176,91,63,232,24.8,184,Medicare,33103.82
+P0134,Sarah Wilson,69,Other,AB+,COPD,Steroids,General Medicine,2020-05-30,2020-06-25,26,Deceased,No,10,166,100,60,97,38.3,210,None,8733.76
+P0135,Pooja Kumar,19,Other,B+,Hypertension,Metoprolol,General Medicine,2022-06-28,2022-07-15,17,Stable,No,9,164,104,91,126,28.9,220,None,23421.63
+P0136,Sarah Kumar,55,Other,AB-,Anxiety,Benzodiazepines,Pulmonology,2021-04-20,2021-05-17,27,Deteriorated,No,8,134,79,76,186,38.7,253,None,24404.84
+P0137,Amit Kumar,20,Male,B+,Thyroid Disorder,Radioactive Iodine,Orthopedics,2021-03-23,2021-04-14,22,Stable,No,7,156,71,90,110,25.6,229,Government,47943.9
+P0138,Ashley Williams,21,Female,B+,Migraine,Topiramate,Cardiology,2025-01-15,2025-02-03,19,Improved,No,9,180,73,68,141,37.8,136,None,29078.72
+P0139,Robert Kumar,51,Male,A-,Anemia,Blood Transfusion,Oncology,2025-12-01,2025-12-22,21,Improved,No,5,168,85,92,99,26.1,237,Government,31059.45
+P0140,Sanjay Rao,32,Male,B+,Asthma,Montelukast,Pulmonology,2021-08-02,2021-08-19,17,Improved,No,3,163,84,82,117,30.1,257,Medicare,34824.93
+P0141,Anil Smith,75,Male,B+,Kidney Disease,Dialysis,Orthopedics,2024-01-10,2024-01-11,1,Improved,No,8,139,95,87,237,30.4,245,Private,21073.71
+P0142,Pooja Rao,22,Female,AB-,Arthritis,Physical Therapy,Nephrology,2023-03-28,2023-04-03,6,Stable,No,1,160,92,62,216,19.3,259,Medicaid,41252.5
+P0143,David Kumar,49,Male,AB+,Arthritis,Ibuprofen,Endocrinology,2025-01-16,2025-01-25,9,Improved,No,10,146,67,104,277,22.9,270,Government,34612.11
+P0144,Meena Shah,25,Female,B+,Kidney Disease,Diet Modification,Pulmonology,2025-12-20,2025-12-29,9,Improved,No,2,131,105,73,144,32.6,251,Medicare,49281.67
+P0145,Neha Gupta,34,Female,AB+,Heart Disease,Beta Blockers,Oncology,2023-08-12,2023-09-08,27,Recovered,Yes,2,152,69,91,231,23.8,226,Medicaid,19071.03
+P0146,Emily Jones,80,Female,O+,Depression,SSRIs,Psychiatry,2021-01-16,2021-02-09,24,Deceased,No,6,98,110,89,171,22.3,229,None,41329.96
+P0147,Rekha Wilson,80,Female,O+,Back Pain,Epidural Injection,Nephrology,2020-07-17,2020-07-19,2,Recovered,No,3,92,67,109,110,28.8,120,Government,49595.99
+P0148,Neha Singh,64,Female,A+,Arthritis,Ibuprofen,Pulmonology,2024-03-03,2024-03-25,22,Deteriorated,Yes,2,96,85,95,148,37.1,179,Government,21746.93
+P0149,Rajesh Wilson,46,Male,O-,COPD,Steroids,Endocrinology,2020-02-08,2020-02-09,1,Stable,No,2,144,104,63,192,18.1,218,None,4921.89
+P0150,Rekha Williams,35,Female,B-,Anemia,B12 Injections,Pulmonology,2020-10-07,2020-10-24,17,Improved,No,8,146,82,101,124,34.2,158,Private,46034.76
+P0151,Rekha Kumar,67,Female,O+,Depression,Psychotherapy,Neurology,2023-07-12,2023-08-07,26,Recovered,No,1,172,65,70,211,33.4,275,Government,14603.58
+P0152,Jennifer Shah,68,Female,AB+,Arthritis,Ibuprofen,Orthopedics,2022-09-07,2022-09-23,16,Improved,No,3,153,100,93,88,31.3,123,Medicaid,49350.69
+P0153,Daniel Patel,78,Male,AB+,Back Pain,Physical Therapy,Neurology,2020-03-09,2020-03-28,19,Recovered,No,7,117,62,58,272,27.5,193,Medicare,31614.25
+P0154,Daniel Davis,37,Male,A+,Arthritis,Ibuprofen,Orthopedics,2023-06-23,2023-06-26,3,Improved,No,4,109,94,75,170,33,136,Government,15853.39
+P0155,David Kumar,76,Male,O+,Kidney Disease,Dialysis,Pulmonology,2023-06-20,2023-07-12,22,Stable,No,9,105,60,100,105,36.3,161,Government,25072.44
+P0156,Ravi Kumar,21,Male,A-,Depression,Psychotherapy,Endocrinology,2023-01-19,2023-02-05,17,Recovered,Yes,2,153,89,87,162,17.6,265,Government,8760.63
+P0157,Priya Verma,19,Female,O+,Heart Disease,Aspirin Therapy,Pulmonology,2025-04-16,2025-04-28,12,Improved,No,6,112,62,90,275,42.5,227,Private,11613.51
+P0158,Kavita Miller,24,Female,O+,Asthma,Corticosteroids,Endocrinology,2025-10-13,2025-10-15,2,Deceased,Yes,4,149,78,104,286,25,142,Medicaid,27878.02
+P0159,Lisa Joshi,77,Female,O-,Depression,Psychotherapy,Orthopedics,2022-03-11,2022-04-04,24,Deteriorated,No,1,109,60,81,76,22.8,208,Private,31979.12
+P0160,Jessica Rao,31,Female,A-,Heart Disease,Beta Blockers,Pulmonology,2024-09-15,2024-10-01,16,Deceased,No,8,125,65,57,129,42,253,Medicaid,20946.31
+P0161,Rajesh Williams,27,Male,AB-,Kidney Disease,Dialysis,Orthopedics,2024-11-16,2024-12-08,22,Deceased,No,6,127,76,109,150,42.9,220,None,35185.92
+P0162,Pradeep Gupta,31,Male,B+,Asthma,Albuterol Inhaler,Oncology,2021-11-04,2021-11-19,15,Improved,No,2,105,94,77,267,22,198,None,23435.66
+P0163,Lisa Verma,45,Female,B-,Thyroid Disorder,Radioactive Iodine,Psychiatry,2021-08-30,2021-09-02,3,Stable,No,8,140,92,58,243,24.7,164,Private,2038.56
+P0164,Rajesh Kumar,19,Male,B-,Diabetes,Insulin Therapy,Psychiatry,2021-06-19,2021-06-26,7,Stable,Yes,2,177,100,96,91,32.9,186,Medicare,45912.71
+P0165,Sunita Smith,33,Female,O+,Diabetes,Glipizide,Oncology,2020-07-26,2020-08-01,6,Deteriorated,No,5,140,91,56,167,35.8,164,Medicare,18020.19
+P0166,Anita Taylor,49,Female,A+,Anemia,Erythropoietin,Nephrology,2025-08-05,2025-08-19,14,Deteriorated,No,4,97,65,72,168,20,171,Medicare,32311.3
+P0167,Emily Garcia,80,Female,O-,Depression,SNRIs,Psychiatry,2024-05-09,2024-05-18,9,Recovered,No,9,166,74,56,299,39.5,191,Medicaid,3400.27
+P0168,James Kumar,49,Other,A+,Anemia,B12 Injections,Cardiology,2022-12-27,2023-01-14,18,Stable,No,6,118,96,109,274,27.3,164,None,9216.97
+P0169,Amy Gupta,42,Female,B+,Thyroid Disorder,Surgery,Endocrinology,2023-06-19,2023-06-25,6,Improved,No,4,97,74,93,126,16.6,242,None,533.83
+P0170,Sarah Verma,20,Female,AB+,Asthma,Corticosteroids,Psychiatry,2021-03-30,2021-04-27,28,Improved,No,3,99,83,100,239,27.5,145,Medicare,17159.77
+P0171,Sushma Davis,63,Female,A+,Heart Disease,Beta Blockers,Neurology,2024-03-29,2024-04-08,10,Stable,No,10,106,71,101,70,43.5,266,Government,19884.27
+P0172,Lisa Joshi,31,Female,AB-,Cancer,Immunotherapy,Orthopedics,2021-07-30,2021-08-10,11,Stable,No,6,134,80,65,232,41.7,142,Private,41172.26
+P0173,Sanjay Singh,62,Male,B-,Arthritis,Ibuprofen,Oncology,2020-01-06,2020-01-08,2,Improved,No,10,111,86,86,295,27,259,Government,19079.7
+P0174,Amit Rao,20,Male,A+,Depression,SNRIs,Oncology,2021-03-04,2021-03-07,3,Improved,No,8,110,106,59,210,43.3,143,Medicare,17228.55
+P0175,Sushma Taylor,73,Female,A-,Asthma,Albuterol Inhaler,Orthopedics,2021-02-18,2021-03-01,11,Recovered,No,4,142,104,90,254,42.8,258,Private,13630.61
+P0176,Daniel Garcia,37,Male,O+,Diabetes,Lifestyle Modification,Nephrology,2020-01-16,2020-01-30,14,Recovered,No,2,115,66,56,122,21,194,Medicare,48864.36
+P0177,Ravi Singh,67,Male,A-,Asthma,Montelukast,Cardiology,2024-04-11,2024-04-23,12,Recovered,Yes,2,123,88,84,137,22.6,188,None,28430.21
+P0178,Ashley Wilson,47,Female,B+,COPD,Bronchodilators,General Medicine,2024-05-04,2024-05-31,27,Improved,No,1,177,90,91,295,22.8,196,Private,4408.27
+P0179,Amanda Patel,39,Female,A-,Heart Disease,Beta Blockers,Oncology,2021-05-31,2021-06-02,2,Improved,No,2,115,100,64,283,33.3,201,Medicare,45584.82
+P0180,Laura Smith,53,Female,A-,COPD,Steroids,General Medicine,2020-02-20,2020-03-17,26,Stable,No,2,143,67,81,108,20.3,270,Medicaid,29342.52
+P0181,Ritu Davis,62,Female,O-,Cancer,Immunotherapy,Nephrology,2022-12-17,2022-12-30,13,Stable,No,7,94,71,72,173,20.2,275,Government,34200.24
+P0182,William Mehta,65,Male,O+,Diabetes,Lifestyle Modification,Nephrology,2023-05-26,2023-06-05,10,Improved,No,6,179,103,61,292,22.6,196,Medicare,48723.86
+P0183,Sunita Shah,74,Female,A+,Heart Disease,Bypass Surgery,Psychiatry,2025-06-07,2025-07-02,25,Improved,No,9,97,92,105,110,17.9,249,Government,20467.56
+P0184,Pradeep Verma,49,Male,AB-,Diabetes,Glipizide,Orthopedics,2020-07-26,2020-08-25,30,Improved,No,8,125,83,107,188,30.6,151,Government,34218.13
+P0185,Sarah Wilson,62,Other,B-,Depression,Cognitive Behavioral Therapy,Endocrinology,2022-11-25,2022-12-19,24,Stable,No,4,126,61,79,82,20.7,266,Government,39101.59
+P0186,David Miller,20,Male,AB+,Thyroid Disorder,Levothyroxine,Pulmonology,2025-04-25,2025-05-25,30,Recovered,No,5,166,60,69,134,33.6,198,Medicare,35780.65
+P0187,Amanda Mehta,45,Female,A-,Obesity,Bariatric Surgery,Endocrinology,2025-11-02,2025-11-29,27,Stable,No,5,90,92,97,285,40.3,263,Medicare,32543.43
+P0188,Ravi Smith,53,Male,O+,Arthritis,Methotrexate,Orthopedics,2022-02-10,2022-02-15,5,Improved,No,5,97,98,80,239,25.3,155,Medicare,36203.52
+P0189,Amit Wilson,42,Male,O+,Depression,Cognitive Behavioral Therapy,Psychiatry,2025-12-29,2026-01-19,21,Stable,Yes,3,154,79,109,113,40.4,262,Medicaid,9466.22
+P0190,Sushma Smith,29,Female,A-,Heart Disease,Statins,Oncology,2022-07-03,2022-07-27,24,Deteriorated,No,10,132,83,71,219,24.5,150,Medicare,23791.56
+P0191,Jennifer Kumar,66,Female,A-,COPD,Pulmonary Rehabilitation,Pulmonology,2024-08-19,2024-08-21,2,Deteriorated,No,3,107,72,76,174,44.6,237,Medicare,7589.6
+P0192,Anil Smith,25,Male,AB+,Diabetes,Glipizide,Pulmonology,2023-01-25,2023-02-01,7,Stable,No,7,163,108,65,195,38.8,142,Medicare,6905.59
+P0193,Rekha Sharma,22,Other,B+,COPD,Oxygen Therapy,General Medicine,2024-03-08,2024-03-09,1,Deteriorated,No,5,114,61,98,71,34.2,183,Private,11700.15
+P0194,Mark Rao,39,Male,B-,Hypertension,Lisinopril,General Medicine,2023-05-06,2023-05-16,10,Improved,No,6,166,93,76,181,41.8,154,Government,17465.28
+P0195,Jessica Sharma,47,Female,A+,Heart Disease,Beta Blockers,General Medicine,2022-05-15,2022-06-08,24,Recovered,No,9,111,67,78,252,34.9,129,Medicaid,19072.03
+P0196,Pradeep Sharma,24,Other,O+,Migraine,Sumatriptan,General Medicine,2024-09-03,2024-09-18,15,Improved,No,9,122,90,99,109,22,122,Medicaid,15405.26
+P0197,Rekha Brown,31,Female,O+,COPD,Bronchodilators,Nephrology,2023-03-03,2023-03-07,4,Stable,No,7,115,98,67,269,23.6,253,Government,48669.43
+P0198,William Shah,79,Male,B-,Depression,Cognitive Behavioral Therapy,Endocrinology,2020-01-12,2020-01-13,1,Stable,No,5,163,102,86,108,43.5,250,Medicare,4214.89
+P0199,Mark Mehta,77,Other,B+,Diabetes,Metformin,Neurology,2021-12-16,2022-01-13,28,Recovered,No,1,136,103,75,179,37.4,144,Government,42636.67
+P0200,Robert Taylor,52,Male,A-,Cancer,Chemotherapy,Endocrinology,2024-03-06,2024-04-02,27,Improved,No,3,141,85,84,139,40.2,242,Government,40095.01
+P0201,Anita Patel,31,Female,AB-,Anxiety,Mindfulness Program,Psychiatry,2024-11-29,2024-12-05,6,Stable,No,7,168,61,110,245,41.5,153,Private,24412.44
+P0202,James Sharma,85,Male,A+,Back Pain,NSAIDs,Endocrinology,2023-10-17,2023-11-03,17,Improved,No,10,145,102,101,133,30,218,Private,7858.4
+P0203,Sushma Miller,78,Female,A-,Thyroid Disorder,Surgery,Psychiatry,2021-11-08,2021-11-11,3,Stable,No,4,120,81,72,82,30.7,260,Medicare,32344.21
+P0204,Mark Jones,29,Male,O+,Thyroid Disorder,Surgery,Nephrology,2025-01-05,2025-01-16,11,Recovered,No,10,173,61,61,173,28,262,Medicaid,27680.39
+P0205,Amanda Smith,64,Female,A+,Thyroid Disorder,Levothyroxine,General Medicine,2022-07-02,2022-07-30,28,Improved,No,4,169,98,85,253,35.1,235,None,6144.16
+P0206,Deepak Davis,84,Male,B-,Depression,SSRIs,Pulmonology,2020-07-06,2020-08-04,29,Recovered,No,8,142,66,71,226,21.7,150,None,46545.7
+P0207,David Verma,33,Male,B+,Back Pain,Surgery,General Medicine,2025-02-16,2025-03-10,22,Improved,No,8,107,91,55,205,37.4,261,Medicaid,46797.76
+P0208,Rajesh Kumar,67,Male,O+,Anemia,Erythropoietin,Orthopedics,2025-08-26,2025-09-24,29,Improved,No,9,125,85,76,145,29.1,154,Medicaid,7339.91
+P0209,Laura Shah,43,Female,AB+,Heart Disease,Statins,Pulmonology,2023-11-15,2023-12-15,30,Stable,No,10,154,94,99,233,25.3,149,Medicaid,38158.36
+P0210,David Sharma,84,Male,O+,Hypertension,Lisinopril,Cardiology,2024-04-09,2024-04-14,5,Recovered,Yes,1,115,77,103,271,20.7,193,Government,34327.82
+P0211,Anita Johnson,75,Female,B-,Hypertension,Amlodipine,Neurology,2024-05-11,2024-05-19,8,Improved,Yes,5,178,102,58,167,27.2,200,Medicaid,48308.74
+P0212,Amanda Joshi,65,Female,B+,Back Pain,NSAIDs,Endocrinology,2022-03-03,2022-03-13,10,Improved,No,3,113,71,102,201,19.5,130,Medicaid,21711.14
+P0213,Priya Smith,77,Female,B-,Migraine,Topiramate,Cardiology,2020-06-12,2020-06-17,5,Deteriorated,Yes,6,170,99,108,239,24.7,266,Government,27732.93
+P0214,Jennifer Patel,71,Female,A-,COPD,Steroids,Orthopedics,2021-01-11,2021-01-23,12,Recovered,No,1,174,81,76,162,24.5,278,None,26759.7
+P0215,Paul Taylor,49,Male,AB-,Diabetes,Lifestyle Modification,Endocrinology,2024-04-11,2024-05-11,30,Stable,No,9,139,76,89,255,24.2,252,Medicare,41194.4
+P0216,Pradeep Smith,83,Male,B-,Hypertension,Lisinopril,Cardiology,2021-11-16,2021-12-11,25,Improved,No,2,170,64,68,241,34.3,174,Medicaid,43315.07
+P0217,Ashley Singh,37,Female,AB+,Diabetes,Glipizide,Cardiology,2023-09-20,2023-09-22,2,Recovered,No,8,112,110,71,212,18,178,Medicare,45593.84
+P0218,Michael Kumar,18,Male,AB+,Anemia,Iron Supplements,Psychiatry,2020-07-05,2020-07-28,23,Stable,No,8,154,66,73,271,35.9,275,Medicare,4782.01
+P0219,Priya Garcia,38,Female,B+,COPD,Oxygen Therapy,General Medicine,2021-07-12,2021-08-05,24,Improved,Yes,9,127,100,64,146,35.6,215,Private,47890.89
+P0220,Mark Taylor,68,Male,B-,COPD,Bronchodilators,Psychiatry,2023-06-02,2023-06-09,7,Stable,No,5,117,86,96,287,30.9,161,Private,9607.64
+P0221,Mark Verma,77,Male,O+,Anemia,Iron Supplements,Endocrinology,2023-04-05,2023-04-27,22,Recovered,No,2,115,106,92,194,43.6,211,Medicaid,6846.65
+P0222,Pradeep Smith,80,Male,O-,Obesity,Bariatric Surgery,Psychiatry,2023-06-06,2023-06-29,23,Improved,No,5,130,87,65,71,25.1,176,Government,35753.86
+P0223,Sarah Garcia,77,Female,A-,Obesity,Bariatric Surgery,Pulmonology,2023-06-05,2023-06-21,16,Improved,Yes,2,172,98,60,285,24.1,155,Private,44619.2
+P0224,Priya Wilson,69,Female,B+,Back Pain,NSAIDs,General Medicine,2020-05-30,2020-06-17,18,Improved,No,5,150,101,104,108,26.6,177,Medicare,44626.16
+P0225,Sunita Williams,64,Female,O-,COPD,Bronchodilators,Pulmonology,2022-09-05,2022-10-03,28,Deceased,No,8,155,68,83,110,21.2,264,Private,33140.96
+P0226,William Joshi,26,Male,O+,Arthritis,Methotrexate,General Medicine,2022-08-16,2022-08-18,2,Stable,No,9,136,84,85,186,41.6,130,None,49039.19
+P0227,Amy Patel,66,Female,A+,Anemia,Blood Transfusion,Endocrinology,2024-02-05,2024-02-24,19,Stable,No,8,156,76,79,127,31,210,Medicaid,40953.22
+P0228,Amanda Patel,47,Female,AB-,Hypertension,Metoprolol,Psychiatry,2022-05-16,2022-05-21,5,Recovered,No,8,167,105,107,100,35.2,226,Medicare,40653.05
+P0229,Anil Brown,20,Male,AB+,Heart Disease,Aspirin Therapy,Pulmonology,2021-06-07,2021-06-26,19,Improved,No,9,170,92,57,298,32.6,134,Medicaid,8733.9
+P0230,Amit Rao,28,Other,O-,Heart Disease,Bypass Surgery,Orthopedics,2025-04-14,2025-05-12,28,Improved,No,3,142,98,64,273,32.9,166,Medicare,31348.98
+P0231,Sunita Joshi,66,Female,A-,Anxiety,SSRIs,General Medicine,2021-03-20,2021-03-21,1,Recovered,No,1,177,86,107,108,33.6,165,Private,24055.52
+P0232,Rekha Taylor,18,Female,A-,Cancer,Immunotherapy,Cardiology,2025-11-08,2025-11-22,14,Improved,No,10,179,93,82,128,43.2,243,Medicare,39583
+P0233,William Joshi,28,Male,A-,Arthritis,Corticosteroid Injection,Cardiology,2022-11-21,2022-11-28,7,Recovered,No,6,163,93,62,203,16.2,172,Government,34544.45
+P0234,Mark Mehta,51,Male,O+,Thyroid Disorder,Surgery,Oncology,2024-02-06,2024-02-26,20,Improved,No,5,116,86,90,270,32.2,165,Medicaid,18825.54
+P0235,Michael Gupta,33,Male,B+,Migraine,Topiramate,Pulmonology,2025-01-03,2025-01-29,26,Stable,No,1,102,73,87,172,38.8,260,Medicare,30894.26
+P0236,Rahul Singh,36,Other,A+,Obesity,Diet Program,Psychiatry,2020-12-27,2020-12-30,3,Improved,No,10,100,98,57,255,27.1,222,Government,30891.3
+P0237,Amanda Sharma,43,Female,A-,Thyroid Disorder,Radioactive Iodine,General Medicine,2022-03-08,2022-03-10,2,Stable,No,3,156,104,69,227,20.9,129,None,18307.13
+P0238,Emily Williams,69,Female,B-,Kidney Disease,ACE Inhibitors,Endocrinology,2025-10-21,2025-10-22,1,Stable,No,5,101,95,73,255,40.1,269,Medicaid,17730.71
+P0239,Ritu Williams,18,Other,O+,Arthritis,Physical Therapy,Endocrinology,2024-07-25,2024-08-11,17,Recovered,No,10,154,78,76,99,39.3,185,Medicare,43867.6
+P0240,Jennifer Garcia,49,Other,AB+,Back Pain,Epidural Injection,Cardiology,2025-02-22,2025-03-16,22,Improved,No,6,151,67,71,87,27.1,176,None,34007.19
+P0241,Priya Mehta,49,Female,AB-,Arthritis,Ibuprofen,Psychiatry,2024-06-22,2024-07-14,22,Stable,No,4,99,95,66,191,25.1,175,Government,44768.65
+P0242,Sanjay Mehta,44,Male,A+,Heart Disease,Beta Blockers,Pulmonology,2022-10-19,2022-11-15,27,Stable,No,9,103,67,60,243,43.7,246,Medicare,30884.44
+P0243,James Garcia,53,Male,AB-,Obesity,Orlistat,Pulmonology,2025-09-24,2025-10-03,9,Improved,No,3,96,93,106,178,29.9,258,Private,2111.85
+P0244,Amanda Smith,19,Female,B+,Diabetes,Insulin Therapy,Psychiatry,2024-04-03,2024-04-22,19,Recovered,No,6,168,76,66,210,23.6,188,Medicare,23831.6
+P0245,David Johnson,64,Male,B-,Thyroid Disorder,Surgery,Pulmonology,2023-02-19,2023-03-06,15,Recovered,No,7,163,103,69,278,18.9,189,Government,40302.34
+P0246,Rekha Garcia,19,Female,A-,Asthma,Bronchodilators,General Medicine,2025-08-08,2025-08-13,5,Deceased,No,7,158,106,75,271,30.1,184,Government,28325.85
+P0247,Ravi Garcia,30,Male,B+,Obesity,Bariatric Surgery,General Medicine,2022-11-30,2022-12-12,12,Improved,No,9,122,82,56,175,19.5,275,None,10348.43
+P0248,Thomas Garcia,75,Male,A-,Cancer,Chemotherapy,Pulmonology,2024-04-09,2024-04-29,20,Improved,No,2,111,100,106,156,28.2,276,Government,28796.06
+P0249,James Smith,55,Male,A-,Migraine,Lifestyle Modification,Psychiatry,2024-06-07,2024-06-16,9,Deteriorated,No,5,165,93,83,175,20.9,125,Government,6689.48
+P0250,Suresh Kumar,26,Male,AB-,Cancer,Immunotherapy,General Medicine,2020-08-08,2020-08-09,1,Stable,No,5,100,66,71,228,20.5,219,Government,15813.85
+P0251,Anil Sharma,22,Male,AB+,Anemia,Erythropoietin,General Medicine,2023-08-25,2023-09-22,28,Improved,No,10,124,95,83,104,44.1,258,Medicaid,9263.31
+P0252,Laura Rao,62,Female,AB-,Obesity,Orlistat,Oncology,2021-01-01,2021-01-16,15,Improved,No,1,123,69,74,72,16,154,Medicare,17522.3
+P0253,David Rao,47,Male,AB+,Back Pain,Physical Therapy,General Medicine,2024-03-10,2024-03-17,7,Improved,No,2,145,85,70,111,36.7,219,Government,41507.13
+P0254,Lisa Mehta,54,Female,O-,Anemia,Erythropoietin,Pulmonology,2024-08-18,2024-08-25,7,Deteriorated,No,4,107,78,62,233,29.2,235,Private,13970.64
+P0255,Daniel Sharma,41,Male,O-,Hypertension,Metoprolol,Cardiology,2023-01-07,2023-01-12,5,Stable,No,8,119,65,64,73,30.3,207,Medicare,21302.03
+P0256,Anita Smith,28,Female,B-,Thyroid Disorder,Methimazole,Endocrinology,2020-08-17,2020-08-26,9,Stable,No,2,159,90,66,119,42,184,Medicare,40953.91
+P0257,Amanda Joshi,22,Female,A-,Heart Disease,Bypass Surgery,Orthopedics,2021-01-19,2021-02-05,17,Stable,Yes,9,150,84,98,149,43.2,160,None,31643.63
+P0258,Ritu Shah,64,Female,AB-,Cancer,Chemotherapy,Oncology,2022-06-11,2022-06-15,4,Recovered,No,1,131,60,65,273,24,150,Medicaid,20092.51
+P0259,Vijay Joshi,38,Male,O-,Obesity,Lifestyle Modification,Cardiology,2023-10-18,2023-11-17,30,Deceased,No,9,97,82,96,109,36.3,147,Medicare,6728.46
+P0260,Priya Williams,63,Female,O+,Migraine,Topiramate,Nephrology,2022-10-23,2022-11-21,29,Recovered,No,8,161,78,89,248,30.2,265,Medicaid,9738.02
+P0261,Laura Patel,26,Female,O-,COPD,Oxygen Therapy,General Medicine,2025-01-14,2025-01-24,10,Stable,No,10,136,89,55,268,34.5,217,Medicaid,36816.06
+P0262,Vijay Davis,67,Male,A+,Heart Disease,Bypass Surgery,Oncology,2021-09-23,2021-10-13,20,Improved,No,3,172,80,62,94,31.2,137,Government,2666.97
+P0263,Pradeep Kumar,22,Male,A-,Kidney Disease,Kidney Transplant,Neurology,2025-06-29,2025-07-16,17,Stable,No,8,96,83,69,225,36.8,123,Medicare,46545.45
+P0264,Anita Johnson,71,Female,AB+,Thyroid Disorder,Radioactive Iodine,General Medicine,2020-08-26,2020-09-22,27,Stable,Yes,4,95,106,59,283,24.8,175,Government,48049.04
+P0265,Sanjay Wilson,40,Male,O-,COPD,Steroids,Psychiatry,2021-03-08,2021-04-02,25,Stable,Yes,7,176,89,99,240,28.4,146,Government,8757.06
+P0266,Lisa Jones,63,Female,O-,Cancer,Surgery,Oncology,2023-08-22,2023-09-19,28,Improved,No,5,131,98,70,214,31.8,216,Medicare,38402.56
+P0267,Michael Sharma,22,Male,B+,Arthritis,Ibuprofen,Neurology,2025-10-21,2025-10-26,5,Deceased,No,5,90,79,69,124,40.8,125,Private,38690.39
+P0268,John Gupta,35,Male,AB-,Arthritis,Methotrexate,Neurology,2022-10-20,2022-10-28,8,Improved,No,3,101,96,80,215,42.6,139,Medicaid,36317.24
+P0269,Kavita Taylor,56,Female,AB+,Diabetes,Glipizide,Psychiatry,2020-11-17,2020-12-12,25,Recovered,No,1,134,87,81,292,19.5,178,Private,37510.09
+P0270,Amit Smith,37,Male,B+,Depression,Cognitive Behavioral Therapy,Oncology,2021-09-19,2021-09-21,2,Stable,No,3,147,108,93,217,30.6,176,None,21880.82
+P0271,Mark Verma,69,Male,B-,Arthritis,Ibuprofen,Pulmonology,2024-06-20,2024-07-07,17,Improved,No,9,107,90,90,120,30.1,266,Government,10206.92
+P0272,David Smith,29,Male,B+,Hypertension,Lifestyle Modification,Psychiatry,2024-09-30,2024-10-12,12,Improved,No,8,134,98,96,76,38.3,163,Medicare,49388.77
+P0273,Sanjay Shah,65,Male,B-,Asthma,Albuterol Inhaler,Pulmonology,2021-04-05,2021-04-29,24,Recovered,Yes,4,126,60,76,247,39.3,198,Government,22778.05
+P0274,Neha Davis,79,Female,A-,Kidney Disease,ACE Inhibitors,General Medicine,2020-03-16,2020-03-29,13,Improved,No,1,95,76,65,85,24.2,278,Medicare,13928.43
+P0275,Emily Kumar,20,Female,A+,Arthritis,Corticosteroid Injection,Endocrinology,2022-08-04,2022-08-17,13,Improved,No,9,130,91,110,222,31.4,167,Private,10344.32
+P0276,Thomas Rao,60,Male,AB+,Obesity,Diet Program,Psychiatry,2021-10-05,2021-10-06,1,Improved,Yes,5,135,100,74,130,44.9,248,Private,14155.97
+P0277,Neha Joshi,37,Female,O-,Depression,Psychotherapy,General Medicine,2021-07-16,2021-07-19,3,Stable,Yes,5,176,99,110,230,35.9,226,Medicare,12397.86
+P0278,Meena Gupta,43,Female,A-,Thyroid Disorder,Methimazole,General Medicine,2023-06-19,2023-07-12,23,Stable,No,9,107,87,104,107,35,264,Government,45897.05
+P0279,Rajesh Sharma,58,Male,B-,Cancer,Immunotherapy,Neurology,2024-08-11,2024-08-21,10,Improved,No,5,109,109,67,97,19.8,126,Medicaid,38241.15
+P0280,Rahul Johnson,28,Male,AB+,Migraine,Botox Injections,Nephrology,2021-07-03,2021-07-20,17,Stable,Yes,1,173,83,66,288,27.2,241,Private,7306.88
+P0281,Ashley Joshi,43,Female,AB+,Back Pain,NSAIDs,Nephrology,2020-09-27,2020-10-03,6,Deteriorated,No,10,168,91,99,153,41.1,183,None,21664.01
+P0282,Mark Taylor,85,Male,B-,Anemia,Iron Supplements,Cardiology,2025-11-02,2025-11-06,4,Improved,No,1,121,93,89,171,44.5,130,None,28106.2
+P0283,Deepak Rao,77,Male,B+,Asthma,Bronchodilators,General Medicine,2023-04-20,2023-05-10,20,Deteriorated,No,9,108,89,108,235,29.1,248,Medicare,6101.99
+P0284,Robert Sharma,40,Male,B+,Obesity,Orlistat,Pulmonology,2025-02-05,2025-02-08,3,Improved,No,9,105,65,62,250,29,212,Medicare,4722.67
+P0285,Anita Patel,60,Female,B-,Kidney Disease,ACE Inhibitors,Cardiology,2021-10-26,2021-11-23,28,Recovered,Yes,3,143,79,74,256,38.3,234,Private,14794.64
+P0286,Neha Sharma,76,Female,O+,Obesity,Diet Program,Orthopedics,2020-01-24,2020-02-13,20,Deteriorated,No,4,117,97,97,191,29.2,233,Medicaid,4430.54
+P0287,Meena Verma,41,Female,B+,Asthma,Albuterol Inhaler,Cardiology,2023-11-30,2023-12-02,2,Recovered,No,3,175,96,108,224,24.7,142,None,2927.05
+P0288,Lisa Wilson,40,Female,O+,Obesity,Bariatric Surgery,Psychiatry,2020-05-26,2020-05-29,3,Stable,No,2,137,84,107,87,38,260,None,3713.83
+P0289,Jennifer Shah,44,Female,O-,Kidney Disease,Dialysis,General Medicine,2021-03-23,2021-04-11,19,Stable,No,5,101,90,101,246,33.5,193,Government,21639.15
+P0290,Melissa Miller,81,Female,AB+,Obesity,Orlistat,Orthopedics,2022-08-11,2022-09-03,23,Improved,No,10,90,67,56,189,34.1,150,Medicare,37004.68
+P0291,John Davis,45,Male,A+,Diabetes,Insulin Therapy,Neurology,2023-02-27,2023-03-08,9,Stable,No,10,128,92,90,152,38.2,149,Government,34448.87
+P0292,James Garcia,78,Male,A+,Back Pain,Physical Therapy,Nephrology,2021-07-10,2021-07-26,16,Recovered,No,6,158,81,84,270,39.6,134,Government,41837.73
+P0293,Sarah Johnson,26,Female,A+,Asthma,Montelukast,General Medicine,2020-05-07,2020-05-18,11,Deceased,No,6,111,96,93,169,21.4,149,None,43297.39
+P0294,William Joshi,65,Male,B+,Obesity,Bariatric Surgery,Endocrinology,2022-06-04,2022-06-21,17,Improved,Yes,8,137,110,57,269,21.9,143,Government,22466.82
+P0295,William Miller,57,Male,O+,Back Pain,Epidural Injection,General Medicine,2021-08-09,2021-09-03,25,Deteriorated,No,1,176,68,68,255,17.1,219,Private,35827.03
+P0296,Lisa Singh,60,Female,O-,Obesity,Lifestyle Modification,Neurology,2021-02-26,2021-03-15,17,Stable,Yes,5,92,96,103,149,34.5,173,Medicare,16383.58
+P0297,Neha Gupta,38,Female,B-,Arthritis,Ibuprofen,Endocrinology,2020-03-03,2020-03-23,20,Improved,No,10,116,94,77,210,25.2,156,Government,47192.25
+P0298,Paul Smith,74,Male,O-,Diabetes,Insulin Therapy,Cardiology,2020-04-28,2020-05-14,16,Deteriorated,No,8,103,84,58,92,28.4,165,None,35381.54
+P0299,Pradeep Davis,28,Male,O+,Cancer,Immunotherapy,Nephrology,2021-06-23,2021-06-26,3,Stable,No,3,102,89,74,245,34.7,239,None,23792.02
+P0300,James Smith,76,Male,O-,Obesity,Lifestyle Modification,Nephrology,2020-09-24,2020-10-10,16,Recovered,Yes,2,149,70,73,266,26.1,267,Medicaid,6806
+P0301,Ritu Davis,77,Female,O-,Anxiety,Mindfulness Program,Pulmonology,2022-09-04,2022-09-24,20,Recovered,No,10,151,84,59,157,22,271,Medicaid,21841.85
+P0302,Sushma Singh,80,Female,A+,Hypertension,Lifestyle Modification,Nephrology,2023-08-25,2023-09-12,18,Recovered,No,8,112,79,80,87,33.3,272,Private,38681.5
+P0303,Rajesh Wilson,18,Male,AB+,Back Pain,NSAIDs,Oncology,2021-09-03,2021-09-18,15,Improved,No,5,168,96,83,120,22,201,None,15336.9
+P0304,Laura Sharma,83,Other,B-,Anxiety,SSRIs,General Medicine,2023-04-19,2023-04-21,2,Improved,No,1,96,60,100,213,39.8,211,Medicare,5930.07
+P0305,Jessica Smith,66,Female,B+,Anxiety,Mindfulness Program,Pulmonology,2024-11-17,2024-12-05,18,Recovered,Yes,3,150,68,67,212,27.2,212,Private,42078.15
+P0306,Rahul Gupta,80,Male,AB-,Anemia,Blood Transfusion,Oncology,2021-07-10,2021-07-13,3,Recovered,No,9,148,110,99,224,43,279,Medicare,9399.97
+P0307,Anil Brown,18,Male,AB-,Kidney Disease,Kidney Transplant,Oncology,2022-08-27,2022-09-19,23,Improved,No,10,159,96,78,78,44.4,265,Private,24421.77
+P0308,Thomas Mehta,77,Male,O+,COPD,Bronchodilators,Orthopedics,2025-11-13,2025-12-12,29,Stable,No,10,150,100,102,239,43.9,139,Medicaid,34361.66
+P0309,James Davis,19,Male,O+,Obesity,Diet Program,Psychiatry,2025-09-30,2025-10-29,29,Improved,No,5,143,82,106,145,24.4,129,Private,34905.03
+P0310,Amy Patel,24,Female,A+,Anemia,Erythropoietin,Pulmonology,2020-04-21,2020-05-01,10,Improved,No,5,154,64,109,270,24.1,153,Private,30981.99
+P0311,Amy Gupta,75,Female,AB-,Depression,Cognitive Behavioral Therapy,Nephrology,2022-12-06,2023-01-01,26,Stable,No,3,113,93,110,78,25.9,141,Medicare,48383.61
+P0312,Pooja Jones,39,Female,B-,Heart Disease,Statins,Endocrinology,2020-08-10,2020-08-31,21,Improved,No,9,96,70,84,172,29.8,241,Medicare,37434.45
+P0313,Jessica Garcia,51,Female,AB+,Asthma,Bronchodilators,Nephrology,2020-02-18,2020-02-28,10,Deteriorated,No,6,138,103,75,205,35.8,130,Medicaid,5319.53
+P0314,Neha Smith,52,Female,O-,Arthritis,Ibuprofen,Nephrology,2022-11-11,2022-12-02,21,Improved,No,3,176,107,70,257,35.5,169,Medicaid,26237.64
+P0315,Rahul Singh,19,Male,B-,Anxiety,Benzodiazepines,Psychiatry,2025-11-21,2025-11-25,4,Stable,Yes,10,118,106,73,134,21.6,126,Medicaid,31160.16
+P0316,Kavita Singh,34,Female,O+,Anxiety,SSRIs,Neurology,2021-03-30,2021-04-22,23,Recovered,No,6,149,102,59,233,29.1,190,Government,38583.28
+P0317,Neha Verma,66,Female,A-,Anxiety,Therapy,Neurology,2020-09-03,2020-09-12,9,Deceased,Yes,8,112,88,59,195,44.4,171,Government,30709.94
+P0318,Ashley Shah,31,Female,AB+,Cancer,Immunotherapy,Endocrinology,2022-11-26,2022-11-30,4,Recovered,No,1,163,106,71,268,28.9,247,None,7868.29
+P0319,James Williams,18,Male,O-,COPD,Steroids,Endocrinology,2025-05-12,2025-05-26,14,Improved,No,6,159,74,55,168,43.7,243,None,6499.58
+P0320,Vijay Johnson,61,Male,AB-,Hypertension,Lifestyle Modification,General Medicine,2023-04-02,2023-04-23,21,Recovered,No,6,95,84,97,118,24.7,219,Private,44874.8
+P0321,Amanda Shah,35,Female,A+,Diabetes,Insulin Therapy,Orthopedics,2020-04-13,2020-05-07,24,Deceased,No,8,152,84,59,272,31.7,198,Private,25234.37
+P0322,James Verma,69,Male,AB-,Hypertension,Amlodipine,General Medicine,2025-11-12,2025-11-27,15,Deteriorated,No,1,109,107,92,129,42.8,129,Medicaid,36905.26
+P0323,Rajesh Sharma,40,Male,B-,Anemia,Iron Supplements,Nephrology,2023-06-12,2023-07-09,27,Stable,No,10,168,70,108,221,17.9,147,Private,6151.89
+P0324,Ashley Smith,69,Female,B+,Depression,SSRIs,Orthopedics,2021-07-16,2021-07-27,11,Stable,No,6,95,97,66,155,17.8,190,Medicare,7491.22
+P0325,Mark Verma,35,Male,B+,Hypertension,Lifestyle Modification,Endocrinology,2021-10-08,2021-10-09,1,Deteriorated,No,8,90,60,66,92,36.5,271,Government,44402.3
+P0326,Ravi Miller,75,Male,B-,Anxiety,SSRIs,Pulmonology,2021-12-15,2022-01-04,20,Stable,Yes,4,153,99,60,230,40,197,Private,17718.75
+P0327,Pradeep Taylor,64,Other,A+,Thyroid Disorder,Methimazole,Orthopedics,2025-03-16,2025-04-10,25,Stable,Yes,1,125,63,67,98,39.1,241,None,25126.98
+P0328,David Mehta,60,Male,O-,Kidney Disease,Kidney Transplant,General Medicine,2020-06-26,2020-06-30,4,Stable,No,8,112,70,105,77,30.1,149,Medicare,4007.55
+P0329,James Joshi,32,Male,AB-,Depression,Cognitive Behavioral Therapy,Orthopedics,2021-02-05,2021-02-13,8,Stable,Yes,10,138,74,59,190,33,133,Government,44579.2
+P0330,Rajesh Jones,42,Male,B-,Anemia,Erythropoietin,Cardiology,2023-01-09,2023-01-16,7,Improved,Yes,6,178,96,58,141,20,239,None,23199.66
+P0331,Lisa Patel,47,Female,AB+,Hypertension,Lifestyle Modification,Orthopedics,2025-11-07,2025-11-23,16,Deteriorated,No,6,165,90,108,188,24.1,229,Medicaid,36940.85
+P0332,Mark Gupta,18,Male,A+,Anxiety,Benzodiazepines,General Medicine,2020-06-13,2020-06-29,16,Stable,No,9,94,87,88,170,29.9,145,Medicare,22895.85
+P0333,Rekha Johnson,55,Female,AB+,Heart Disease,Aspirin Therapy,Pulmonology,2020-03-06,2020-03-22,16,Stable,No,3,180,89,109,216,37.7,126,Government,48832.83
+P0334,Emily Jones,18,Female,O-,Thyroid Disorder,Levothyroxine,General Medicine,2024-04-25,2024-05-24,29,Stable,No,2,94,78,82,262,23.8,276,Private,27350.54
+P0335,Emily Verma,32,Female,A-,Anxiety,Therapy,Psychiatry,2025-03-21,2025-04-10,20,Recovered,No,9,112,101,90,250,17.9,172,Medicare,7351.09
+P0336,Amy Shah,46,Female,O+,Depression,SNRIs,Neurology,2022-12-31,2023-01-17,17,Stable,Yes,9,96,64,78,158,29.1,248,Medicare,26570.79
+P0337,Sunita Shah,76,Female,O+,Hypertension,Lisinopril,Endocrinology,2024-05-19,2024-06-17,29,Recovered,No,1,103,70,72,98,36.2,247,Medicare,7949.65
+P0338,Amanda Gupta,78,Other,O-,Depression,Psychotherapy,Neurology,2024-12-23,2025-01-16,24,Stable,No,6,114,64,56,293,39.3,253,Medicare,32411.27
+P0339,Jennifer Davis,74,Female,B+,Obesity,Bariatric Surgery,Pulmonology,2021-06-24,2021-07-23,29,Stable,No,3,123,74,85,165,44.2,132,Medicaid,7842.75
+P0340,Anil Gupta,38,Male,O-,Heart Disease,Aspirin Therapy,Nephrology,2020-06-17,2020-06-28,11,Improved,No,3,123,83,66,122,32.3,128,Medicare,33444.89
+P0341,Sushma Davis,56,Female,AB-,Hypertension,Lisinopril,Pulmonology,2024-07-15,2024-08-14,30,Improved,No,5,148,80,64,71,44.1,259,None,48792.25
+P0342,Jennifer Gupta,74,Other,B-,Depression,SSRIs,General Medicine,2025-05-15,2025-06-13,29,Recovered,Yes,1,104,79,56,172,33.9,176,Medicaid,22575.65
+P0343,Neha Shah,20,Female,O-,Hypertension,Lifestyle Modification,Nephrology,2020-12-23,2021-01-09,17,Improved,No,7,130,98,93,200,43.4,212,Medicare,20179.12
+P0344,Deepak Johnson,62,Male,A-,Arthritis,Corticosteroid Injection,Nephrology,2020-12-24,2020-12-31,7,Stable,No,10,143,88,73,111,39.4,228,Government,36565.97
+P0345,William Miller,60,Male,AB-,Hypertension,Lifestyle Modification,Neurology,2020-12-28,2020-12-29,1,Improved,No,5,143,71,90,188,36.6,155,Private,10363.25
+P0346,Ritu Wilson,56,Female,B+,Obesity,Diet Program,Pulmonology,2022-07-08,2022-07-09,1,Stable,No,7,123,79,95,283,34.5,151,Medicare,32863.74
+P0347,Pooja Sharma,33,Female,O-,Back Pain,Epidural Injection,Psychiatry,2025-07-12,2025-07-15,3,Improved,No,2,164,90,91,181,41.2,280,Medicaid,34452.69
+P0348,Priya Mehta,38,Female,B-,Kidney Disease,Dialysis,Pulmonology,2021-08-21,2021-09-01,11,Improved,No,2,135,70,58,139,26.5,211,Government,2911.39
+P0349,Lisa Patel,59,Female,AB+,Thyroid Disorder,Radioactive Iodine,Psychiatry,2023-05-18,2023-05-27,9,Stable,No,8,102,94,92,160,39.9,123,None,7279
+P0350,Sushma Kumar,45,Female,B+,Asthma,Corticosteroids,General Medicine,2022-02-10,2022-03-08,26,Deteriorated,No,2,158,105,90,249,37.9,149,Private,21158.64
+P0351,Deepak Johnson,35,Male,O+,Thyroid Disorder,Surgery,Pulmonology,2025-11-12,2025-12-07,25,Deceased,No,4,180,79,56,260,39.6,176,Government,6871.37
+P0352,Vijay Brown,32,Male,A-,Hypertension,Lisinopril,Orthopedics,2025-06-06,2025-07-01,25,Improved,No,1,103,62,105,238,30.9,135,None,23719.58
+P0353,Kavita Kumar,44,Female,B-,Kidney Disease,ACE Inhibitors,Endocrinology,2022-01-26,2022-02-17,22,Improved,No,10,108,107,72,218,26.1,161,Medicaid,42829.34
+P0354,Kavita Wilson,19,Female,A-,COPD,Oxygen Therapy,General Medicine,2022-02-23,2022-03-05,10,Recovered,No,8,90,106,61,124,42.7,241,Government,18639.92
+P0355,Jessica Brown,45,Female,A-,COPD,Oxygen Therapy,Psychiatry,2024-07-27,2024-07-31,4,Stable,No,1,105,89,62,203,19.9,212,None,35384.18
+P0356,Jessica Rao,76,Female,AB-,Kidney Disease,Diet Modification,Neurology,2024-12-23,2024-12-31,8,Improved,No,1,144,72,109,87,41.9,241,Private,46984.56
+P0357,Thomas Singh,33,Male,AB+,Asthma,Bronchodilators,Endocrinology,2024-06-28,2024-07-21,23,Improved,No,4,111,64,78,120,25.8,272,Medicare,42279.46
+P0358,Mark Wilson,52,Male,B+,Back Pain,Surgery,Oncology,2023-12-29,2024-01-14,16,Stable,No,4,152,92,72,107,38.3,147,Private,6548.41
+P0359,Amit Singh,81,Male,AB-,Anemia,Iron Supplements,Psychiatry,2022-01-03,2022-01-16,13,Stable,No,8,109,79,94,229,18.8,139,Government,33223.49
+P0360,William Garcia,82,Male,O+,Arthritis,Methotrexate,Oncology,2020-03-13,2020-04-07,25,Recovered,Yes,9,105,84,83,150,40.7,233,Government,23252.98
+P0361,Rekha Rao,67,Female,AB+,Obesity,Lifestyle Modification,General Medicine,2025-07-02,2025-07-24,22,Improved,No,10,163,90,85,213,40.8,249,Medicaid,3258.99
+P0362,Ritu Smith,25,Female,B-,Diabetes,Metformin,Cardiology,2021-06-09,2021-07-06,27,Improved,Yes,4,170,81,79,94,28.4,211,Government,20890.52
+P0363,Amy Singh,26,Female,AB-,Thyroid Disorder,Radioactive Iodine,General Medicine,2021-04-13,2021-04-24,11,Recovered,No,1,131,62,84,238,41,265,Medicaid,25980.61
+P0364,James Williams,67,Male,B-,Depression,SSRIs,Orthopedics,2025-06-23,2025-06-27,4,Stable,No,7,133,91,87,277,38.2,206,Medicare,8748.05
+P0365,Sunita Davis,45,Female,AB-,Arthritis,Methotrexate,Oncology,2020-07-13,2020-07-23,10,Deceased,No,2,118,99,102,93,36.8,268,Medicare,5189.31
+P0366,Vijay Rao,82,Male,B+,Back Pain,Epidural Injection,Orthopedics,2024-11-08,2024-11-30,22,Improved,Yes,9,143,85,71,229,30.9,260,Medicaid,9439.74
+P0367,Amanda Mehta,73,Female,B-,Cancer,Chemotherapy,Pulmonology,2025-11-09,2025-11-16,7,Improved,No,2,120,69,102,245,38.2,231,Medicare,20807.88
+P0368,Deepak Patel,50,Male,B-,Anemia,B12 Injections,Orthopedics,2024-07-20,2024-07-28,8,Recovered,No,1,93,75,106,281,25,244,Government,28211.34
+P0369,Rahul Mehta,53,Male,A-,Anemia,B12 Injections,Cardiology,2020-06-21,2020-07-15,24,Improved,No,6,97,65,75,224,24.6,136,Medicare,45078.46
+P0370,Rekha Joshi,32,Female,B-,Kidney Disease,Dialysis,General Medicine,2025-11-07,2025-11-29,22,Stable,No,7,122,91,60,130,33.4,200,Medicare,16799.65
+P0371,Suresh Patel,45,Male,O+,Arthritis,Corticosteroid Injection,Cardiology,2024-07-30,2024-08-08,9,Deteriorated,No,4,152,94,78,249,43.5,201,Government,27514.38
+P0372,John Rao,20,Male,B-,Anemia,Iron Supplements,Orthopedics,2020-08-11,2020-09-03,23,Deteriorated,No,9,122,95,79,149,34.5,212,Medicare,45206.28
+P0373,Michael Mehta,56,Male,AB-,Hypertension,Amlodipine,Pulmonology,2023-05-03,2023-05-10,7,Deteriorated,No,2,146,100,75,295,39.6,224,Medicare,39571.21
+P0374,Sarah Brown,30,Female,AB-,Thyroid Disorder,Methimazole,Oncology,2022-12-04,2022-12-21,17,Recovered,No,3,167,106,107,210,37.4,236,Government,34912.9
+P0375,Pradeep Rao,58,Male,B+,Kidney Disease,Dialysis,Pulmonology,2021-03-29,2021-04-04,6,Recovered,No,5,166,103,81,272,43.2,235,Medicaid,24179.09
+P0376,Ritu Shah,28,Female,O+,Anxiety,Therapy,Orthopedics,2022-01-15,2022-01-28,13,Deteriorated,No,4,92,61,90,235,33.7,178,Government,45388.82
+P0377,Paul Brown,51,Male,B-,Asthma,Albuterol Inhaler,Endocrinology,2024-02-16,2024-02-22,6,Deteriorated,No,4,91,105,88,181,38.4,236,Government,41449.24
+P0378,Neha Rao,81,Female,B-,Anxiety,SSRIs,Orthopedics,2024-11-01,2024-11-29,28,Recovered,Yes,5,126,106,98,118,28.1,224,Medicaid,39726.94
+P0379,Sanjay Johnson,76,Male,A+,Hypertension,Lisinopril,Oncology,2025-04-04,2025-04-09,5,Deteriorated,Yes,1,177,73,100,168,36.5,272,None,13183.17
+P0380,Melissa Johnson,23,Female,O-,Diabetes,Lifestyle Modification,Oncology,2025-08-28,2025-09-17,20,Improved,Yes,8,175,83,63,298,32.2,268,Medicare,9378.93
+P0381,James Miller,73,Male,O-,Asthma,Montelukast,Pulmonology,2021-04-23,2021-05-04,11,Recovered,No,5,153,77,102,162,42.9,192,Medicare,45188.24
+P0382,Sarah Garcia,37,Female,A+,COPD,Steroids,Orthopedics,2020-08-05,2020-08-12,7,Recovered,No,8,113,62,85,136,20.7,239,Medicare,22103.28
+P0383,Daniel Garcia,76,Male,A+,Obesity,Lifestyle Modification,Orthopedics,2021-08-29,2021-09-02,4,Improved,No,4,126,71,108,113,37.7,189,Medicaid,28380.75
+P0384,Sushma Brown,27,Female,AB-,Heart Disease,Bypass Surgery,Neurology,2021-01-21,2021-02-19,29,Improved,Yes,2,177,103,62,170,26.8,147,Medicare,41930.37
+P0385,Ravi Taylor,18,Male,AB+,Depression,SSRIs,Pulmonology,2025-01-29,2025-02-09,11,Deteriorated,No,10,117,63,106,234,24.2,134,Private,37318.1
+P0386,Anil Joshi,69,Male,B+,Hypertension,Lisinopril,Oncology,2022-05-02,2022-05-08,6,Improved,No,5,126,101,103,237,20.5,196,None,24796.83
+P0387,Emily Miller,43,Female,O-,Obesity,Diet Program,Oncology,2024-05-08,2024-05-24,16,Improved,No,1,101,108,82,277,26.7,167,Medicare,21988.24
+P0388,Rekha Garcia,85,Female,A-,Anemia,Iron Supplements,Nephrology,2023-04-05,2023-04-20,15,Improved,No,1,128,69,63,245,42.2,183,Private,26393.06
+P0389,Jennifer Brown,70,Female,A-,Hypertension,Lifestyle Modification,Endocrinology,2022-11-03,2022-11-15,12,Improved,No,1,154,61,62,259,35.2,165,Medicare,39415.77
+P0390,Ritu Smith,76,Female,A+,Back Pain,Surgery,Pulmonology,2022-12-21,2023-01-01,11,Deceased,Yes,9,117,71,60,261,44.5,186,Private,43644.98
+P0391,Rahul Patel,79,Male,A-,Obesity,Diet Program,Psychiatry,2025-06-16,2025-06-26,10,Stable,Yes,4,178,103,99,242,27.5,197,Private,4837.94
+P0392,Meena Sharma,44,Female,AB-,Obesity,Orlistat,General Medicine,2022-09-17,2022-10-01,14,Stable,Yes,3,114,65,74,267,29.4,241,Medicare,21383.02
+P0393,Robert Wilson,49,Male,A+,Heart Disease,Statins,Endocrinology,2024-05-23,2024-05-25,2,Improved,No,5,170,105,82,176,40.6,268,Medicare,29994.06
+P0394,Thomas Wilson,80,Male,AB-,Heart Disease,Aspirin Therapy,Psychiatry,2025-12-03,2025-12-04,1,Improved,No,6,160,64,72,298,34.8,241,Medicare,6288.57
+P0395,Deepak Shah,78,Male,O-,Depression,Psychotherapy,Psychiatry,2022-08-08,2022-08-25,17,Recovered,No,7,167,105,97,189,19.8,195,Medicare,36288.25
+P0396,Sushma Taylor,44,Female,A+,Arthritis,Ibuprofen,Pulmonology,2025-05-31,2025-06-05,5,Recovered,No,1,167,91,61,273,28.1,246,None,15530.77
+P0397,Emily Patel,40,Female,O+,Thyroid Disorder,Levothyroxine,Orthopedics,2020-09-17,2020-09-28,11,Improved,No,9,105,95,69,194,23.5,207,Government,39351.85
+P0398,Jennifer Taylor,31,Female,B+,Migraine,Sumatriptan,Endocrinology,2024-11-28,2024-12-24,26,Improved,Yes,2,103,110,94,226,38.7,146,Private,41268.71
+P0399,Emily Patel,55,Female,A+,Migraine,Botox Injections,Endocrinology,2025-09-03,2025-09-19,16,Stable,No,7,109,101,78,155,39.8,151,Government,42505.46
+P0400,Melissa Smith,54,Female,AB+,COPD,Oxygen Therapy,Oncology,2020-12-15,2020-12-24,9,Improved,No,7,136,100,97,132,20.4,255,Medicare,21375.25
+P0401,Jennifer Johnson,21,Female,B+,Obesity,Orlistat,Endocrinology,2020-02-10,2020-03-04,23,Stable,No,1,100,81,75,172,44.5,162,Medicaid,21986.58
+P0402,Thomas Rao,71,Male,AB-,Anxiety,Therapy,Neurology,2023-07-08,2023-08-07,30,Improved,No,10,157,99,64,249,27.7,172,None,44435.2
+P0403,Jessica Shah,56,Female,A+,Hypertension,Lisinopril,Pulmonology,2023-10-02,2023-10-15,13,Stable,No,3,156,94,73,124,18.7,261,Private,15956.49
+P0404,Laura Wilson,51,Female,O+,Heart Disease,Statins,Cardiology,2024-09-27,2024-10-14,17,Recovered,No,8,137,76,95,199,26.3,132,Medicaid,37949.72
+P0405,Amanda Smith,48,Female,AB-,Back Pain,NSAIDs,Pulmonology,2023-12-05,2023-12-15,10,Improved,No,6,138,93,102,133,19.1,252,Private,29327.27
+P0406,David Brown,28,Male,AB-,Hypertension,Lisinopril,Orthopedics,2024-10-06,2024-11-04,29,Recovered,No,5,147,64,78,243,31.3,270,Medicare,28168.94
+P0407,Emily Brown,38,Other,A-,Asthma,Corticosteroids,General Medicine,2025-06-08,2025-07-01,23,Improved,No,6,157,67,99,124,29.2,128,Medicaid,37451.57
+P0408,Kavita Kumar,65,Female,O+,Kidney Disease,Diet Modification,Psychiatry,2020-06-13,2020-06-30,17,Recovered,No,1,129,83,74,145,30.1,156,None,7535.92
+P0409,William Sharma,33,Male,B+,COPD,Pulmonary Rehabilitation,Nephrology,2020-10-03,2020-10-31,28,Recovered,No,10,163,79,91,185,42.1,216,Government,24023.76
+P0410,Amanda Jones,75,Female,A+,Asthma,Montelukast,Oncology,2020-12-31,2021-01-26,26,Stable,No,3,139,74,80,156,31.7,233,Medicaid,36927.68
+P0411,Ritu Davis,33,Female,A+,Anemia,Iron Supplements,Cardiology,2022-02-27,2022-03-19,20,Improved,No,3,162,93,67,262,29.8,124,None,6454.02
+P0412,Pooja Wilson,74,Female,A-,Hypertension,Metoprolol,Cardiology,2024-07-03,2024-07-22,19,Recovered,No,2,133,87,66,176,16.7,255,Medicaid,16210.43
+P0413,Rajesh Patel,50,Male,AB+,Back Pain,Physical Therapy,Pulmonology,2021-09-23,2021-10-03,10,Deceased,Yes,3,97,99,75,116,16.8,134,None,15252.2
+P0414,Suresh Verma,43,Male,A+,Heart Disease,Beta Blockers,Oncology,2025-07-12,2025-07-29,17,Stable,Yes,4,104,77,58,151,29.5,224,None,3740.18
+P0415,Amy Kumar,49,Female,AB+,Back Pain,NSAIDs,Endocrinology,2023-06-01,2023-06-20,19,Improved,Yes,4,171,92,68,270,44.1,215,Medicaid,27251.77
+P0416,Rahul Jones,55,Male,O+,Anemia,B12 Injections,Nephrology,2020-01-03,2020-01-05,2,Deteriorated,No,9,124,98,71,284,35.7,209,Private,42200.71
+P0417,Daniel Wilson,26,Male,AB-,Arthritis,Ibuprofen,Pulmonology,2024-06-07,2024-06-30,23,Recovered,No,5,161,77,82,123,33.7,201,None,44254.61
+P0418,James Smith,44,Male,AB+,Obesity,Bariatric Surgery,Cardiology,2020-03-06,2020-04-05,30,Stable,No,8,167,90,55,300,16.3,164,Medicaid,20951.57
+P0419,Vijay Davis,21,Male,AB-,Cancer,Immunotherapy,Oncology,2021-05-20,2021-06-01,12,Deceased,No,4,166,82,79,115,40.3,122,Private,6675.81
+P0420,Rahul Mehta,63,Male,A-,Heart Disease,Aspirin Therapy,Orthopedics,2023-05-26,2023-06-21,26,Stable,Yes,7,153,83,57,141,30.3,275,None,10849.77
+P0421,Melissa Patel,42,Female,O+,Anemia,B12 Injections,Endocrinology,2020-09-24,2020-10-13,19,Recovered,No,1,106,76,91,289,22.6,253,Medicaid,36580.49
+P0422,Priya Brown,24,Female,A+,Thyroid Disorder,Radioactive Iodine,Neurology,2024-11-06,2024-12-04,28,Deceased,No,4,105,103,88,189,30.4,252,None,38071.57
+P0423,Laura Jones,58,Female,A+,Diabetes,Glipizide,Cardiology,2022-03-08,2022-03-19,11,Recovered,No,2,118,104,82,89,42.6,170,Medicare,8641.84
+P0424,Rahul Wilson,60,Male,AB-,Thyroid Disorder,Radioactive Iodine,Psychiatry,2022-10-09,2022-10-13,4,Improved,No,2,96,81,88,273,22.9,138,Medicaid,38899.6
+P0425,Amit Verma,66,Male,AB+,Depression,SSRIs,Nephrology,2021-06-06,2021-06-08,2,Deteriorated,No,5,97,79,94,230,28.5,146,Medicare,34039.44
+P0426,David Joshi,19,Male,A+,Obesity,Diet Program,Endocrinology,2025-03-16,2025-04-11,26,Improved,Yes,2,133,101,98,270,16.8,252,Medicaid,16745.59
+P0427,Amy Shah,34,Female,O+,Anemia,Erythropoietin,Nephrology,2023-12-26,2024-01-09,14,Improved,No,6,113,75,63,274,17.3,152,Medicaid,15927.51
+P0428,Rekha Gupta,78,Female,AB+,Arthritis,Methotrexate,General Medicine,2023-04-07,2023-04-19,12,Deceased,No,1,165,102,98,107,17.7,249,None,41049.6
+P0429,Pradeep Shah,26,Male,A-,Depression,Cognitive Behavioral Therapy,Nephrology,2025-05-02,2025-05-25,23,Stable,No,3,166,104,76,288,32.8,205,Medicare,30997.11
+P0430,Anita Garcia,46,Female,B+,Cancer,Chemotherapy,Orthopedics,2022-07-02,2022-07-25,23,Recovered,No,7,120,90,102,266,43.6,204,Private,40459.93
+P0431,Vijay Johnson,21,Male,B-,COPD,Bronchodilators,Psychiatry,2021-08-06,2021-08-16,10,Improved,No,6,95,61,67,120,24.2,176,Government,44326.42
+P0432,Anil Mehta,30,Male,AB+,Diabetes,Insulin Therapy,Endocrinology,2024-04-01,2024-04-22,21,Stable,No,10,133,73,74,186,23,215,Private,33214.98
+P0433,Rajesh Shah,42,Male,A+,COPD,Steroids,Orthopedics,2024-03-12,2024-03-23,11,Improved,Yes,4,95,108,94,220,21.5,257,None,15062.05
+P0434,Jennifer Wilson,80,Female,O-,Heart Disease,Aspirin Therapy,Endocrinology,2025-04-11,2025-05-07,26,Stable,No,3,111,92,79,262,41.6,250,None,19026.17
+P0435,Melissa Garcia,78,Female,O+,Arthritis,Corticosteroid Injection,Orthopedics,2020-05-29,2020-06-05,7,Recovered,No,6,147,75,80,125,24.9,216,Medicaid,28782.83
+P0436,Vijay Rao,74,Male,AB+,COPD,Pulmonary Rehabilitation,General Medicine,2022-07-31,2022-08-19,19,Recovered,No,5,169,81,82,185,29.6,224,Private,18691.84
+P0437,Sanjay Mehta,27,Male,B-,Depression,SSRIs,General Medicine,2023-04-21,2023-05-18,27,Improved,No,9,172,65,105,140,42.9,145,None,6370.1
+P0438,James Mehta,56,Male,A+,Migraine,Lifestyle Modification,Pulmonology,2022-02-19,2022-03-14,23,Stable,No,7,159,76,55,267,24.7,208,Medicare,39264.85
+P0439,Rekha Williams,47,Female,B-,Heart Disease,Beta Blockers,General Medicine,2025-04-27,2025-05-05,8,Improved,Yes,7,149,106,107,188,25.9,141,Medicare,15997.2
+P0440,Daniel Sharma,65,Male,O-,Asthma,Corticosteroids,Psychiatry,2023-06-05,2023-06-29,24,Recovered,No,5,133,74,81,178,35.9,223,Medicaid,38260.66
+P0441,Amit Gupta,37,Male,A-,Depression,Psychotherapy,Endocrinology,2024-04-10,2024-04-17,7,Deteriorated,No,5,158,84,67,191,19.2,265,Government,48115.94
+P0442,Daniel Patel,22,Male,B+,Thyroid Disorder,Surgery,Oncology,2020-04-19,2020-04-25,6,Recovered,No,1,126,73,69,144,35.1,137,None,23005.85
+P0443,Ashley Williams,38,Female,B-,Hypertension,Amlodipine,Oncology,2024-09-09,2024-09-25,16,Stable,No,5,116,68,110,122,25,241,Medicaid,8359.67
+P0444,Amanda Mehta,43,Female,AB-,Diabetes,Insulin Therapy,Orthopedics,2024-12-30,2025-01-02,3,Stable,No,5,157,81,91,295,30.2,238,None,29018.57
+P0445,Ritu Williams,40,Female,B+,Anxiety,SSRIs,Oncology,2022-01-05,2022-02-03,29,Stable,No,4,148,84,97,116,36.3,144,None,19980.79
+P0446,Laura Rao,26,Female,A+,Migraine,Topiramate,General Medicine,2025-07-14,2025-07-28,14,Deceased,Yes,4,105,83,59,263,19.1,203,Medicare,20799.76
+P0447,Robert Williams,61,Male,B-,Migraine,Botox Injections,Neurology,2022-03-07,2022-03-20,13,Recovered,Yes,9,104,105,63,153,35.4,238,Medicare,24495.58
+P0448,Ravi Patel,39,Male,A+,Thyroid Disorder,Levothyroxine,General Medicine,2021-02-15,2021-02-21,6,Improved,No,4,140,70,59,241,38.1,189,Medicaid,8098.08
+P0449,Amit Miller,31,Male,A+,Anxiety,Therapy,Cardiology,2024-12-23,2024-12-25,2,Improved,Yes,1,138,109,67,133,26.9,181,None,10399.29
+P0450,Sunita Joshi,30,Female,A-,Back Pain,NSAIDs,Endocrinology,2021-11-15,2021-11-17,2,Improved,No,7,131,80,90,230,21.5,173,Government,46749.2
+P0451,John Smith,40,Male,AB+,Diabetes,Glipizide,Nephrology,2023-07-19,2023-07-20,1,Improved,Yes,4,118,64,97,278,24.1,279,None,18764.51
+P0452,Melissa Kumar,39,Female,O-,Arthritis,Ibuprofen,Pulmonology,2023-08-21,2023-09-11,21,Stable,No,2,132,71,95,264,41.6,201,Private,48912.07
+P0453,Amy Jones,66,Female,A-,COPD,Oxygen Therapy,Cardiology,2025-08-24,2025-09-12,19,Stable,No,4,119,61,94,264,42,199,Private,12201.62
+P0454,William Rao,43,Male,A+,Asthma,Bronchodilators,Nephrology,2022-04-17,2022-05-08,21,Recovered,No,5,132,68,72,151,34.7,130,Government,26283.21
+P0455,Sarah Smith,49,Female,A+,Heart Disease,Aspirin Therapy,Orthopedics,2022-10-14,2022-11-09,26,Stable,No,4,167,84,88,152,21.3,121,Government,3698.54
+P0456,Rekha Singh,40,Female,AB-,Kidney Disease,ACE Inhibitors,Nephrology,2022-08-25,2022-09-11,17,Recovered,No,10,129,70,101,120,23.1,165,Government,30489.64
+P0457,William Singh,64,Male,O+,Anxiety,Mindfulness Program,General Medicine,2021-11-18,2021-12-04,16,Improved,No,2,168,107,82,264,20.5,243,Medicaid,1480.65
+P0458,Laura Patel,50,Female,A+,Anxiety,Mindfulness Program,General Medicine,2023-06-06,2023-06-21,15,Improved,No,1,167,90,59,155,20,240,Medicaid,10187.93
+P0459,Emily Garcia,69,Female,B+,Cancer,Immunotherapy,Nephrology,2024-06-04,2024-06-28,24,Improved,Yes,10,129,101,92,88,27.9,129,Government,49627.39
+P0460,Neha Johnson,83,Female,O+,Migraine,Botox Injections,Oncology,2024-02-17,2024-03-11,23,Recovered,No,3,144,107,70,132,29.9,212,Medicaid,31732.16
+P0461,Rajesh Mehta,49,Male,O+,Kidney Disease,ACE Inhibitors,Oncology,2020-02-20,2020-02-24,4,Stable,Yes,7,140,105,92,300,18.3,168,None,43862.31
+P0462,Laura Williams,57,Female,AB-,Migraine,Botox Injections,Psychiatry,2020-12-30,2021-01-03,4,Stable,Yes,3,108,77,102,123,43,221,Private,35100.95
+P0463,David Miller,71,Male,B-,Anemia,Erythropoietin,Pulmonology,2024-10-31,2024-11-06,6,Recovered,No,3,180,68,67,194,21.3,148,Private,22807.71
+P0464,Meena Mehta,70,Female,A+,Obesity,Lifestyle Modification,Oncology,2021-11-11,2021-11-14,3,Improved,No,2,105,77,59,157,16.9,180,Private,24155.91
+P0465,Rahul Wilson,23,Male,O-,Hypertension,Amlodipine,General Medicine,2025-11-09,2025-12-05,26,Recovered,No,6,124,91,85,263,25.8,229,Government,17159.23
+P0466,Jessica Williams,25,Female,O-,Depression,SNRIs,Oncology,2021-02-14,2021-02-15,1,Improved,No,4,107,61,93,101,41.2,191,Medicare,47577.57
+P0467,Melissa Miller,70,Female,AB+,Anemia,B12 Injections,Psychiatry,2020-01-13,2020-02-03,21,Deceased,No,8,92,100,78,293,17.3,203,Medicaid,34057.51
+P0468,Emily Brown,78,Female,AB-,Anemia,Iron Supplements,Pulmonology,2024-04-25,2024-05-05,10,Stable,No,5,156,96,105,289,36.8,128,Government,6829.14
+P0469,Kavita Garcia,48,Female,O+,Heart Disease,Beta Blockers,Endocrinology,2021-11-29,2021-12-24,25,Deteriorated,No,4,103,87,100,77,20.6,203,Medicare,45181.1
+P0470,Kavita Gupta,80,Female,B-,Hypertension,Metoprolol,Endocrinology,2022-07-05,2022-08-04,30,Improved,No,7,172,81,79,253,37.5,217,Government,32869.02
+P0471,Deepak Singh,32,Male,AB+,Hypertension,Metoprolol,Psychiatry,2022-02-09,2022-03-05,24,Deteriorated,No,7,106,80,79,217,37.4,199,None,3563.3
+P0472,Rekha Miller,46,Female,O-,Hypertension,Lifestyle Modification,Psychiatry,2020-02-07,2020-02-25,18,Deteriorated,No,1,108,78,108,126,30.5,236,None,7797.56
+P0473,Kavita Mehta,79,Female,AB-,Anemia,B12 Injections,Oncology,2025-07-20,2025-07-30,10,Stable,Yes,3,97,81,64,281,36.8,177,Medicare,35170.17
+P0474,Anil Sharma,68,Male,B+,Depression,Psychotherapy,Oncology,2025-04-23,2025-05-05,12,Stable,No,2,99,93,101,142,24.2,169,None,35204.88
+P0475,Amy Verma,56,Female,B+,Obesity,Orlistat,Neurology,2021-07-17,2021-08-01,15,Stable,No,2,108,73,68,275,37.7,122,Medicare,18430.18
+P0476,Ashley Patel,25,Female,A-,Hypertension,Metoprolol,Endocrinology,2025-04-24,2025-04-30,6,Deteriorated,No,1,155,101,76,221,28.6,158,Government,31535.14
+P0477,Deepak Taylor,40,Male,B-,Anemia,Blood Transfusion,Oncology,2021-01-02,2021-01-27,25,Improved,Yes,9,125,100,96,183,26.7,150,Private,6273.07
+P0478,Amy Garcia,53,Female,AB+,Migraine,Sumatriptan,Oncology,2022-01-11,2022-01-24,13,Improved,No,1,128,96,63,95,25.4,257,Medicaid,9652.05
+P0479,Jennifer Garcia,26,Female,B+,COPD,Bronchodilators,Pulmonology,2022-04-29,2022-05-21,22,Deteriorated,Yes,4,166,104,66,71,32.1,200,Private,6590.74
+P0480,Anita Singh,33,Female,AB-,COPD,Pulmonary Rehabilitation,Cardiology,2024-01-29,2024-02-16,18,Recovered,No,10,121,79,57,202,42.2,195,None,33128.3
+P0481,Emily Taylor,83,Female,AB+,Heart Disease,Aspirin Therapy,Pulmonology,2020-07-02,2020-07-10,8,Recovered,Yes,10,128,73,63,224,32,271,Private,18273.73
+P0482,Neha Williams,38,Female,B+,Anxiety,Mindfulness Program,Pulmonology,2020-12-07,2020-12-16,9,Stable,No,9,158,73,59,231,37.2,169,Medicare,35865.03
+P0483,Sarah Brown,66,Female,B+,Diabetes,Insulin Therapy,Endocrinology,2020-11-13,2020-11-22,9,Recovered,No,5,177,95,81,86,25.6,142,Government,18459.56
+P0484,Suresh Williams,46,Male,A-,Anxiety,Benzodiazepines,Neurology,2021-05-20,2021-05-26,6,Improved,No,10,165,91,61,205,26.1,266,Private,43337.22
+P0485,Michael Patel,62,Male,O-,Back Pain,Surgery,Cardiology,2025-05-07,2025-05-26,19,Recovered,No,1,177,92,100,109,35.1,156,Government,19250.63
+P0486,Ashley Jones,41,Female,A-,Obesity,Bariatric Surgery,Oncology,2025-04-03,2025-04-20,17,Improved,No,6,156,105,107,128,24.9,142,Private,47399.01
+P0487,Sanjay Singh,39,Male,A-,Kidney Disease,Dialysis,Nephrology,2020-12-12,2021-01-05,24,Improved,No,9,91,87,98,200,43,154,Medicare,24242.97
+P0488,Pradeep Sharma,72,Male,B-,Migraine,Lifestyle Modification,General Medicine,2022-09-27,2022-10-21,24,Stable,No,9,177,98,57,225,29,163,Government,33888.85
+P0489,Rajesh Miller,63,Male,B-,Diabetes,Glipizide,Endocrinology,2025-07-22,2025-08-04,13,Recovered,No,5,133,103,70,282,31.6,150,Private,14858.2
+P0490,Amy Williams,45,Female,O-,Cancer,Surgery,Nephrology,2025-10-12,2025-11-08,27,Deteriorated,No,1,169,91,58,161,16.2,237,Government,16763.31
+P0491,Rahul Kumar,73,Male,O-,Obesity,Orlistat,Pulmonology,2020-12-13,2020-12-30,17,Improved,No,5,142,67,86,71,20.5,184,Medicare,11691.71
+P0492,Laura Mehta,31,Female,O-,Obesity,Diet Program,Oncology,2021-10-24,2021-10-29,5,Improved,Yes,7,90,82,110,251,21.8,168,Private,14602.54
+P0493,Pradeep Garcia,52,Male,B+,Hypertension,Lifestyle Modification,Pulmonology,2025-06-26,2025-07-14,18,Improved,No,7,131,108,103,269,41.6,248,Private,36436.73
+P0494,Priya Gupta,37,Female,B-,Depression,SSRIs,Psychiatry,2022-08-26,2022-08-28,2,Stable,Yes,7,144,98,102,72,28.6,194,Medicaid,14470.06
+P0495,Thomas Patel,49,Male,B+,Arthritis,Ibuprofen,Oncology,2022-12-15,2023-01-07,23,Recovered,Yes,10,115,90,100,270,39.5,248,Government,30749.47
+P0496,Michael Verma,53,Male,AB+,Heart Disease,Beta Blockers,Endocrinology,2024-10-12,2024-10-13,1,Stable,No,1,96,84,81,204,24.9,179,Private,11477.87
+P0497,Ravi Johnson,53,Male,A-,Depression,Psychotherapy,Pulmonology,2022-10-08,2022-10-19,11,Deteriorated,No,10,95,60,58,239,37.6,174,Medicare,14623.19
+P0498,William Johnson,60,Male,B-,Arthritis,Ibuprofen,General Medicine,2021-01-31,2021-02-22,22,Recovered,No,5,106,81,78,259,39.5,270,Medicaid,26678.67
+P0499,Suresh Gupta,33,Male,A+,Diabetes,Insulin Therapy,Endocrinology,2022-03-01,2022-03-24,23,Improved,No,3,99,94,94,157,24.7,241,Government,49487.41
+P0500,Daniel Mehta,62,Male,B+,Cancer,Surgery,Oncology,2025-01-10,2025-01-31,21,Stable,Yes,5,98,90,81,204,43,248,None,39648.82
+P0501,Mark Verma,42,Male,B-,Migraine,Botox Injections,General Medicine,2025-07-20,2025-08-11,22,Improved,No,5,99,70,83,262,30.8,263,Government,39078.92
+P0502,Mark Shah,19,Male,O+,Cancer,Immunotherapy,Neurology,2025-08-25,2025-09-17,23,Stable,Yes,4,128,74,73,251,23.8,150,Private,8969.9
+P0503,Neha Gupta,52,Female,O+,Thyroid Disorder,Levothyroxine,Endocrinology,2022-10-16,2022-11-12,27,Recovered,No,9,90,101,77,231,33.5,214,Government,16565.81
+P0504,Paul Rao,59,Male,O+,Diabetes,Metformin,Neurology,2023-12-27,2024-01-04,8,Stable,No,7,112,76,56,207,35.1,269,Medicaid,5768.92
+P0505,Amanda Joshi,59,Female,AB-,Arthritis,Physical Therapy,Oncology,2024-06-07,2024-06-12,5,Improved,No,4,137,69,85,93,30.4,237,Government,9658.89
+P0506,Priya Rao,38,Female,A-,Cancer,Radiation Therapy,Endocrinology,2024-06-02,2024-06-24,22,Stable,No,1,108,64,82,132,29.2,223,Medicare,5461.57
+P0507,Suresh Sharma,23,Male,AB-,Asthma,Corticosteroids,Cardiology,2020-12-08,2020-12-17,9,Recovered,Yes,3,91,110,61,208,37.3,206,Medicaid,42709.65
+P0508,Sushma Rao,60,Female,B+,Obesity,Orlistat,Neurology,2022-09-25,2022-09-27,2,Improved,Yes,7,170,94,62,75,39.9,146,Private,27459.78
+P0509,Priya Joshi,72,Female,O-,Anxiety,SSRIs,Oncology,2023-12-18,2024-01-08,21,Improved,No,5,177,105,107,300,19.3,163,Private,49543.02
+P0510,Kavita Johnson,28,Female,O+,Cancer,Chemotherapy,Psychiatry,2021-09-10,2021-09-16,6,Improved,No,2,166,71,98,178,20.4,197,Medicare,31425.53
+P0511,Neha Singh,18,Female,B+,Thyroid Disorder,Methimazole,Nephrology,2021-08-23,2021-09-03,11,Recovered,No,3,151,64,62,217,28.4,191,Medicare,7661.06
+P0512,William Brown,79,Male,A-,Migraine,Botox Injections,Orthopedics,2023-09-27,2023-10-02,5,Stable,No,7,139,86,90,197,31.6,246,Medicaid,26857.48
+P0513,Jennifer Wilson,46,Female,O+,Migraine,Sumatriptan,Cardiology,2022-08-21,2022-09-02,12,Recovered,No,3,136,95,85,104,42.7,135,Medicare,45612.42
+P0514,Daniel Brown,49,Male,A-,Heart Disease,Beta Blockers,Pulmonology,2020-08-16,2020-09-09,24,Recovered,Yes,10,138,106,56,248,44,215,Medicare,3177.13
+P0515,Sushma Sharma,36,Female,O-,Depression,Cognitive Behavioral Therapy,Oncology,2020-11-19,2020-11-27,8,Recovered,No,7,109,108,66,190,37.6,255,Medicare,35078.91
+P0516,Priya Rao,32,Female,O+,Asthma,Albuterol Inhaler,General Medicine,2020-05-11,2020-05-31,20,Stable,No,10,110,60,80,283,28.3,236,Government,27930.72
+P0517,Anil Mehta,29,Male,AB-,COPD,Steroids,Cardiology,2021-05-27,2021-06-20,24,Recovered,Yes,8,118,85,66,280,37.6,263,None,30451.63
+P0518,Jessica Williams,39,Female,A-,Diabetes,Lifestyle Modification,Endocrinology,2024-10-03,2024-10-10,7,Improved,Yes,2,99,83,93,269,40.6,127,Government,12356.73
+P0519,Ritu Shah,43,Female,O+,Anemia,Iron Supplements,Cardiology,2022-09-11,2022-09-20,9,Recovered,Yes,6,162,110,85,81,17.4,143,Medicare,47203.7
+P0520,Sarah Williams,63,Female,O+,Asthma,Albuterol Inhaler,General Medicine,2023-09-19,2023-10-03,14,Deteriorated,No,1,102,92,106,268,20.4,270,Government,39905.43
+P0521,Robert Singh,29,Male,O-,Migraine,Topiramate,Pulmonology,2022-06-02,2022-06-28,26,Stable,No,3,110,92,88,256,33.7,253,None,46546.25
+P0522,David Verma,67,Male,AB-,Heart Disease,Beta Blockers,Nephrology,2020-11-03,2020-11-08,5,Improved,No,2,102,60,64,266,41.2,260,Private,43442.92
+P0523,Anil Rao,38,Male,A-,Hypertension,Metoprolol,Pulmonology,2024-01-28,2024-02-09,12,Recovered,No,3,180,109,84,136,44.6,185,Medicaid,38275.75
+P0524,Emily Rao,69,Female,A+,Anxiety,SSRIs,Psychiatry,2024-12-10,2024-12-22,12,Improved,No,1,137,65,98,175,30.7,187,Government,43931.73
+P0525,Laura Sharma,37,Female,AB-,Thyroid Disorder,Levothyroxine,Oncology,2023-04-05,2023-04-18,13,Recovered,No,9,99,74,79,293,29.4,143,Private,17772.43
+P0526,Suresh Williams,73,Male,B+,Heart Disease,Bypass Surgery,Nephrology,2023-09-08,2023-09-11,3,Improved,Yes,8,117,104,102,191,19.3,236,Government,2394.98
+P0527,Amit Taylor,66,Male,A-,Diabetes,Lifestyle Modification,Orthopedics,2024-10-27,2024-11-12,16,Recovered,Yes,7,92,108,98,178,23.8,165,None,4637.77
+P0528,Amanda Brown,85,Female,AB+,Heart Disease,Statins,Oncology,2022-01-23,2022-02-19,27,Recovered,No,3,133,108,74,112,21.8,227,None,24340.45
+P0529,Amy Williams,19,Female,AB-,COPD,Oxygen Therapy,Pulmonology,2020-11-14,2020-12-08,24,Stable,No,3,131,102,107,257,37.5,201,None,1202.25
+P0530,David Mehta,84,Male,AB+,Migraine,Sumatriptan,Nephrology,2025-01-19,2025-02-15,27,Deteriorated,No,3,171,97,61,79,22.3,168,Government,21298.72
+P0531,Pradeep Wilson,19,Male,AB+,Depression,SNRIs,General Medicine,2020-03-07,2020-03-17,10,Deteriorated,No,9,105,104,86,236,45,225,Medicaid,20814.15
+P0532,Anita Kumar,40,Other,A-,Obesity,Diet Program,Pulmonology,2024-03-08,2024-03-14,6,Improved,No,2,159,87,79,142,40.5,231,Private,31888.31
+P0533,Rahul Taylor,70,Male,A-,Hypertension,Lifestyle Modification,Cardiology,2021-02-12,2021-03-05,21,Improved,Yes,8,175,78,109,177,22.1,236,None,27803.6
+P0534,Ritu Brown,68,Other,O-,Diabetes,Lifestyle Modification,Neurology,2022-07-06,2022-07-23,17,Improved,Yes,6,129,110,81,242,23,226,None,2117.39
+P0535,Mark Brown,48,Male,AB+,COPD,Steroids,Cardiology,2022-02-28,2022-03-20,20,Stable,No,3,163,87,63,232,27.3,164,Government,20454.39
+P0536,Rajesh Miller,33,Male,A-,Anemia,Blood Transfusion,Psychiatry,2022-12-01,2022-12-28,27,Improved,Yes,10,116,65,60,76,28.7,280,Medicaid,38616.6
+P0537,Rajesh Jones,63,Male,A-,Asthma,Corticosteroids,Orthopedics,2022-06-27,2022-07-07,10,Recovered,No,10,138,109,71,238,17.5,141,Private,46781.31
+P0538,Paul Kumar,31,Male,A-,Asthma,Montelukast,Endocrinology,2022-12-09,2023-01-07,29,Recovered,No,8,153,83,108,123,27.3,245,Government,39874.35
+P0539,Jessica Smith,75,Female,A+,Back Pain,NSAIDs,Pulmonology,2022-01-06,2022-01-16,10,Recovered,No,8,174,96,95,225,40.8,150,Government,48807.84
+P0540,Neha Kumar,42,Female,O+,Kidney Disease,Dialysis,Pulmonology,2020-04-04,2020-04-21,17,Improved,Yes,3,117,83,62,300,22.3,203,None,7358.97
+P0541,Sunita Johnson,55,Female,O+,Obesity,Diet Program,Orthopedics,2024-11-21,2024-12-08,17,Deteriorated,Yes,10,122,71,67,245,40.5,191,Government,48112.63
+P0542,Melissa Brown,75,Female,O+,Anxiety,Therapy,Oncology,2023-07-29,2023-08-18,20,Recovered,No,9,144,72,91,160,26.8,136,Medicaid,22745.47
+P0543,Paul Miller,63,Male,A+,Anxiety,Benzodiazepines,Oncology,2021-04-14,2021-04-20,6,Stable,No,2,113,82,70,88,22.2,215,None,18912.23
+P0544,Sarah Shah,77,Female,AB+,Kidney Disease,Diet Modification,Neurology,2022-08-10,2022-08-28,18,Recovered,No,2,167,73,88,125,19,191,Medicare,35955.15
+P0545,James Shah,43,Male,A+,Diabetes,Glipizide,Oncology,2025-08-04,2025-08-06,2,Deceased,No,5,105,67,83,113,33.4,271,Medicaid,19451.45
+P0546,Ritu Rao,34,Other,O+,Thyroid Disorder,Surgery,General Medicine,2020-05-31,2020-06-29,29,Improved,No,5,95,81,96,74,18,144,None,41577.59
+P0547,Jessica Singh,58,Female,B+,Obesity,Lifestyle Modification,Nephrology,2024-05-30,2024-06-09,10,Stable,No,1,153,101,62,285,26.8,278,Private,5585.81
+P0548,Pooja Joshi,39,Other,O-,Hypertension,Amlodipine,Cardiology,2024-02-19,2024-03-17,27,Deteriorated,No,5,178,63,71,296,38.8,148,Medicaid,2876.17
+P0549,Jessica Mehta,39,Female,O+,Cancer,Radiation Therapy,Pulmonology,2025-03-02,2025-03-06,4,Recovered,No,8,164,86,95,184,35.4,253,None,26615.65
+P0550,Melissa Joshi,29,Female,A+,Arthritis,Methotrexate,Orthopedics,2020-12-05,2020-12-17,12,Improved,No,4,174,101,102,289,22,139,Government,4219.65
+P0551,Michael Shah,80,Male,B-,Hypertension,Metoprolol,General Medicine,2022-05-04,2022-05-31,27,Improved,Yes,3,155,80,103,149,36.5,159,None,42466.45
+P0552,Robert Taylor,83,Male,B-,Heart Disease,Bypass Surgery,Pulmonology,2022-02-08,2022-02-11,3,Improved,Yes,2,177,79,110,217,34.8,157,Private,23317.23
+P0553,Sushma Mehta,21,Female,O+,Obesity,Diet Program,General Medicine,2023-12-12,2023-12-21,9,Recovered,No,8,100,82,82,124,20.4,248,None,21827
+P0554,Michael Brown,42,Male,A-,Arthritis,Physical Therapy,General Medicine,2024-07-07,2024-07-13,6,Improved,No,4,167,91,88,180,19.2,132,Private,32494.07
+P0555,Amy Mehta,48,Female,O-,Hypertension,Lisinopril,Oncology,2023-02-02,2023-02-10,8,Deteriorated,Yes,4,140,85,61,126,37.3,188,None,25011
+P0556,Ritu Sharma,30,Female,AB-,Asthma,Bronchodilators,Orthopedics,2023-06-04,2023-07-02,28,Deteriorated,Yes,1,111,80,98,87,20.8,205,Medicare,45043.53
+P0557,Anil Mehta,27,Male,B+,Asthma,Albuterol Inhaler,Nephrology,2023-12-13,2023-12-29,16,Improved,No,4,121,90,62,81,39.7,265,Government,34162.29
+P0558,Kavita Rao,60,Female,AB-,Obesity,Diet Program,Nephrology,2023-12-07,2023-12-25,18,Improved,No,10,122,83,84,73,40,197,Private,35652.78
+P0559,Thomas Sharma,36,Male,O+,Anxiety,SSRIs,Orthopedics,2021-08-03,2021-08-15,12,Improved,No,2,163,107,99,180,26.4,142,Medicaid,10095.18
+P0560,Amanda Miller,40,Female,O-,Arthritis,Methotrexate,Neurology,2023-09-18,2023-10-01,13,Improved,Yes,8,129,72,57,218,31.1,207,None,41791.49
+P0561,Rahul Garcia,36,Male,A-,Obesity,Orlistat,Pulmonology,2025-11-12,2025-11-22,10,Stable,No,10,128,91,73,86,39.2,123,Private,22965.98
+P0562,Priya Brown,63,Female,AB+,Anemia,Iron Supplements,Neurology,2020-07-23,2020-08-01,9,Recovered,Yes,4,154,102,104,213,20.5,142,Medicaid,35803.26
+P0563,Ritu Joshi,22,Female,O-,Obesity,Bariatric Surgery,Oncology,2022-10-15,2022-11-10,26,Stable,Yes,7,144,85,61,298,23.6,197,Medicaid,30053.42
+P0564,Pradeep Mehta,35,Male,O-,Anxiety,SSRIs,Nephrology,2023-05-18,2023-05-28,10,Recovered,No,6,159,71,79,270,41.4,231,Medicare,5254.09
+P0565,Robert Brown,70,Male,O+,Obesity,Lifestyle Modification,Pulmonology,2020-04-18,2020-05-13,25,Improved,No,10,168,79,105,132,32.8,215,Private,6800.11
+P0566,Jessica Gupta,69,Female,AB-,Anemia,Iron Supplements,General Medicine,2025-03-10,2025-04-05,26,Stable,Yes,5,148,63,60,84,23.8,147,None,17007.43
+P0567,Kavita Wilson,83,Female,AB-,Migraine,Sumatriptan,Nephrology,2022-04-19,2022-05-06,17,Recovered,No,1,107,74,98,233,40.7,197,Medicaid,31597.85
+P0568,Kavita Singh,18,Female,B+,Asthma,Albuterol Inhaler,Endocrinology,2025-10-30,2025-11-03,4,Recovered,No,8,150,61,108,199,28.9,134,Government,46339.2
+P0569,Laura Mehta,74,Female,A-,Thyroid Disorder,Levothyroxine,Pulmonology,2024-11-05,2024-11-10,5,Stable,No,5,108,107,97,131,21,259,Medicaid,10417.38
+P0570,Neha Williams,67,Female,AB-,Migraine,Sumatriptan,Pulmonology,2025-03-15,2025-03-29,14,Stable,Yes,10,93,78,84,100,32.4,122,Private,29236.63
+P0571,Emily Gupta,77,Female,O-,Cancer,Immunotherapy,Psychiatry,2023-02-08,2023-02-09,1,Deceased,Yes,3,154,92,68,159,42.2,254,Medicaid,19835.9
+P0572,Rajesh Mehta,56,Male,O-,Cancer,Immunotherapy,Nephrology,2020-10-06,2020-11-05,30,Stable,No,3,138,90,93,238,21.2,249,Medicaid,38882.2
+P0573,Emily Wilson,69,Female,A-,Hypertension,Lisinopril,Orthopedics,2020-04-30,2020-05-28,28,Stable,No,4,102,102,61,197,43.1,241,Government,16521.14
+P0574,Jessica Brown,26,Female,AB+,Diabetes,Lifestyle Modification,Endocrinology,2021-04-13,2021-04-15,2,Stable,No,8,146,108,78,225,34.3,127,Government,46215.77
+P0575,Jennifer Davis,43,Other,B-,Heart Disease,Statins,Orthopedics,2025-07-04,2025-07-19,15,Stable,Yes,2,115,107,65,181,39.6,169,Private,4757.91
+P0576,Priya Johnson,70,Female,B+,Kidney Disease,Dialysis,General Medicine,2023-10-27,2023-11-02,6,Stable,No,9,153,72,108,123,32.5,241,Private,25292.09
+P0577,Michael Singh,28,Male,A-,Asthma,Montelukast,Cardiology,2021-02-17,2021-02-21,4,Improved,No,6,166,94,76,75,22.5,194,Government,46152.53
+P0578,Rajesh Davis,48,Other,B+,Thyroid Disorder,Radioactive Iodine,Endocrinology,2024-06-23,2024-07-13,20,Recovered,No,1,164,90,71,237,16.9,206,Government,21359.58
+P0579,Sarah Verma,48,Female,A-,Obesity,Lifestyle Modification,Oncology,2020-05-24,2020-06-05,12,Deceased,No,1,166,107,94,90,41.7,242,Private,47356.73
+P0580,Pooja Johnson,73,Female,B+,Obesity,Bariatric Surgery,Cardiology,2022-07-21,2022-07-22,1,Deteriorated,Yes,7,115,94,93,290,27,124,Medicare,27848.55
+P0581,Laura Gupta,32,Female,A+,Obesity,Lifestyle Modification,Oncology,2024-02-15,2024-02-27,12,Recovered,No,9,97,75,69,93,33.1,178,Private,20946.74
+P0582,Pooja Verma,27,Female,A-,Diabetes,Insulin Therapy,Psychiatry,2024-12-01,2024-12-07,6,Improved,No,2,134,98,96,297,23.1,194,Private,6920.95
+P0583,Daniel Shah,81,Male,A+,Migraine,Lifestyle Modification,Psychiatry,2022-06-21,2022-07-06,15,Stable,No,2,160,78,110,237,23.1,188,None,16283.52
+P0584,Lisa Garcia,53,Female,AB-,Hypertension,Amlodipine,Orthopedics,2021-07-15,2021-08-11,27,Deceased,No,8,129,107,90,123,19.6,156,Private,2275.45
+P0585,Amit Mehta,53,Male,AB+,Kidney Disease,Kidney Transplant,Cardiology,2023-05-15,2023-06-11,27,Deceased,Yes,4,125,99,79,196,16.5,217,Government,19540.83
+P0586,Laura Verma,57,Female,A+,Diabetes,Lifestyle Modification,Psychiatry,2020-04-16,2020-05-16,30,Stable,No,7,123,108,92,125,38,207,Private,36426.42
+P0587,Ritu Davis,77,Female,O+,Anxiety,Therapy,Orthopedics,2021-10-27,2021-11-09,13,Improved,No,9,106,60,72,274,35.8,190,None,4734.07
+P0588,Anita Taylor,53,Female,AB-,Depression,SNRIs,Cardiology,2022-10-23,2022-11-18,26,Stable,No,1,105,79,91,239,25.3,187,Private,42455.84
+P0589,John Garcia,45,Male,B+,Anxiety,Benzodiazepines,General Medicine,2020-11-21,2020-11-30,9,Deteriorated,No,4,130,64,83,116,23.5,190,Government,13347.27
+P0590,Anita Joshi,32,Female,A+,Anemia,Iron Supplements,Nephrology,2022-01-24,2022-02-15,22,Improved,No,5,164,80,57,211,36.8,135,None,47609.34
+P0591,Anita Taylor,48,Female,B+,Depression,SSRIs,General Medicine,2020-11-13,2020-11-30,17,Improved,No,5,99,75,68,153,32.5,226,Private,4033.96
+P0592,John Smith,70,Male,O-,Cancer,Surgery,Pulmonology,2025-04-11,2025-04-21,10,Stable,No,6,137,62,73,108,42.4,126,Government,5758.49
+P0593,Mark Verma,37,Male,AB-,Anxiety,Benzodiazepines,General Medicine,2020-11-12,2020-12-12,30,Deceased,No,1,163,100,90,257,28.1,151,Medicaid,42455.96
+P0594,Sarah Mehta,42,Female,O-,Thyroid Disorder,Radioactive Iodine,Psychiatry,2022-09-26,2022-10-07,11,Recovered,No,7,119,89,75,261,44.2,181,Private,22527.87
+P0595,Thomas Singh,64,Male,O+,Anemia,Blood Transfusion,Orthopedics,2022-08-01,2022-08-16,15,Stable,No,10,162,68,89,132,38.5,224,None,33868.2
+P0596,Suresh Singh,70,Male,A-,Anxiety,SSRIs,Orthopedics,2025-07-17,2025-08-07,21,Deteriorated,No,8,113,89,55,112,19.5,187,Government,38392.72
+P0597,Ashley Sharma,39,Female,A-,Hypertension,Amlodipine,Oncology,2025-10-10,2025-11-07,28,Improved,Yes,6,144,82,63,172,36.2,181,Private,35743.18
+P0598,John Jones,70,Male,O-,Anemia,Blood Transfusion,Pulmonology,2024-11-19,2024-11-29,10,Stable,No,10,113,106,104,220,42.6,250,Medicare,4647.58
+P0599,Robert Patel,83,Male,AB+,Migraine,Lifestyle Modification,Psychiatry,2021-01-31,2021-02-08,8,Improved,No,6,96,96,88,299,31.2,250,None,42281.24
+P0600,Rekha Verma,44,Female,A-,Anxiety,Therapy,Pulmonology,2023-07-11,2023-07-15,4,Improved,No,10,105,78,72,194,28.7,163,Government,14779.7
+P0601,Rekha Kumar,44,Female,AB+,COPD,Oxygen Therapy,General Medicine,2020-04-22,2020-05-12,20,Deteriorated,No,10,158,72,55,195,40.1,126,Medicare,18792.26
+P0602,Amanda Rao,32,Female,A-,Migraine,Sumatriptan,Neurology,2024-12-25,2025-01-23,29,Improved,No,4,101,68,72,257,35.4,210,None,40280.23
+P0603,James Mehta,76,Male,A+,Anemia,Iron Supplements,Oncology,2023-07-13,2023-08-11,29,Deteriorated,No,1,102,105,105,203,25.2,262,Government,33225.96
+P0604,Michael Joshi,43,Male,AB+,Arthritis,Corticosteroid Injection,Nephrology,2021-09-12,2021-09-28,16,Stable,No,1,126,68,67,232,41.4,252,Private,42929.26
+P0605,Lisa Shah,40,Female,AB-,Diabetes,Glipizide,Orthopedics,2022-12-13,2023-01-02,20,Improved,No,5,171,82,85,205,35.1,166,Medicare,43955.54
+P0606,Jessica Taylor,63,Female,O-,COPD,Steroids,Neurology,2023-04-25,2023-04-29,4,Recovered,No,2,143,88,75,133,35.2,149,Medicare,9221.62
+P0607,Melissa Garcia,70,Female,AB+,Anemia,B12 Injections,Orthopedics,2020-04-28,2020-05-08,10,Improved,No,7,142,63,90,267,25.4,201,None,20855.84
+P0608,Neha Garcia,46,Female,A+,Depression,SSRIs,Pulmonology,2023-06-17,2023-07-02,15,Improved,Yes,9,158,73,104,230,19.2,277,Private,30732.19
+P0609,Sunita Smith,63,Female,O-,Back Pain,Physical Therapy,General Medicine,2020-07-20,2020-08-06,17,Recovered,Yes,6,115,70,108,207,27.5,178,Medicare,14864.28
+P0610,Sanjay Sharma,22,Male,AB+,Thyroid Disorder,Levothyroxine,Nephrology,2025-11-26,2025-11-30,4,Improved,No,7,95,70,73,147,16.7,183,Government,2172.01
+P0611,Neha Singh,27,Female,O-,Hypertension,Lifestyle Modification,General Medicine,2020-03-23,2020-03-24,1,Stable,No,5,167,69,61,258,33.1,220,Medicare,10117.06
+P0612,Priya Rao,53,Female,B-,Obesity,Orlistat,Nephrology,2021-02-12,2021-02-21,9,Deceased,No,9,138,78,82,93,22.4,224,Medicare,28269.31
+P0613,William Williams,65,Male,A-,Back Pain,Physical Therapy,Cardiology,2025-01-26,2025-02-03,8,Improved,No,3,140,109,69,184,26.7,264,Private,5892.95
+P0614,Meena Garcia,49,Female,A+,Hypertension,Amlodipine,General Medicine,2024-07-09,2024-07-29,20,Stable,No,3,162,108,69,85,38.3,184,None,20887
+P0615,Lisa Brown,18,Female,AB+,Arthritis,Physical Therapy,Orthopedics,2025-06-24,2025-07-12,18,Improved,No,2,131,89,100,193,30.9,140,Government,46100.9
+P0616,Sushma Miller,33,Female,AB+,Asthma,Corticosteroids,Cardiology,2024-11-27,2024-12-25,28,Deceased,No,7,144,91,65,230,39.3,244,Private,7423.34
+P0617,David Rao,52,Male,B-,COPD,Pulmonary Rehabilitation,Pulmonology,2024-03-02,2024-03-21,19,Stable,No,8,127,93,98,122,39.3,215,None,26209.3
+P0618,Rekha Patel,85,Female,A-,Migraine,Botox Injections,Pulmonology,2020-02-10,2020-02-21,11,Improved,No,6,150,64,55,149,36.3,171,Private,34855.24
+P0619,Lisa Patel,26,Female,B-,Depression,Cognitive Behavioral Therapy,Orthopedics,2023-11-13,2023-12-04,21,Recovered,No,5,125,78,107,292,28.4,198,Private,18680.1
+P0620,Kavita Shah,53,Female,AB-,Asthma,Montelukast,Oncology,2021-02-23,2021-02-28,5,Stable,No,10,132,96,104,288,33.2,190,Government,48349.61
+P0621,Sanjay Shah,29,Male,A-,Cancer,Radiation Therapy,Cardiology,2021-08-10,2021-08-16,6,Improved,No,5,131,64,58,105,30.8,232,Government,21557.58
+P0622,Jessica Williams,78,Female,A-,Depression,SNRIs,Orthopedics,2025-11-08,2025-11-19,11,Improved,No,5,111,100,108,141,36.6,231,Medicaid,28244.05
+P0623,Emily Patel,21,Female,B-,Thyroid Disorder,Radioactive Iodine,Oncology,2025-03-24,2025-04-18,25,Stable,Yes,1,117,99,90,294,44.9,168,Medicare,19431.64
+P0624,Pradeep Sharma,57,Male,O+,Depression,SSRIs,Cardiology,2024-02-19,2024-03-20,30,Improved,No,5,167,77,57,235,24,242,Private,20215.55
+P0625,Amit Garcia,76,Other,A-,Obesity,Orlistat,General Medicine,2025-04-23,2025-05-17,24,Deteriorated,Yes,3,103,62,78,77,33.8,159,Medicare,35429.16
+P0626,Kavita Verma,74,Female,O-,Anemia,Iron Supplements,Neurology,2023-07-11,2023-07-15,4,Deteriorated,Yes,10,114,101,94,258,16.5,201,Medicaid,44937.96
+P0627,Michael Brown,25,Male,O+,Hypertension,Amlodipine,Endocrinology,2025-08-16,2025-08-21,5,Stable,No,1,112,88,57,140,33.6,249,None,20757.95
+P0628,Kavita Smith,77,Female,B-,Kidney Disease,Dialysis,Endocrinology,2025-03-11,2025-03-14,3,Recovered,No,1,113,106,60,117,25.2,280,None,48305.4
+P0629,Sanjay Rao,42,Male,B+,Migraine,Topiramate,Neurology,2023-06-25,2023-06-27,2,Improved,No,4,112,77,63,214,25.2,177,None,41846.13
+P0630,Robert Mehta,29,Male,AB+,Obesity,Bariatric Surgery,General Medicine,2024-01-29,2024-02-10,12,Stable,No,4,147,100,98,282,20.9,269,None,19591.19
+P0631,Ritu Shah,61,Female,AB-,Migraine,Lifestyle Modification,Neurology,2021-01-06,2021-01-23,17,Stable,Yes,3,117,89,71,78,42.7,252,Medicaid,33087.44
+P0632,Mark Williams,22,Male,AB-,Depression,SSRIs,Pulmonology,2024-01-09,2024-02-06,28,Deteriorated,No,3,143,90,76,156,34.8,145,Medicaid,9762.02
+P0633,Rahul Jones,76,Male,A-,Kidney Disease,Kidney Transplant,Neurology,2024-06-23,2024-07-09,16,Stable,No,4,137,98,76,193,35.7,196,Medicare,2486.38
+P0634,Ravi Wilson,69,Male,A+,Kidney Disease,Dialysis,Neurology,2021-11-02,2021-11-19,17,Recovered,Yes,6,166,104,88,120,43.6,265,Private,37716.58
+P0635,Rajesh Johnson,76,Male,O-,Anxiety,SSRIs,Orthopedics,2025-03-01,2025-03-02,1,Stable,No,3,112,79,74,90,21.4,172,Private,22109.17
+P0636,John Kumar,78,Male,AB+,COPD,Steroids,Oncology,2022-05-20,2022-06-19,30,Improved,No,3,149,105,70,265,42.6,219,None,6860.87
+P0637,Ashley Taylor,68,Female,AB+,COPD,Bronchodilators,Cardiology,2023-11-21,2023-12-07,16,Stable,No,10,118,98,66,266,22.8,212,Private,17322.62
+P0638,Rekha Garcia,42,Female,AB+,Diabetes,Insulin Therapy,Oncology,2023-05-21,2023-06-04,14,Recovered,No,5,173,71,82,108,24.3,219,Government,33926.01
+P0639,Thomas Kumar,77,Male,AB+,Back Pain,Physical Therapy,Oncology,2023-11-19,2023-12-11,22,Stable,Yes,7,91,70,75,102,32.7,218,Private,34471.78
+P0640,Ravi Kumar,75,Male,B+,COPD,Pulmonary Rehabilitation,General Medicine,2025-04-23,2025-05-16,23,Improved,No,2,136,67,105,115,44.4,256,Private,38100.73
+P0641,Mark Mehta,43,Male,O+,COPD,Steroids,Cardiology,2024-11-16,2024-11-18,2,Improved,No,6,105,91,84,163,17.5,273,Private,34476.19
+P0642,Sushma Rao,63,Female,B+,Anxiety,Benzodiazepines,Cardiology,2025-01-03,2025-01-14,11,Improved,Yes,2,166,67,77,257,17.1,221,Government,12807.02
+P0643,Ashley Mehta,62,Female,O-,Obesity,Orlistat,Endocrinology,2025-11-14,2025-12-03,19,Improved,No,2,131,83,57,107,33.7,145,None,19404.69
+P0644,Rahul Patel,50,Male,AB-,Migraine,Sumatriptan,Neurology,2024-11-10,2024-11-14,4,Stable,Yes,10,128,99,87,208,40.8,182,Government,34865.73
+P0645,Ashley Mehta,41,Female,O-,Arthritis,Ibuprofen,Neurology,2024-06-20,2024-07-20,30,Recovered,No,8,124,60,81,123,16.5,226,Private,33032.03
+P0646,Rahul Smith,46,Male,AB-,Hypertension,Metoprolol,Psychiatry,2025-03-01,2025-03-20,19,Improved,No,3,159,84,85,212,16.4,207,Medicare,16322.32
+P0647,Anil Williams,50,Male,A+,Anxiety,Benzodiazepines,Psychiatry,2020-11-17,2020-12-08,21,Improved,No,8,100,73,102,205,26.7,194,Government,37667.45
+P0648,Sushma Taylor,63,Female,A-,Kidney Disease,Kidney Transplant,Neurology,2024-08-28,2024-09-22,25,Recovered,No,2,161,107,86,130,26.9,257,Medicare,7019.02
+P0649,Suresh Wilson,55,Male,AB+,Asthma,Corticosteroids,Orthopedics,2024-06-30,2024-07-18,18,Improved,No,6,143,98,72,151,38.3,147,Government,33379.61
+P0650,Melissa Jones,54,Female,AB+,Thyroid Disorder,Surgery,Oncology,2021-10-04,2021-11-03,30,Deteriorated,No,2,126,60,89,282,25.7,238,Medicaid,32981.44
+P0651,Ashley Brown,42,Female,AB-,Anemia,Iron Supplements,General Medicine,2022-07-07,2022-07-12,5,Stable,No,10,100,98,91,257,27.9,125,Private,16588.51
+P0652,Priya Taylor,67,Female,AB-,COPD,Oxygen Therapy,Orthopedics,2021-10-23,2021-11-07,15,Improved,Yes,10,112,90,100,121,25.4,195,Medicare,3708.23
+P0653,Paul Jones,48,Male,AB-,Back Pain,NSAIDs,Psychiatry,2025-03-04,2025-03-21,17,Stable,No,7,110,75,84,254,43.9,121,Medicare,37556.12
+P0654,David Mehta,33,Male,AB-,Migraine,Sumatriptan,Cardiology,2024-12-01,2024-12-17,16,Stable,No,9,127,85,108,280,37,130,Medicare,18486.98
+P0655,Kavita Gupta,51,Female,AB-,Back Pain,Physical Therapy,Psychiatry,2021-11-23,2021-12-05,12,Improved,No,8,108,75,105,193,22.1,144,Government,16836.27
+P0656,Sarah Rao,74,Female,B+,Depression,Psychotherapy,Cardiology,2022-11-22,2022-12-11,19,Improved,No,5,107,69,88,143,16.8,214,Medicaid,28395.2
+P0657,Melissa Jones,55,Female,O-,Asthma,Corticosteroids,Oncology,2021-08-23,2021-09-12,20,Improved,No,5,122,100,69,77,40.7,269,Medicaid,15496.35
+P0658,Jennifer Williams,79,Female,B+,Kidney Disease,ACE Inhibitors,General Medicine,2023-11-10,2023-12-01,21,Recovered,No,8,130,93,78,166,41.1,244,Medicare,32594.64
+P0659,Priya Singh,61,Female,B-,Heart Disease,Statins,Endocrinology,2022-04-25,2022-05-03,8,Recovered,No,9,173,72,77,197,29.3,123,Government,42078.87
+P0660,Amit Williams,30,Male,B-,Depression,SSRIs,General Medicine,2023-01-16,2023-02-03,18,Deceased,No,4,100,63,83,215,31.2,182,Medicare,13175.57
+P0661,Paul Mehta,53,Male,O-,Hypertension,Amlodipine,General Medicine,2020-09-17,2020-10-16,29,Deteriorated,Yes,1,128,63,68,128,23.1,268,Private,24125.47
+P0662,Suresh Jones,28,Male,AB-,Obesity,Orlistat,Nephrology,2021-02-13,2021-03-03,18,Improved,No,4,128,96,55,218,28.5,148,Private,36139.08
+P0663,David Taylor,52,Male,AB-,Obesity,Orlistat,Neurology,2023-09-08,2023-09-25,17,Improved,No,5,172,79,71,292,31.4,207,Private,14126.77
+P0664,John Garcia,18,Other,B-,Depression,Psychotherapy,Oncology,2025-07-23,2025-07-29,6,Recovered,Yes,2,176,79,61,290,28.9,257,Government,41216.61
+P0665,Deepak Smith,85,Male,O-,Obesity,Lifestyle Modification,Pulmonology,2023-05-14,2023-06-13,30,Stable,No,3,131,70,67,266,27.5,163,Medicaid,42691.69
+P0666,Amy Brown,52,Other,AB+,Heart Disease,Statins,Neurology,2025-04-17,2025-05-17,30,Deteriorated,No,7,137,69,74,155,37.1,200,Private,22760.54
+P0667,Jessica Verma,70,Female,O-,Depression,Cognitive Behavioral Therapy,Orthopedics,2025-02-14,2025-03-11,25,Improved,No,7,116,102,100,135,24.5,215,Medicaid,1672.11
+P0668,Meena Shah,82,Female,B-,Obesity,Bariatric Surgery,Psychiatry,2021-03-13,2021-03-16,3,Recovered,No,8,151,106,92,190,43.6,131,None,39170.78
+P0669,Laura Williams,25,Other,B+,Hypertension,Lisinopril,Nephrology,2023-11-04,2023-11-13,9,Improved,No,7,126,67,85,104,41.5,138,Government,16565
+P0670,Amy Shah,29,Female,O-,Obesity,Orlistat,Neurology,2023-09-04,2023-09-23,19,Improved,Yes,6,161,93,107,144,36,155,Medicare,38718.99
+P0671,Meena Patel,59,Female,A+,Obesity,Orlistat,Neurology,2025-03-02,2025-03-14,12,Improved,No,1,122,98,102,75,20.1,225,Medicaid,21652.88
+P0672,Mark Brown,22,Male,AB-,COPD,Pulmonary Rehabilitation,Endocrinology,2025-07-08,2025-07-18,10,Improved,No,2,99,96,60,212,38.6,256,Medicaid,8332.08
+P0673,Meena Singh,73,Female,A+,Thyroid Disorder,Radioactive Iodine,Pulmonology,2025-03-22,2025-04-06,15,Deteriorated,No,7,173,81,59,116,34.8,206,Medicare,22975.33
+P0674,Priya Taylor,67,Female,O-,Diabetes,Metformin,Neurology,2022-07-11,2022-07-22,11,Improved,No,10,118,97,98,266,25.5,237,Medicaid,32853.83
+P0675,Rajesh Shah,57,Male,O+,Asthma,Albuterol Inhaler,Cardiology,2020-04-17,2020-05-05,18,Stable,No,4,106,94,77,87,25.5,200,Government,46459.04
+P0676,Ravi Joshi,45,Male,B-,Back Pain,Epidural Injection,Nephrology,2020-04-21,2020-04-26,5,Deteriorated,No,7,105,84,56,183,41.2,173,Government,19330.62
+P0677,Amy Kumar,29,Female,AB-,Asthma,Albuterol Inhaler,Nephrology,2021-10-29,2021-11-23,25,Recovered,No,6,167,82,102,151,28,173,None,49265.03
+P0678,Amanda Sharma,18,Female,AB-,Anxiety,Mindfulness Program,Psychiatry,2024-06-27,2024-07-25,28,Recovered,Yes,7,129,64,82,287,34.9,178,Private,49985.47
+P0679,Neha Smith,23,Female,O-,Asthma,Corticosteroids,General Medicine,2021-12-27,2022-01-15,19,Recovered,No,5,109,68,99,190,38.1,135,Medicaid,30012.12
+P0680,Anil Brown,40,Male,O-,Asthma,Corticosteroids,Endocrinology,2022-01-13,2022-01-25,12,Deteriorated,No,10,110,61,86,122,24.9,280,Private,18972.61
+P0681,Sarah Sharma,78,Female,AB-,Diabetes,Insulin Therapy,General Medicine,2024-07-27,2024-07-29,2,Improved,No,2,111,70,61,73,26.1,177,Medicare,5060.13
+P0682,Amanda Jones,35,Other,B-,Thyroid Disorder,Levothyroxine,Neurology,2023-06-29,2023-07-15,16,Improved,Yes,8,106,80,97,208,26.6,277,Government,33587.38
+P0683,Rajesh Gupta,46,Male,O+,Anemia,Iron Supplements,Endocrinology,2021-01-23,2021-02-15,23,Improved,No,10,121,74,71,117,37.2,197,Government,16766.98
+P0684,John Gupta,22,Male,AB-,Migraine,Botox Injections,Pulmonology,2020-07-15,2020-08-10,26,Recovered,No,10,91,69,95,78,40.2,180,Medicare,8513.32
+P0685,Meena Wilson,69,Female,O-,Obesity,Orlistat,Nephrology,2025-01-30,2025-02-19,20,Improved,No,5,105,107,72,237,38.3,206,Medicare,17194.1
+P0686,Amanda Kumar,61,Female,O-,Back Pain,Epidural Injection,Cardiology,2020-09-15,2020-10-11,26,Improved,No,3,159,68,61,128,44.3,148,None,6453.75
+P0687,Daniel Singh,82,Male,A+,Asthma,Bronchodilators,Orthopedics,2025-09-23,2025-09-30,7,Recovered,No,9,92,72,101,260,26.3,273,Medicaid,39106.92
+P0688,Sanjay Miller,39,Male,O+,Depression,Cognitive Behavioral Therapy,Orthopedics,2021-02-14,2021-03-08,22,Recovered,No,7,109,94,94,178,40.9,191,Medicare,2921.15
+P0689,Ashley Garcia,77,Female,AB-,Depression,Cognitive Behavioral Therapy,General Medicine,2023-05-13,2023-05-14,1,Recovered,No,3,175,79,68,257,33.8,137,Government,3431.5
+P0690,Pooja Williams,38,Female,B-,Anemia,Blood Transfusion,Psychiatry,2024-05-20,2024-06-08,19,Recovered,No,3,99,74,72,105,41.9,151,Medicare,36435.96
+P0691,Ravi Smith,19,Male,O-,Anemia,Iron Supplements,Nephrology,2025-11-02,2025-11-12,10,Improved,No,2,119,102,83,146,39.8,258,None,37274.13
+P0692,Anita Williams,50,Female,AB-,Hypertension,Lifestyle Modification,Nephrology,2024-10-10,2024-10-29,19,Recovered,No,4,127,74,88,96,18.6,274,Medicare,48006.85
+P0693,Suresh Mehta,53,Male,AB+,Cancer,Surgery,Neurology,2025-09-11,2025-09-22,11,Improved,No,10,135,65,55,95,36.7,244,None,12515.84
+P0694,William Davis,66,Male,AB+,Kidney Disease,Kidney Transplant,Endocrinology,2020-06-21,2020-07-11,20,Recovered,No,7,163,66,62,265,22.9,268,Private,33794.17
+P0695,Robert Jones,84,Male,AB-,Diabetes,Glipizide,Orthopedics,2024-11-03,2024-11-25,22,Deteriorated,No,1,162,71,56,231,43.4,145,None,14967.7
+P0696,John Johnson,49,Male,AB-,Arthritis,Corticosteroid Injection,Neurology,2020-07-14,2020-07-25,11,Improved,No,3,110,73,90,267,41,202,Private,37164.89
+P0697,Paul Davis,47,Male,O-,Depression,SNRIs,Oncology,2021-02-18,2021-03-20,30,Stable,No,8,130,99,86,233,21.4,217,None,10506.38
+P0698,Emily Patel,39,Female,B-,Depression,SSRIs,General Medicine,2021-04-01,2021-04-08,7,Improved,No,2,179,101,90,145,37.9,257,Private,9306.45
+P0699,Paul Williams,51,Male,B-,Asthma,Montelukast,Oncology,2025-12-22,2026-01-03,12,Improved,No,6,103,107,107,294,41.7,195,Medicare,30864.29
+P0700,Pooja Davis,37,Female,AB-,Anemia,Erythropoietin,Orthopedics,2020-04-17,2020-05-03,16,Recovered,No,1,121,74,83,235,39.5,157,Medicare,1114.71
+P0701,Daniel Wilson,42,Male,O-,Anxiety,SSRIs,Oncology,2025-10-25,2025-11-13,19,Improved,No,4,123,105,105,163,39.3,187,Medicaid,21850.08
+P0702,Rajesh Smith,49,Male,B-,Back Pain,NSAIDs,General Medicine,2021-01-30,2021-03-01,30,Stable,No,9,180,90,89,150,19,274,Medicare,11777.31
+P0703,Amit Jones,74,Male,O+,Obesity,Diet Program,Nephrology,2020-09-21,2020-09-27,6,Recovered,No,5,161,101,58,299,26.1,157,Private,3656.95
+P0704,Melissa Brown,35,Female,O-,Anxiety,SSRIs,Neurology,2025-01-25,2025-02-04,10,Improved,No,10,132,74,91,274,41.4,224,Private,7639.54
+P0705,Suresh Johnson,33,Other,A-,Back Pain,Physical Therapy,Pulmonology,2020-09-17,2020-10-04,17,Improved,Yes,8,114,75,93,268,38,165,None,41869.1
+P0706,Michael Wilson,67,Male,O+,Back Pain,Surgery,Psychiatry,2024-04-10,2024-05-03,23,Improved,No,3,113,66,74,160,21.1,230,Medicare,44013.69
+P0707,John Singh,61,Male,O-,Obesity,Lifestyle Modification,Cardiology,2025-11-15,2025-11-24,9,Recovered,No,1,161,63,98,165,18.8,120,Medicare,48198.19
+P0708,Mark Wilson,65,Male,B+,Thyroid Disorder,Levothyroxine,Nephrology,2021-12-07,2021-12-14,7,Stable,No,8,113,94,68,158,18.8,159,Medicaid,30186.06
+P0709,Robert Sharma,22,Male,O-,Cancer,Chemotherapy,Psychiatry,2023-06-30,2023-07-30,30,Improved,No,10,177,71,92,202,20.9,145,Medicare,25133.73
+P0710,Laura Williams,75,Female,A-,Hypertension,Lisinopril,Orthopedics,2023-10-17,2023-10-25,8,Improved,No,10,152,72,105,173,17.2,135,Medicaid,45872.22
+P0711,James Miller,84,Male,AB-,Anxiety,SSRIs,Orthopedics,2023-03-03,2023-03-14,11,Recovered,No,6,127,100,82,173,28.6,141,Medicaid,24778.03
+P0712,William Rao,25,Male,O-,COPD,Bronchodilators,General Medicine,2022-02-09,2022-02-12,3,Improved,No,4,112,101,75,259,17.4,127,Medicaid,2836.77
+P0713,David Miller,85,Male,A+,Thyroid Disorder,Methimazole,Cardiology,2025-09-14,2025-09-26,12,Stable,No,4,117,66,84,117,41.9,201,Private,4111.69
+P0714,Meena Kumar,55,Female,O+,Diabetes,Insulin Therapy,Orthopedics,2023-09-16,2023-09-22,6,Deceased,No,7,137,85,57,109,20.1,183,Government,31277.31
+P0715,Neha Brown,19,Female,B-,Anxiety,Mindfulness Program,Orthopedics,2024-03-24,2024-04-02,9,Stable,No,3,152,76,93,72,34.2,221,Private,2569.07
+P0716,Kavita Patel,80,Female,A-,Hypertension,Amlodipine,Neurology,2023-09-02,2023-09-08,6,Deteriorated,No,2,177,105,99,171,24.3,193,Medicare,14592.89
+P0717,Meena Singh,81,Female,AB+,Heart Disease,Beta Blockers,Endocrinology,2025-10-23,2025-10-25,2,Improved,No,4,104,74,57,283,27.3,141,Medicaid,38245.8
+P0718,Rajesh Jones,23,Male,AB+,Anemia,B12 Injections,Cardiology,2022-05-11,2022-06-04,24,Improved,No,1,109,81,110,134,42.7,209,Medicare,23370.75
+P0719,Deepak Miller,26,Male,O-,Heart Disease,Beta Blockers,Nephrology,2022-03-07,2022-03-18,11,Stable,Yes,9,93,88,59,285,23.1,255,Private,14746.42
+P0720,Vijay Brown,84,Male,A-,COPD,Bronchodilators,Psychiatry,2021-11-26,2021-12-20,24,Deteriorated,Yes,7,94,69,61,245,22.8,217,Government,669.34
+P0721,Anita Wilson,27,Female,AB-,Diabetes,Glipizide,Oncology,2024-04-30,2024-05-10,10,Stable,No,8,147,107,70,244,30.2,184,Government,17584.74
+P0722,John Joshi,36,Male,AB+,Arthritis,Physical Therapy,Psychiatry,2024-05-10,2024-05-19,9,Deteriorated,No,4,92,87,106,146,20.2,237,Government,20813.39
+P0723,Emily Shah,69,Female,B-,Anxiety,Mindfulness Program,Oncology,2025-03-01,2025-03-25,24,Improved,No,4,149,83,76,153,35.3,154,Medicaid,36303.73
+P0724,Paul Johnson,77,Male,AB+,COPD,Steroids,Oncology,2024-03-15,2024-04-05,21,Improved,No,10,108,90,61,208,34.9,196,Private,45281.47
+P0725,James Davis,38,Male,B+,Anemia,Blood Transfusion,Nephrology,2025-10-20,2025-11-03,14,Recovered,No,10,93,104,68,168,32.5,164,Medicare,14029.34
+P0726,Meena Gupta,70,Female,A-,Depression,Psychotherapy,Nephrology,2022-10-03,2022-10-31,28,Stable,No,2,130,99,103,226,31.4,280,Private,43857.87
+P0727,Amit Smith,29,Male,B+,Depression,SNRIs,Orthopedics,2022-04-11,2022-05-05,24,Recovered,No,6,129,64,78,229,42.4,269,None,45273.5
+P0728,Daniel Patel,37,Male,B+,Asthma,Bronchodilators,Oncology,2021-04-30,2021-05-18,18,Deteriorated,No,2,110,95,90,230,29.6,191,Medicare,34653.2
+P0729,Amit Gupta,66,Male,O-,Obesity,Diet Program,Psychiatry,2025-05-07,2025-05-13,6,Stable,No,10,146,97,91,116,29,125,None,48529.69
+P0730,Kavita Singh,40,Other,A+,Asthma,Montelukast,Orthopedics,2024-05-31,2024-06-30,30,Recovered,No,8,171,80,73,252,39,141,Medicaid,18058.24
+P0731,Ashley Patel,64,Female,O-,Thyroid Disorder,Radioactive Iodine,General Medicine,2022-02-25,2022-03-14,17,Improved,No,7,93,91,75,112,17.5,181,Private,35175.49
+P0732,Robert Singh,60,Male,AB+,COPD,Bronchodilators,Cardiology,2021-06-19,2021-07-17,28,Deceased,Yes,5,163,61,74,167,21.8,240,None,19310.84
+P0733,Thomas Brown,70,Male,A-,Migraine,Lifestyle Modification,General Medicine,2021-06-26,2021-07-08,12,Stable,Yes,6,114,91,73,138,18.4,235,Private,45979.42
+P0734,Kavita Joshi,27,Female,AB-,Asthma,Montelukast,Orthopedics,2020-09-23,2020-09-28,5,Improved,No,3,101,64,55,255,16.4,207,None,43572.9
+P0735,Kavita Taylor,33,Female,O-,Diabetes,Insulin Therapy,Endocrinology,2022-03-28,2022-04-27,30,Stable,No,7,113,65,100,93,16.1,179,Medicaid,10905.84
+P0736,Pradeep Garcia,41,Male,A-,Obesity,Bariatric Surgery,Cardiology,2020-09-07,2020-09-22,15,Recovered,Yes,2,100,71,67,137,20.2,258,Government,28983.99
+P0737,James Joshi,38,Male,O+,Anxiety,Therapy,Orthopedics,2024-08-15,2024-09-01,17,Stable,No,5,144,76,107,158,37.3,255,Government,845.66
+P0738,Vijay Garcia,62,Male,O+,Cancer,Chemotherapy,Nephrology,2024-10-27,2024-10-30,3,Stable,No,2,91,107,98,92,25.2,212,None,35054.76
+P0739,William Johnson,81,Male,AB-,Arthritis,Corticosteroid Injection,Orthopedics,2023-07-07,2023-07-25,18,Deceased,No,7,119,97,65,80,36,224,Medicare,23514.77
+P0740,Rajesh Williams,71,Male,A-,Diabetes,Insulin Therapy,Pulmonology,2023-07-21,2023-08-03,13,Deceased,No,4,141,83,55,181,38.9,164,Private,7976.41
+P0741,Rajesh Mehta,61,Male,AB-,Heart Disease,Aspirin Therapy,General Medicine,2025-07-30,2025-08-12,13,Recovered,No,3,125,74,67,194,33.6,247,Private,21926.38
+P0742,Suresh Singh,59,Male,AB+,Migraine,Botox Injections,Nephrology,2023-03-31,2023-04-05,5,Recovered,No,10,117,86,86,73,43.7,160,Medicaid,17259.74
+P0743,Rajesh Miller,54,Male,AB-,Depression,SNRIs,Nephrology,2021-06-08,2021-06-20,12,Improved,No,6,98,61,83,164,28.1,173,None,47256.55
+P0744,Amy Smith,42,Female,O-,Cancer,Radiation Therapy,Orthopedics,2023-08-11,2023-09-06,26,Stable,No,1,180,97,94,130,39.6,183,Medicaid,24685.1
+P0745,Jessica Gupta,59,Female,AB-,Hypertension,Lifestyle Modification,Neurology,2025-03-10,2025-03-30,20,Deteriorated,No,1,98,88,79,269,21.6,190,Government,35739.43
+P0746,Rahul Smith,63,Male,O+,Thyroid Disorder,Surgery,Psychiatry,2021-08-21,2021-09-16,26,Improved,No,2,152,80,93,296,31.6,168,Private,47907.42
+P0747,Meena Miller,82,Female,O-,Arthritis,Physical Therapy,Cardiology,2024-03-20,2024-04-03,14,Stable,No,2,128,76,68,106,24.6,127,Medicare,32755.93
+P0748,Rekha Jones,66,Female,A-,COPD,Oxygen Therapy,Neurology,2024-12-24,2025-01-18,25,Improved,Yes,1,148,77,67,250,33.6,192,Private,8563.6
+P0749,Laura Garcia,65,Female,A+,Asthma,Montelukast,Oncology,2024-03-16,2024-04-03,18,Recovered,No,10,172,80,80,115,25.5,128,Medicaid,32359.24
+P0750,Rajesh Garcia,26,Male,AB-,Cancer,Chemotherapy,Pulmonology,2021-07-27,2021-08-01,5,Recovered,No,2,120,65,103,162,44.2,206,Medicare,4517.36
+P0751,Jennifer Brown,68,Female,B-,Migraine,Topiramate,Pulmonology,2021-01-01,2021-01-28,27,Recovered,No,1,104,108,110,136,22.6,134,Medicare,32415.55
+P0752,Sanjay Joshi,37,Male,A+,Thyroid Disorder,Methimazole,Oncology,2025-08-12,2025-08-23,11,Improved,Yes,10,92,92,103,144,30.3,226,Government,27726.54
+P0753,William Sharma,62,Male,O-,Migraine,Sumatriptan,Pulmonology,2024-02-16,2024-03-04,17,Deteriorated,No,9,140,73,64,207,16.2,280,Medicaid,37340.57
+P0754,Pradeep Taylor,50,Male,A+,Depression,Cognitive Behavioral Therapy,Endocrinology,2023-09-01,2023-09-30,29,Improved,No,2,173,78,83,77,28.9,251,Medicare,38615.82
+P0755,Meena Shah,56,Female,B-,Thyroid Disorder,Methimazole,Orthopedics,2023-05-27,2023-06-08,12,Improved,Yes,6,162,76,68,200,16.7,123,Medicare,11212.97
+P0756,Jessica Smith,76,Female,O+,Anxiety,SSRIs,Neurology,2025-07-06,2025-07-22,16,Improved,No,1,175,75,59,227,19.1,120,Private,42707.73
+P0757,Michael Wilson,38,Male,B+,Hypertension,Lisinopril,Oncology,2024-02-16,2024-02-23,7,Stable,No,5,137,64,72,176,35,196,None,38636.96
+P0758,Pradeep Kumar,21,Male,B-,Cancer,Immunotherapy,Orthopedics,2021-12-16,2021-12-17,1,Recovered,No,3,148,97,99,212,23.9,125,Private,35292.4
+P0759,Michael Sharma,22,Male,O+,Obesity,Diet Program,Cardiology,2025-03-22,2025-04-05,14,Recovered,No,4,163,62,97,86,43.8,191,Private,35640.14
+P0760,Meena Joshi,75,Female,AB-,Back Pain,Physical Therapy,Oncology,2020-06-29,2020-07-27,28,Improved,Yes,6,161,104,86,272,22.7,132,Medicare,14682.6
+P0761,Emily Johnson,36,Female,A-,Depression,SNRIs,Psychiatry,2024-07-25,2024-07-31,6,Improved,No,7,149,82,104,144,20.3,246,Medicaid,33947.68
+P0762,Rajesh Smith,63,Male,B+,Anemia,Blood Transfusion,Pulmonology,2025-01-20,2025-02-14,25,Improved,No,3,95,81,87,290,44.5,157,Government,30140.23
+P0763,Jessica Singh,71,Female,AB-,Cancer,Chemotherapy,Endocrinology,2025-08-15,2025-09-02,18,Recovered,No,6,163,60,71,210,35.3,162,Private,37115.71
+P0764,John Davis,68,Male,A+,COPD,Steroids,Oncology,2022-06-16,2022-07-05,19,Improved,No,4,178,108,61,127,34.6,236,Medicaid,8207.21
+P0765,Melissa Gupta,27,Female,A-,Migraine,Lifestyle Modification,Orthopedics,2022-09-17,2022-10-12,25,Improved,Yes,3,159,100,61,278,21.5,124,Private,2039.32
+P0766,Suresh Brown,63,Male,A+,Anemia,Blood Transfusion,Psychiatry,2020-02-13,2020-03-07,23,Improved,No,10,139,83,68,147,28.4,270,Medicare,46018.01
+P0767,Emily Smith,62,Other,AB+,Diabetes,Lifestyle Modification,General Medicine,2025-04-23,2025-05-21,28,Stable,No,1,102,87,99,220,34,209,Private,47481.55
+P0768,Anil Garcia,50,Other,B-,COPD,Bronchodilators,Endocrinology,2020-12-05,2020-12-13,8,Stable,No,8,148,84,102,156,23,240,Medicaid,2199.94
+P0769,Rahul Gupta,21,Male,AB-,Cancer,Immunotherapy,Neurology,2020-10-10,2020-10-27,17,Recovered,Yes,9,179,96,79,275,42.8,132,Government,13033.61
+P0770,Ritu Patel,23,Female,B-,Arthritis,Methotrexate,Endocrinology,2024-10-13,2024-10-17,4,Stable,Yes,3,115,90,86,133,16.2,165,None,38736.9
+P0771,Amy Garcia,47,Female,A-,Migraine,Botox Injections,Pulmonology,2021-04-20,2021-04-24,4,Recovered,No,6,167,96,56,182,30.4,230,Medicare,1516.61
+P0772,Ravi Brown,72,Male,B+,Hypertension,Lisinopril,Psychiatry,2020-12-23,2021-01-01,9,Deteriorated,Yes,10,150,85,87,132,42.3,155,Government,6490.04
+P0773,Daniel Johnson,51,Male,A-,Obesity,Lifestyle Modification,General Medicine,2022-01-29,2022-02-17,19,Improved,Yes,1,95,74,67,107,24.7,220,Medicaid,1054.08
+P0774,Amy Miller,19,Female,A-,Arthritis,Physical Therapy,Nephrology,2023-08-01,2023-08-31,30,Recovered,No,9,117,72,97,191,29.9,174,Government,5402.83
+P0775,Jennifer Gupta,26,Female,AB+,Obesity,Lifestyle Modification,Oncology,2021-11-05,2021-11-13,8,Stable,Yes,6,170,83,69,281,23.6,135,Private,37742.36
+P0776,John Williams,75,Male,AB+,Kidney Disease,ACE Inhibitors,General Medicine,2021-06-05,2021-06-21,16,Stable,No,2,142,101,110,263,34.4,181,Medicaid,30149.45
+P0777,Vijay Davis,28,Male,AB-,Migraine,Topiramate,Neurology,2020-06-12,2020-06-24,12,Improved,No,8,149,101,106,157,24.8,257,Medicare,30462.15
+P0778,Amy Davis,35,Female,B-,Obesity,Bariatric Surgery,Psychiatry,2021-01-07,2021-01-30,23,Improved,No,10,158,93,94,231,17.8,188,None,46740.96
+P0779,Sarah Joshi,42,Female,O+,Depression,SNRIs,Oncology,2022-02-24,2022-03-23,27,Improved,No,3,125,76,93,178,35.4,168,Government,38531.55
+P0780,Emily Davis,59,Female,O-,Heart Disease,Bypass Surgery,Neurology,2025-10-31,2025-11-06,6,Recovered,No,8,171,75,68,223,38.9,206,Government,9562.35
+P0781,Ravi Wilson,76,Male,AB-,COPD,Pulmonary Rehabilitation,Neurology,2021-08-22,2021-08-31,9,Stable,No,5,105,84,107,210,44.5,120,Medicare,3794.05
+P0782,Laura Wilson,53,Female,O-,COPD,Steroids,Oncology,2022-03-26,2022-04-04,9,Recovered,Yes,2,170,91,93,97,29.8,219,Private,16000.53
+P0783,Vijay Mehta,31,Male,O+,COPD,Pulmonary Rehabilitation,Oncology,2021-06-05,2021-07-01,26,Recovered,No,5,116,62,97,215,17.7,148,Medicare,17211.49
+P0784,Sanjay Taylor,52,Male,O+,Cancer,Surgery,Psychiatry,2022-08-26,2022-08-31,5,Recovered,No,2,118,70,106,281,27.1,258,Medicare,31006.68
+P0785,Sanjay Brown,46,Male,AB-,Heart Disease,Bypass Surgery,Orthopedics,2021-11-09,2021-12-08,29,Recovered,No,7,125,66,55,131,35.5,231,Government,29192.06
+P0786,Vijay Brown,74,Male,O-,Obesity,Orlistat,Oncology,2024-04-23,2024-05-21,28,Stable,No,6,92,94,103,139,21.9,245,Private,22114.19
+P0787,Lisa Williams,74,Female,B-,Kidney Disease,ACE Inhibitors,Oncology,2024-03-07,2024-03-12,5,Stable,No,5,111,110,80,123,22.3,210,Medicare,20552.56
+P0788,Melissa Sharma,49,Female,AB+,Anemia,Iron Supplements,Oncology,2025-01-26,2025-02-18,23,Stable,No,2,163,82,78,167,16.6,231,None,36346.84
+P0789,Ravi Johnson,51,Male,B+,Obesity,Orlistat,General Medicine,2021-11-21,2021-11-29,8,Deteriorated,No,2,166,93,106,120,40.5,217,Private,18546.31
+P0790,Laura Verma,50,Female,A+,Hypertension,Metoprolol,Oncology,2025-01-29,2025-02-03,5,Improved,No,10,125,71,69,174,25,253,Medicaid,3805.56
+P0791,Sushma Rao,78,Female,AB-,Anxiety,SSRIs,Orthopedics,2022-08-25,2022-08-26,1,Stable,Yes,2,167,105,59,87,38.4,188,Medicaid,40955.84
+P0792,Sushma Gupta,41,Female,B+,Heart Disease,Aspirin Therapy,Neurology,2023-08-26,2023-09-23,28,Recovered,Yes,3,155,61,87,199,42,220,Government,7179.98
+P0793,Emily Wilson,53,Female,AB-,Obesity,Orlistat,Orthopedics,2025-02-06,2025-02-12,6,Stable,No,9,110,100,93,263,17.2,216,Medicare,7227.26
+P0794,Jessica Miller,77,Female,O+,Anemia,Erythropoietin,Oncology,2024-07-17,2024-08-11,25,Improved,No,6,111,92,109,197,19.7,129,Private,10741.2
+P0795,Ashley Williams,66,Female,O+,Arthritis,Methotrexate,Cardiology,2020-04-07,2020-04-18,11,Improved,No,3,117,87,104,233,37.8,235,Medicare,43327.26
+P0796,Rahul Joshi,74,Male,O+,Arthritis,Corticosteroid Injection,Psychiatry,2024-06-23,2024-07-08,15,Stable,No,2,116,89,63,176,43.8,182,None,47412.41
+P0797,Robert Williams,73,Male,B+,Hypertension,Metoprolol,Nephrology,2023-12-24,2024-01-20,27,Improved,Yes,2,95,90,59,160,25.6,199,Medicaid,46138.27
+P0798,Rahul Miller,45,Male,AB+,Anemia,Erythropoietin,Nephrology,2020-04-08,2020-04-23,15,Improved,No,8,134,99,75,142,26.7,252,Medicaid,29488.25
+P0799,Daniel Wilson,82,Male,B-,Hypertension,Amlodipine,Nephrology,2024-03-27,2024-04-07,11,Stable,No,7,171,77,64,106,38.1,170,Private,5112.89
+P0800,Rahul Gupta,42,Male,O+,Anxiety,SSRIs,Pulmonology,2024-09-06,2024-10-02,26,Stable,Yes,1,144,95,91,135,44.7,173,Medicare,528.07
+P0801,Pooja Jones,39,Female,O-,Cancer,Immunotherapy,Psychiatry,2021-04-12,2021-04-15,3,Stable,No,6,168,106,78,287,29.6,186,Medicaid,29063.65
+P0802,Mark Miller,53,Male,A-,Back Pain,NSAIDs,Nephrology,2022-07-15,2022-08-11,27,Recovered,No,5,124,81,87,146,30.5,223,Government,3038.69
+P0803,Pooja Joshi,77,Female,A-,Cancer,Radiation Therapy,Psychiatry,2021-02-07,2021-03-02,23,Improved,Yes,8,142,107,80,177,32.4,196,None,4515.9
+P0804,Anita Brown,69,Female,AB+,Thyroid Disorder,Surgery,Cardiology,2021-09-22,2021-10-06,14,Improved,No,4,132,83,62,148,22.8,245,Medicare,46427.86
+P0805,Ritu Joshi,39,Female,B+,Depression,Cognitive Behavioral Therapy,Endocrinology,2023-09-01,2023-09-20,19,Improved,No,2,102,65,60,273,37.4,158,Private,27248.34
+P0806,Anil Verma,35,Male,B-,Arthritis,Methotrexate,Cardiology,2024-01-03,2024-01-25,22,Improved,Yes,1,111,79,76,95,17.1,269,Government,4576.12
+P0807,Melissa Kumar,52,Female,AB-,Kidney Disease,Diet Modification,Neurology,2025-11-24,2025-11-27,3,Stable,No,2,107,64,84,225,40.7,160,Medicaid,32351.47
+P0808,Deepak Verma,68,Male,O-,Thyroid Disorder,Radioactive Iodine,Nephrology,2021-10-28,2021-11-20,23,Improved,No,5,135,92,74,145,35,222,Government,21189.5
+P0809,Rajesh Gupta,22,Male,AB+,Hypertension,Lisinopril,Nephrology,2021-04-27,2021-05-02,5,Recovered,No,8,106,69,101,88,24.2,205,Medicare,34542.43
+P0810,Daniel Wilson,56,Male,AB+,Cancer,Radiation Therapy,Pulmonology,2025-04-22,2025-05-13,21,Recovered,No,8,140,72,77,86,17.4,184,None,19783.17
+P0811,James Brown,58,Male,AB-,Cancer,Radiation Therapy,Neurology,2020-01-31,2020-02-28,28,Stable,Yes,9,143,65,86,294,44.7,157,None,2580.26
+P0812,Sushma Brown,22,Female,O+,Back Pain,Physical Therapy,Psychiatry,2024-01-17,2024-02-09,23,Improved,Yes,9,133,60,61,193,38.4,248,Medicaid,10484.8
+P0813,Thomas Wilson,43,Male,AB-,Anxiety,Benzodiazepines,Neurology,2025-02-06,2025-03-02,24,Improved,No,2,158,108,84,81,24.3,124,Medicare,20663.15
+P0814,Lisa Wilson,47,Female,B-,Cancer,Surgery,Cardiology,2022-07-01,2022-07-16,15,Improved,Yes,8,119,102,92,135,27.4,121,Medicare,26771.77
+P0815,Amit Singh,53,Male,B-,COPD,Steroids,Neurology,2020-03-07,2020-03-24,17,Deteriorated,No,2,166,102,58,197,44.7,174,Medicare,26937.46
+P0816,Sarah Patel,43,Female,B+,Diabetes,Glipizide,Nephrology,2020-11-22,2020-12-03,11,Stable,No,7,92,66,63,261,37.2,163,Medicare,33044.13
+P0817,Anil Johnson,30,Male,B+,Back Pain,Epidural Injection,Endocrinology,2023-06-21,2023-07-09,18,Stable,Yes,5,99,69,110,101,40.7,120,Private,47702.48
+P0818,Sarah Kumar,82,Female,A+,Back Pain,Surgery,Neurology,2025-09-23,2025-09-27,4,Improved,No,5,100,82,105,93,26.2,219,Medicaid,40426.79
+P0819,Sunita Singh,38,Female,A-,Asthma,Montelukast,General Medicine,2021-10-18,2021-11-04,17,Stable,No,7,114,90,103,231,26.2,207,Medicaid,42748.56
+P0820,Jessica Shah,39,Female,B-,Heart Disease,Bypass Surgery,Nephrology,2020-10-01,2020-10-25,24,Recovered,Yes,8,161,109,84,169,25.3,214,Private,10356.1
+P0821,Priya Johnson,61,Female,O-,Anxiety,Benzodiazepines,Pulmonology,2023-07-14,2023-08-11,28,Improved,No,9,102,98,88,213,38.2,271,Private,7220.63
+P0822,Anita Smith,49,Female,A-,Arthritis,Corticosteroid Injection,Cardiology,2023-04-16,2023-04-18,2,Deteriorated,No,7,128,102,63,248,23.5,217,Medicaid,49964.4
+P0823,William Rao,56,Male,O-,Anxiety,Benzodiazepines,Endocrinology,2020-04-17,2020-04-27,10,Improved,No,6,107,93,93,223,40.7,212,Private,6112.02
+P0824,Pradeep Wilson,28,Male,O+,Heart Disease,Aspirin Therapy,General Medicine,2023-02-06,2023-02-16,10,Stable,No,9,159,65,106,252,31.9,267,Private,43579.87
+P0825,Anita Rao,71,Female,A-,Hypertension,Metoprolol,Endocrinology,2023-01-07,2023-01-31,24,Recovered,No,9,102,97,55,97,41.9,130,None,23726.54
+P0826,Daniel Joshi,28,Male,B-,Depression,Cognitive Behavioral Therapy,Endocrinology,2022-01-28,2022-02-18,21,Deteriorated,No,9,170,61,85,125,37.1,152,Medicare,8883.79
+P0827,Thomas Mehta,42,Male,B-,Obesity,Orlistat,Oncology,2020-08-31,2020-09-14,14,Recovered,No,5,114,93,73,158,20,271,Medicaid,20871.38
+P0828,Kavita Brown,50,Female,A+,Anemia,Blood Transfusion,Orthopedics,2020-01-06,2020-01-10,4,Improved,No,3,122,104,63,217,21.3,268,Government,6438.87
+P0829,Vijay Singh,68,Other,O-,Asthma,Corticosteroids,Orthopedics,2023-02-06,2023-02-10,4,Improved,Yes,2,104,104,55,175,19.1,172,None,22630.19
+P0830,Rekha Miller,53,Other,AB-,Obesity,Orlistat,Orthopedics,2021-08-20,2021-08-27,7,Improved,No,7,175,102,70,195,30.2,190,Government,22153.82
+P0831,Amit Jones,85,Male,AB-,Arthritis,Physical Therapy,Pulmonology,2024-08-20,2024-08-24,4,Deteriorated,No,10,126,77,66,179,38.3,241,None,39391.91
+P0832,Sanjay Jones,43,Male,B+,Migraine,Lifestyle Modification,Nephrology,2025-05-07,2025-05-20,13,Improved,No,9,118,88,63,74,38.6,244,Private,19536.79
+P0833,John Miller,50,Male,B+,Migraine,Sumatriptan,Neurology,2023-01-18,2023-02-15,28,Stable,No,4,141,61,59,215,43.8,147,Medicare,12440.68
+P0834,Rahul Gupta,20,Other,AB+,Depression,Psychotherapy,Pulmonology,2023-10-29,2023-10-30,1,Improved,No,4,103,106,74,254,38.2,184,Medicaid,34953.33
+P0835,Emily Kumar,66,Female,A-,Obesity,Orlistat,Psychiatry,2022-09-30,2022-10-11,11,Recovered,No,1,135,90,103,131,31.4,246,Private,11765.1
+P0836,Rekha Joshi,70,Female,A+,Thyroid Disorder,Levothyroxine,Endocrinology,2022-04-19,2022-05-04,15,Improved,No,2,103,103,90,182,36.8,176,None,37032.21
+P0837,Mark Brown,33,Male,A+,Arthritis,Corticosteroid Injection,Orthopedics,2022-05-06,2022-05-09,3,Improved,No,4,168,67,60,276,23.3,273,Medicare,27076.11
+P0838,Laura Patel,18,Female,O-,Cancer,Immunotherapy,Psychiatry,2022-06-05,2022-07-01,26,Improved,No,6,102,65,87,219,22.7,267,Medicare,14244.66
+P0839,Sushma Sharma,30,Female,AB-,Anemia,Iron Supplements,Pulmonology,2023-02-01,2023-02-08,7,Recovered,No,1,119,107,57,257,21.2,173,Government,10283.41
+P0840,Anita Kumar,44,Female,A-,Depression,SNRIs,Pulmonology,2024-11-03,2024-11-08,5,Stable,No,7,150,84,55,113,26.9,256,Private,9167.24
+P0841,Meena Singh,37,Female,O-,Anxiety,Benzodiazepines,Pulmonology,2024-11-15,2024-11-23,8,Stable,No,10,124,105,88,252,32.1,255,Medicare,47523.36
+P0842,Paul Davis,45,Male,AB-,Obesity,Diet Program,Nephrology,2021-12-06,2021-12-26,20,Stable,No,9,125,80,71,225,22.2,125,Private,10215.35
+P0843,Kavita Gupta,24,Female,A-,Heart Disease,Aspirin Therapy,Pulmonology,2025-05-17,2025-05-30,13,Deteriorated,Yes,10,96,93,66,207,41.4,152,Government,12403.9
+P0844,Sunita Smith,85,Female,B+,COPD,Bronchodilators,Pulmonology,2022-11-29,2022-12-08,9,Improved,No,2,112,62,82,195,40.7,172,Medicaid,7415.77
+P0845,David Davis,28,Male,O-,Migraine,Lifestyle Modification,Psychiatry,2025-03-02,2025-03-08,6,Stable,No,2,93,62,103,72,38.6,126,Government,43212.85
+P0846,Amy Singh,28,Female,O-,Migraine,Topiramate,General Medicine,2025-05-23,2025-06-18,26,Recovered,Yes,6,172,83,58,271,34.3,274,Medicare,1779.14
+P0847,Jennifer Rao,55,Female,A+,Arthritis,Physical Therapy,General Medicine,2020-12-14,2021-01-01,18,Stable,No,5,151,78,86,203,42.4,139,None,7953.57
+P0848,Amit Miller,73,Male,AB+,Obesity,Lifestyle Modification,Neurology,2020-06-29,2020-07-19,20,Recovered,No,3,121,84,77,232,25.9,212,Medicare,36333.01
+P0849,Pooja Brown,37,Female,AB-,Back Pain,Epidural Injection,Psychiatry,2025-09-26,2025-10-04,8,Deceased,Yes,1,174,63,78,149,39.8,267,Private,19078.61
+P0850,Sanjay Brown,76,Male,A-,Kidney Disease,Diet Modification,General Medicine,2020-03-10,2020-04-04,25,Stable,No,5,113,68,59,85,23.8,132,Medicaid,46442.86
+P0851,Priya Mehta,51,Female,B+,Thyroid Disorder,Methimazole,Orthopedics,2025-04-24,2025-05-10,16,Deteriorated,No,4,156,72,79,253,38.2,255,Private,32563.26
+P0852,Michael Taylor,55,Male,AB+,Migraine,Topiramate,Neurology,2025-11-06,2025-11-25,19,Stable,Yes,9,142,79,65,75,23,227,Government,37945.73
+P0853,Ravi Singh,77,Male,O-,Thyroid Disorder,Levothyroxine,Oncology,2024-05-17,2024-05-27,10,Deteriorated,No,6,110,82,103,165,38,130,Medicaid,9736.16
+P0854,Ritu Shah,20,Female,B-,Anemia,Iron Supplements,Neurology,2025-04-08,2025-04-21,13,Improved,No,6,127,92,91,278,31.4,125,Medicaid,38715.83
+P0855,Jennifer Patel,53,Female,B-,Depression,Cognitive Behavioral Therapy,Cardiology,2025-03-22,2025-04-11,20,Stable,No,4,176,104,76,79,24.4,134,Government,49659.74
+P0856,Sunita Shah,85,Other,A+,Arthritis,Methotrexate,Pulmonology,2021-05-15,2021-05-28,13,Stable,No,2,103,65,61,252,33.4,254,Medicaid,23589.28
+P0857,William Wilson,29,Other,AB-,Anemia,B12 Injections,Psychiatry,2025-07-10,2025-07-17,7,Recovered,No,10,118,62,81,288,17,139,None,47832.42
+P0858,Pradeep Jones,82,Other,A+,Thyroid Disorder,Surgery,Pulmonology,2025-11-18,2025-12-17,29,Recovered,Yes,3,116,61,106,77,33,205,Government,39042.33
+P0859,Sarah Garcia,81,Female,A-,Arthritis,Methotrexate,Cardiology,2021-05-05,2021-05-29,24,Deteriorated,Yes,5,169,103,68,170,26.7,208,Private,7129.35
+P0860,Amy Rao,31,Female,B-,COPD,Pulmonary Rehabilitation,Nephrology,2022-07-14,2022-07-22,8,Improved,No,3,133,61,92,105,37.9,224,Medicaid,10137.94
+P0861,Rekha Singh,48,Female,O-,Obesity,Bariatric Surgery,Endocrinology,2023-10-04,2023-10-15,11,Improved,No,1,122,62,99,260,40.9,195,Private,6937.6
+P0862,Sarah Joshi,81,Female,B-,Cancer,Immunotherapy,Cardiology,2024-10-21,2024-11-04,14,Deceased,Yes,1,156,104,61,99,37.6,229,Private,39125.18
+P0863,Meena Johnson,67,Female,O-,Anxiety,Benzodiazepines,Nephrology,2020-04-21,2020-05-04,13,Recovered,No,6,99,80,102,124,18.9,164,Private,38495.93
+P0864,Jennifer Davis,41,Female,A-,Anxiety,Benzodiazepines,Oncology,2025-06-11,2025-07-02,21,Stable,No,1,161,101,64,229,22.1,254,Government,41653.88
+P0865,Daniel Sharma,85,Male,O-,Obesity,Orlistat,General Medicine,2023-11-04,2023-11-14,10,Recovered,Yes,2,157,68,81,81,22.1,215,Medicare,30918.17
+P0866,Priya Taylor,24,Female,AB+,COPD,Pulmonary Rehabilitation,Pulmonology,2020-09-22,2020-10-18,26,Improved,No,10,92,105,83,135,32.9,162,Medicaid,20441.33
+P0867,Jessica Rao,76,Female,B-,Hypertension,Metoprolol,Oncology,2021-08-17,2021-09-04,18,Stable,No,5,171,96,70,107,25.6,146,Government,15073.17
+P0868,Kavita Patel,46,Female,AB+,Arthritis,Physical Therapy,Cardiology,2024-10-26,2024-11-08,13,Improved,No,8,142,99,99,75,44.7,241,Private,8172.54
+P0869,Sushma Shah,57,Female,A+,COPD,Oxygen Therapy,Psychiatry,2025-10-30,2025-11-19,20,Recovered,No,5,173,75,88,105,35.1,263,None,37972.1
+P0870,Sanjay Gupta,73,Other,O-,Depression,SSRIs,Psychiatry,2021-08-26,2021-09-08,13,Improved,No,7,159,103,64,181,35.2,143,Medicare,39288.24
+P0871,Meena Sharma,79,Female,AB+,Back Pain,Surgery,Pulmonology,2021-02-06,2021-02-28,22,Stable,Yes,5,114,93,75,216,25.8,150,Medicaid,12970.56
+P0872,Mark Rao,83,Male,A-,Arthritis,Ibuprofen,Nephrology,2020-04-30,2020-05-27,27,Deceased,No,7,118,60,55,240,40.7,231,Private,30219.43
+P0873,Michael Miller,43,Male,O-,Hypertension,Lisinopril,Cardiology,2022-03-02,2022-03-29,27,Stable,No,2,96,64,79,205,17.6,191,Private,4465.17
+P0874,Anil Miller,43,Male,B+,Thyroid Disorder,Surgery,Psychiatry,2024-08-11,2024-09-01,21,Recovered,No,7,118,100,72,139,16.5,246,Private,22312.15
+P0875,Amanda Gupta,69,Female,B+,Back Pain,Surgery,Cardiology,2021-06-16,2021-07-06,20,Recovered,No,1,161,65,102,293,30.3,280,Medicaid,41387.3
+P0876,Lisa Singh,51,Female,B-,Diabetes,Glipizide,Endocrinology,2025-11-16,2025-12-08,22,Improved,No,3,114,72,67,186,22.7,153,None,47732.57
+P0877,Jessica Kumar,77,Female,O-,COPD,Bronchodilators,Pulmonology,2025-03-16,2025-03-17,1,Recovered,No,4,176,66,60,224,20.7,217,Government,6074.69
+P0878,Daniel Wilson,62,Male,AB+,Anxiety,Benzodiazepines,General Medicine,2022-02-18,2022-02-25,7,Improved,No,3,127,79,71,221,17.4,163,None,43295.62
+P0879,Kavita Brown,53,Female,B+,Arthritis,Ibuprofen,Neurology,2022-08-26,2022-09-10,15,Recovered,No,8,103,85,85,206,19.1,156,Government,45299.62
+P0880,Anil Singh,80,Male,B-,Cancer,Radiation Therapy,General Medicine,2021-02-23,2021-03-16,21,Recovered,No,8,143,70,91,209,25.9,245,Medicare,39327.53
+P0881,Pooja Davis,49,Female,AB+,Cancer,Chemotherapy,Psychiatry,2025-10-11,2025-10-17,6,Improved,Yes,10,142,61,76,128,32.6,235,Medicare,48008.49
+P0882,Kavita Jones,79,Female,B+,Migraine,Sumatriptan,Orthopedics,2024-07-07,2024-08-04,28,Deteriorated,Yes,9,141,93,104,276,20.2,123,Private,18571.77
+P0883,Sushma Patel,46,Female,AB+,Anemia,Erythropoietin,Oncology,2023-09-05,2023-09-27,22,Recovered,No,5,176,102,78,73,38.5,258,Medicaid,49449.23
+P0884,Vijay Miller,40,Male,O+,Hypertension,Amlodipine,Nephrology,2023-09-02,2023-09-21,19,Improved,No,9,166,62,90,221,31.5,188,Medicaid,12143.35
+P0885,Sushma Gupta,22,Female,O+,Thyroid Disorder,Radioactive Iodine,Orthopedics,2020-05-18,2020-06-07,20,Stable,No,3,174,94,82,254,33.3,184,Medicaid,25614.38
+P0886,Paul Miller,26,Male,AB+,Anemia,Iron Supplements,General Medicine,2023-03-07,2023-03-19,12,Improved,No,4,154,89,106,262,42.5,232,Medicare,5037.45
+P0887,Pradeep Davis,41,Male,AB+,Diabetes,Glipizide,Endocrinology,2023-01-30,2023-02-12,13,Stable,Yes,10,170,102,84,196,33.7,246,Medicaid,19531.48
+P0888,Rekha Gupta,58,Female,A+,COPD,Oxygen Therapy,General Medicine,2025-07-16,2025-08-09,24,Recovered,No,6,130,103,88,70,27.6,167,None,34275.77
+P0889,Emily Williams,66,Female,AB+,Migraine,Lifestyle Modification,Endocrinology,2025-02-13,2025-03-04,19,Recovered,No,3,111,77,89,115,38.6,207,Medicare,42697.84
+P0890,Meena Gupta,63,Female,A-,Thyroid Disorder,Radioactive Iodine,Pulmonology,2022-01-30,2022-02-20,21,Recovered,No,4,177,94,102,217,40.6,220,None,41600.26
+P0891,Ravi Singh,59,Male,O-,Asthma,Montelukast,Psychiatry,2025-06-02,2025-06-08,6,Deteriorated,No,6,139,70,91,113,27.7,270,Private,11471.78
+P0892,Thomas Kumar,68,Male,B-,Depression,SNRIs,Neurology,2020-04-15,2020-05-06,21,Improved,No,5,139,95,75,74,33.7,244,Private,38763.66
+P0893,Paul Kumar,83,Male,A-,Thyroid Disorder,Levothyroxine,Nephrology,2021-04-08,2021-05-08,30,Improved,No,1,111,63,67,203,40.2,205,None,29307.86
+P0894,Deepak Singh,59,Male,A-,Arthritis,Corticosteroid Injection,Orthopedics,2021-03-16,2021-03-27,11,Stable,No,9,103,73,101,114,26.6,174,Government,40968.17
+P0895,Amanda Smith,23,Female,A-,Diabetes,Lifestyle Modification,Endocrinology,2021-09-05,2021-09-28,23,Deteriorated,No,9,126,109,105,92,17,210,Medicaid,9277.58
+P0896,Laura Verma,34,Female,AB+,Back Pain,Surgery,Orthopedics,2020-01-28,2020-02-06,9,Improved,Yes,6,155,93,90,289,38.2,222,Medicare,8558.08
+P0897,James Wilson,82,Male,AB+,Anxiety,Mindfulness Program,Pulmonology,2024-12-16,2024-12-25,9,Improved,No,10,107,91,100,156,30.8,191,None,27296.8
+P0898,Sarah Taylor,54,Female,O-,Asthma,Corticosteroids,Endocrinology,2023-06-01,2023-06-21,20,Deteriorated,Yes,5,178,87,76,76,19.9,121,Government,44183.25
+P0899,Pooja Singh,48,Female,A-,Asthma,Albuterol Inhaler,Orthopedics,2023-08-28,2023-09-25,28,Improved,No,3,90,80,76,193,17,172,None,31854.18
+P0900,Thomas Miller,67,Male,B+,Anxiety,Mindfulness Program,Orthopedics,2021-08-13,2021-08-29,16,Deceased,Yes,1,144,88,95,271,28.8,194,None,32335.71
+P0901,Sushma Johnson,54,Female,B+,Heart Disease,Aspirin Therapy,Pulmonology,2025-11-23,2025-11-30,7,Stable,Yes,4,180,94,106,278,19.1,154,Private,9925.97
+P0902,Lisa Singh,25,Female,AB+,Anxiety,Benzodiazepines,Neurology,2021-01-03,2021-01-20,17,Recovered,Yes,8,152,70,68,253,32,208,Medicaid,1699.16
+P0903,Amanda Patel,41,Female,B+,Cancer,Surgery,Psychiatry,2025-05-20,2025-06-04,15,Improved,No,6,161,100,72,193,19.9,159,Medicaid,43205.52
+P0904,Robert Williams,48,Male,B+,Migraine,Sumatriptan,Pulmonology,2024-05-26,2024-05-28,2,Improved,Yes,4,146,67,96,190,21.1,237,Private,34530.4
+P0905,Anil Gupta,45,Male,O-,Migraine,Botox Injections,Psychiatry,2021-12-02,2021-12-06,4,Stable,No,3,174,97,59,233,24.8,261,None,27757.62
+P0906,Pooja Wilson,44,Female,O+,Depression,SNRIs,Nephrology,2022-12-28,2023-01-11,14,Recovered,No,5,153,74,65,276,27.4,183,Medicaid,47123.97
+P0907,Melissa Taylor,32,Female,A-,Asthma,Bronchodilators,Pulmonology,2024-12-02,2024-12-03,1,Recovered,No,8,146,64,65,84,25.6,272,Government,23691.3
+P0908,Sarah Gupta,84,Female,O+,Heart Disease,Beta Blockers,Endocrinology,2021-09-03,2021-09-04,1,Stable,Yes,1,107,110,78,171,37.1,133,Medicaid,27624.98
+P0909,Amanda Miller,82,Female,B-,COPD,Steroids,Psychiatry,2023-12-01,2023-12-23,22,Recovered,Yes,1,175,92,77,117,22.9,256,Private,20020.12
+P0910,Deepak Joshi,67,Male,B+,Anemia,Iron Supplements,Psychiatry,2023-08-06,2023-08-10,4,Improved,Yes,10,110,73,110,256,32.5,143,Medicaid,1630.61
+P0911,Priya Singh,56,Female,B-,Heart Disease,Bypass Surgery,General Medicine,2023-02-09,2023-03-02,21,Deteriorated,No,2,114,63,94,280,21.7,121,Medicaid,29039.18
+P0912,Lisa Kumar,36,Female,A+,Anxiety,Benzodiazepines,Orthopedics,2021-09-10,2021-10-04,24,Recovered,No,3,110,67,110,245,42.8,237,Private,20800.52
+P0913,Sunita Kumar,32,Female,B-,Anxiety,Mindfulness Program,Cardiology,2021-03-04,2021-03-09,5,Deteriorated,No,8,105,99,101,78,28.9,207,Government,33255.02
+P0914,Meena Verma,55,Female,B+,Kidney Disease,ACE Inhibitors,General Medicine,2024-11-02,2024-11-15,13,Improved,Yes,5,91,102,66,186,34.9,197,Private,38944.11
+P0915,Rahul Davis,68,Male,O-,Anemia,B12 Injections,Psychiatry,2023-10-12,2023-11-09,28,Recovered,No,6,107,69,93,143,26.9,124,Medicare,42079.57
+P0916,Sunita Sharma,45,Female,O-,Migraine,Lifestyle Modification,Nephrology,2021-06-09,2021-07-04,25,Stable,Yes,6,92,109,61,128,44.1,150,Medicaid,7523.01
+P0917,Deepak Gupta,45,Male,AB-,Thyroid Disorder,Levothyroxine,Pulmonology,2022-11-28,2022-12-01,3,Deteriorated,No,9,93,69,85,83,28.3,212,None,30905.43
+P0918,Paul Taylor,25,Male,O-,Obesity,Lifestyle Modification,Cardiology,2024-11-01,2024-11-15,14,Deteriorated,No,6,142,74,63,102,40.9,255,None,32679.67
+P0919,Sushma Sharma,46,Female,A-,Migraine,Lifestyle Modification,Cardiology,2020-05-12,2020-05-20,8,Recovered,No,5,168,83,80,197,32.4,235,None,18744.02
+P0920,John Johnson,54,Male,A-,Anxiety,SSRIs,Endocrinology,2022-10-05,2022-10-14,9,Improved,No,9,107,76,84,181,16.1,131,Private,27969.6
+P0921,David Davis,47,Male,AB-,Hypertension,Lifestyle Modification,Endocrinology,2024-06-20,2024-06-29,9,Stable,No,6,152,70,82,202,17.2,123,Private,26084.17
+P0922,Rahul Kumar,61,Male,O-,Migraine,Sumatriptan,Cardiology,2025-03-13,2025-03-16,3,Recovered,No,5,142,88,61,133,17.6,178,Medicaid,16940.89
+P0923,Melissa Rao,43,Female,O+,Back Pain,Surgery,Cardiology,2021-12-17,2021-12-21,4,Stable,No,7,92,96,82,116,26.1,255,Medicare,33980.12
+P0924,Suresh Davis,18,Male,B+,Depression,Cognitive Behavioral Therapy,Nephrology,2022-03-31,2022-04-20,20,Improved,Yes,4,122,87,80,181,39.9,140,Medicare,17985.07
+P0925,Amit Mehta,69,Male,A+,Anxiety,Mindfulness Program,Cardiology,2021-02-14,2021-02-24,10,Deceased,Yes,5,98,110,62,82,29,244,Private,33493.56
+P0926,Neha Wilson,48,Female,O+,COPD,Bronchodilators,Orthopedics,2023-01-09,2023-01-28,19,Recovered,No,1,175,105,59,151,38.7,130,Medicaid,13148.32
+P0927,Jessica Taylor,85,Female,A-,Obesity,Orlistat,Nephrology,2020-09-23,2020-09-30,7,Improved,Yes,7,177,67,107,176,27.1,262,Government,37620.38
+P0928,Deepak Verma,80,Male,A-,Obesity,Bariatric Surgery,Psychiatry,2022-10-13,2022-10-21,8,Stable,No,10,145,71,68,258,36,251,Medicaid,33651.71
+P0929,Rahul Singh,51,Male,A+,Asthma,Bronchodilators,Cardiology,2021-07-25,2021-07-26,1,Recovered,Yes,3,155,89,107,208,40.5,147,None,4906.63
+P0930,Daniel Singh,48,Male,A+,Depression,Psychotherapy,Nephrology,2021-08-23,2021-09-21,29,Recovered,No,9,92,106,108,207,30.6,270,Private,48246.82
+P0931,Sushma Mehta,56,Other,B+,COPD,Oxygen Therapy,Psychiatry,2021-10-20,2021-11-14,25,Recovered,No,1,156,92,102,129,32.6,232,Private,48639.7
+P0932,Neha Davis,23,Female,B+,Anxiety,Mindfulness Program,Pulmonology,2023-08-04,2023-08-20,16,Stable,No,2,114,84,91,91,24.7,223,Medicaid,5029.43
+P0933,Amy Mehta,39,Female,A-,Kidney Disease,Kidney Transplant,Oncology,2025-08-29,2025-09-03,5,Improved,No,4,164,102,109,192,35.3,132,None,13723.16
+P0934,Sunita Wilson,72,Female,O-,Hypertension,Metoprolol,General Medicine,2024-10-15,2024-10-17,2,Improved,No,7,172,75,66,194,24.2,261,Private,28130.29
+P0935,Amanda Wilson,68,Female,AB+,Asthma,Montelukast,Oncology,2020-07-04,2020-08-02,29,Stable,No,10,179,100,73,283,33.7,218,Private,27566.52
+P0936,Thomas Rao,37,Male,B+,Hypertension,Lifestyle Modification,Endocrinology,2020-02-17,2020-02-22,5,Improved,No,9,139,69,65,161,32.8,182,Private,41363.23
+P0937,Amy Joshi,52,Female,A+,COPD,Steroids,Cardiology,2025-12-21,2026-01-13,23,Improved,No,7,145,68,71,171,29.9,254,Medicaid,22536.13
+P0938,Sunita Rao,27,Female,B+,Heart Disease,Aspirin Therapy,Pulmonology,2022-10-13,2022-10-25,12,Stable,No,6,116,105,81,97,22.7,241,Government,36125.87
+P0939,Ravi Smith,83,Male,O-,Hypertension,Lifestyle Modification,Cardiology,2023-09-23,2023-10-18,25,Stable,No,7,111,83,72,262,24.8,157,Private,13478.05
+P0940,Ritu Mehta,21,Female,A+,Back Pain,Surgery,Nephrology,2024-07-04,2024-08-01,28,Recovered,No,1,98,109,88,102,36.3,272,Medicare,27142.89
+P0941,Daniel Gupta,30,Male,B-,Arthritis,Ibuprofen,Endocrinology,2024-12-18,2024-12-27,9,Improved,No,7,118,80,94,117,42.7,280,Medicaid,19138.32
+P0942,Paul Davis,74,Male,B+,Arthritis,Corticosteroid Injection,Endocrinology,2023-07-03,2023-07-26,23,Deteriorated,No,10,131,81,92,136,44.4,132,Private,5976.98
+P0943,Melissa Johnson,49,Female,B-,Migraine,Botox Injections,Nephrology,2020-07-01,2020-07-13,12,Recovered,No,7,100,87,98,256,17.8,272,Medicare,27121.96
+P0944,David Gupta,30,Male,O+,COPD,Pulmonary Rehabilitation,Oncology,2023-09-04,2023-09-16,12,Improved,Yes,9,152,60,58,76,33.2,266,Government,15406.07
+P0945,Michael Williams,53,Male,AB-,Back Pain,Surgery,Psychiatry,2024-11-01,2024-11-17,16,Improved,No,8,145,76,65,73,39.8,199,None,16080.01
+P0946,Priya Wilson,75,Female,B+,Back Pain,Epidural Injection,General Medicine,2023-07-30,2023-08-07,8,Recovered,No,7,167,61,82,103,23,214,Government,13275.38
+P0947,Sarah Rao,24,Female,AB-,Hypertension,Lifestyle Modification,Orthopedics,2023-09-30,2023-10-20,20,Stable,Yes,3,96,60,99,242,28.3,167,Medicare,6361.51
+P0948,Sarah Garcia,57,Other,O+,Anxiety,SSRIs,Cardiology,2023-07-18,2023-08-07,20,Recovered,No,9,103,65,66,141,36.6,145,Medicaid,5068.86
+P0949,Jessica Verma,18,Female,AB-,Back Pain,Physical Therapy,Oncology,2021-03-19,2021-04-04,16,Improved,No,6,151,105,86,213,19.7,140,Private,9058.01
+P0950,Neha Jones,35,Female,O-,Migraine,Botox Injections,Oncology,2022-12-13,2023-01-10,28,Recovered,No,8,99,69,101,98,42.7,133,Government,10592.6
+P0951,Mark Williams,24,Male,O+,Obesity,Bariatric Surgery,General Medicine,2021-11-22,2021-12-04,12,Deceased,No,6,112,79,63,101,35.5,179,Private,25421.4
+P0952,David Mehta,57,Male,AB-,Anemia,Erythropoietin,Pulmonology,2023-03-14,2023-04-04,21,Improved,No,5,115,64,62,105,43.4,159,Medicaid,46765.41
+P0953,Sunita Jones,74,Female,AB-,Cancer,Immunotherapy,Pulmonology,2022-04-24,2022-05-02,8,Stable,No,2,152,70,56,119,41.2,262,None,27175.35
+P0954,Laura Verma,26,Female,O+,Kidney Disease,Kidney Transplant,Psychiatry,2022-10-08,2022-11-04,27,Recovered,No,3,171,72,57,168,33.7,178,Medicaid,16587.49
+P0955,Sarah Joshi,57,Female,O+,Diabetes,Metformin,Oncology,2021-03-01,2021-03-18,17,Recovered,No,3,146,90,87,143,30.9,137,None,42206.73
+P0956,John Mehta,51,Male,O-,Anxiety,Benzodiazepines,Psychiatry,2025-12-17,2025-12-24,7,Stable,No,1,178,64,85,224,34,235,Government,35376.55
+P0957,Kavita Gupta,76,Female,AB-,COPD,Pulmonary Rehabilitation,Oncology,2024-04-30,2024-05-26,26,Stable,No,6,165,93,87,268,20.5,273,Medicaid,3515.58
+P0958,Melissa Kumar,53,Female,B-,Thyroid Disorder,Surgery,Cardiology,2021-07-17,2021-07-26,9,Improved,Yes,3,101,106,93,208,37.7,217,Medicaid,35668.39
+P0959,Amy Jones,38,Female,B-,COPD,Oxygen Therapy,Pulmonology,2022-09-02,2022-09-21,19,Stable,Yes,10,104,101,97,210,30.5,220,Government,46037.56
+P0960,Jennifer Verma,45,Female,AB+,Asthma,Corticosteroids,Cardiology,2021-05-11,2021-05-13,2,Stable,No,7,113,74,66,297,16.1,136,Private,34737.42
+P0961,Rahul Miller,79,Male,O+,Migraine,Botox Injections,Neurology,2021-05-13,2021-05-14,1,Improved,No,9,114,83,79,273,18.7,135,None,45904.82
+P0962,Sunita Wilson,83,Female,A+,Back Pain,Physical Therapy,General Medicine,2025-05-30,2025-06-08,9,Improved,No,2,172,68,67,150,25,270,Private,16161.42
+P0963,Rahul Jones,69,Male,AB+,Cancer,Radiation Therapy,Neurology,2020-01-15,2020-01-27,12,Stable,No,1,132,107,92,167,28.7,139,Medicare,16904.67
+P0964,Rekha Brown,52,Other,O-,Hypertension,Lisinopril,Psychiatry,2020-02-23,2020-03-23,29,Stable,Yes,8,128,65,100,93,36.4,177,Private,49345.69
+P0965,Mark Mehta,78,Male,AB+,Diabetes,Metformin,Orthopedics,2024-02-13,2024-03-09,25,Improved,No,10,145,86,90,121,24.5,156,Government,19207.07
+P0966,Robert Sharma,85,Male,AB+,Heart Disease,Bypass Surgery,Endocrinology,2025-10-31,2025-11-29,29,Stable,Yes,10,150,93,98,239,34.6,277,Government,4096.07
+P0967,Vijay Wilson,76,Male,B+,Cancer,Immunotherapy,Pulmonology,2020-04-05,2020-04-28,23,Improved,No,9,92,65,63,180,41.6,211,Medicare,23000.33
+P0968,Vijay Davis,18,Male,AB-,Back Pain,Epidural Injection,Psychiatry,2021-07-24,2021-07-27,3,Stable,Yes,3,132,92,75,100,29.4,236,None,14893.97
+P0969,Anil Singh,30,Male,A-,COPD,Oxygen Therapy,Oncology,2023-02-22,2023-02-25,3,Stable,No,10,107,87,72,115,20.7,274,Medicare,47179.74
+P0970,Ravi Johnson,52,Male,B+,Cancer,Radiation Therapy,Neurology,2021-03-07,2021-04-03,27,Improved,Yes,10,137,91,108,283,17.3,231,Government,39085.36
+P0971,Emily Garcia,18,Female,AB-,Migraine,Sumatriptan,Orthopedics,2020-07-22,2020-07-25,3,Stable,No,5,180,81,81,140,43.6,237,Government,8998.01
+P0972,Laura Taylor,59,Female,A-,Cancer,Surgery,General Medicine,2020-01-21,2020-01-23,2,Recovered,Yes,7,173,93,66,111,36,235,Medicare,12398.34
+P0973,Laura Johnson,18,Female,AB-,Obesity,Lifestyle Modification,General Medicine,2020-08-29,2020-09-24,26,Improved,Yes,3,172,104,103,85,18.7,267,Private,18904.17
+P0974,Anil Smith,41,Other,A+,Anxiety,Benzodiazepines,Nephrology,2020-06-27,2020-07-21,24,Improved,No,6,96,96,63,121,17.3,238,Private,4008.57
+P0975,Neha Singh,82,Female,B+,Kidney Disease,Diet Modification,Pulmonology,2023-09-02,2023-09-25,23,Improved,No,6,162,93,84,175,33.2,266,Medicaid,11060.26
+P0976,William Kumar,70,Male,O-,Thyroid Disorder,Levothyroxine,Nephrology,2025-10-09,2025-11-08,30,Recovered,No,3,115,79,106,207,18.4,138,Medicaid,2258.32
+P0977,Jessica Joshi,41,Female,A+,Hypertension,Lifestyle Modification,Psychiatry,2023-04-30,2023-05-07,7,Deceased,No,7,146,76,88,265,41.6,181,Medicare,17201.06
+P0978,Laura Brown,22,Female,AB+,Migraine,Botox Injections,Orthopedics,2025-01-08,2025-01-15,7,Improved,No,4,122,79,89,198,21.7,197,None,48399.81
+P0979,Rajesh Davis,24,Male,B+,Depression,SNRIs,Neurology,2020-08-05,2020-08-20,15,Stable,No,7,180,63,80,162,29,205,Government,17945.74
+P0980,Priya Taylor,22,Female,AB+,COPD,Pulmonary Rehabilitation,Neurology,2023-08-22,2023-08-26,4,Recovered,No,8,93,102,93,96,41.8,145,Private,47576.58
+P0981,Priya Gupta,60,Female,A-,Back Pain,Epidural Injection,Pulmonology,2024-12-28,2025-01-19,22,Improved,No,5,111,100,56,173,36.8,214,Government,46009.17
+P0982,Anil Gupta,41,Other,B+,Obesity,Bariatric Surgery,Cardiology,2024-01-03,2024-01-31,28,Deceased,Yes,4,110,86,103,277,36.3,132,None,4407.53
+P0983,Laura Mehta,74,Other,O-,Anemia,Erythropoietin,Nephrology,2020-05-11,2020-05-26,15,Improved,No,6,102,108,83,250,21.5,153,Private,23452.93
+P0984,Sunita Verma,19,Female,AB+,Anxiety,Therapy,Cardiology,2022-06-04,2022-06-14,10,Stable,Yes,4,116,104,92,100,16.1,209,Private,6739.8
+P0985,Ritu Singh,27,Female,B+,COPD,Pulmonary Rehabilitation,Psychiatry,2021-01-19,2021-01-27,8,Deceased,No,6,168,99,66,209,26.4,182,Private,45510.48
+P0986,Vijay Verma,25,Male,AB-,Anxiety,Mindfulness Program,Oncology,2020-02-23,2020-03-15,21,Recovered,Yes,4,160,63,59,209,27.2,232,Medicaid,24136.28
+P0987,Rajesh Shah,42,Male,O-,Kidney Disease,Diet Modification,Psychiatry,2023-06-10,2023-06-29,19,Stable,No,6,118,61,55,170,30.2,216,Private,38058.76
+P0988,John Sharma,27,Male,B+,Obesity,Orlistat,Oncology,2024-04-03,2024-04-14,11,Improved,No,10,113,78,61,187,31.6,167,Government,29314.59
+P0989,Ritu Smith,30,Female,B-,Hypertension,Lisinopril,Oncology,2020-05-10,2020-05-29,19,Recovered,No,5,176,62,77,132,16.2,258,Private,28011.4
+P0990,Suresh Singh,67,Male,O-,Anxiety,Mindfulness Program,Cardiology,2022-06-19,2022-07-15,26,Recovered,No,8,126,103,76,186,25.7,264,Medicaid,28045.94
+P0991,Sunita Patel,72,Female,O-,Arthritis,Physical Therapy,Orthopedics,2024-06-06,2024-06-08,2,Recovered,Yes,6,143,102,106,295,21.2,122,Medicaid,44294.84
+P0992,Ravi Jones,77,Male,A-,Cancer,Chemotherapy,Endocrinology,2021-05-31,2021-06-01,1,Deteriorated,Yes,3,101,82,108,111,22.5,260,Medicaid,802.9
+P0993,Sushma Singh,63,Female,O-,Cancer,Chemotherapy,Cardiology,2025-11-09,2025-11-28,19,Deteriorated,No,6,177,83,91,94,28.6,148,Medicaid,25405.08
+P0994,Amy Smith,77,Female,B-,Migraine,Botox Injections,Oncology,2021-11-16,2021-12-09,23,Stable,No,10,161,93,57,251,17.5,206,Private,45899.81
+P0995,Jessica Taylor,37,Female,A+,COPD,Steroids,Psychiatry,2021-12-07,2022-01-02,26,Improved,No,3,129,63,97,94,44.9,155,Private,8822.01
+P0996,Pradeep Taylor,55,Male,A-,COPD,Oxygen Therapy,Pulmonology,2022-07-25,2022-07-30,5,Stable,No,9,97,76,60,141,24.1,191,Private,32914.27
+P0997,John Wilson,43,Male,B+,Migraine,Sumatriptan,Cardiology,2021-06-02,2021-06-26,24,Stable,No,4,106,62,95,123,44.4,190,Government,46886.68
+P0998,Melissa Johnson,34,Female,A+,Migraine,Sumatriptan,Cardiology,2022-09-25,2022-10-07,12,Stable,No,1,106,92,60,176,25.7,132,None,20654.32
+P0999,Lisa Joshi,74,Female,AB+,Obesity,Diet Program,Endocrinology,2023-12-28,2024-01-10,13,Deteriorated,No,2,168,94,69,103,38.3,125,Private,32762.18
+P1000,Michael Taylor,23,Male,B+,Thyroid Disorder,Methimazole,Cardiology,2025-12-14,2025-12-21,7,Recovered,No,3,123,75,108,259,31.7,190,Medicaid,3810.6
+P1001,Pradeep Kumar,71,Male,A-,Obesity,Lifestyle Modification,General Medicine,2025-08-14,2025-08-16,2,Improved,No,3,137,86,108,170,29.4,130,Medicaid,19466.65
+P1002,Jessica Johnson,64,Female,B-,Diabetes,Lifestyle Modification,Neurology,2023-03-21,2023-04-15,25,Stable,No,10,128,101,57,182,44,220,Government,48994.98
+P1003,Emily Sharma,56,Female,AB+,Anemia,Blood Transfusion,Pulmonology,2021-11-16,2021-12-01,15,Recovered,Yes,4,139,68,82,295,40.2,142,Government,15128.13
+P1004,Sarah Davis,59,Female,AB+,Arthritis,Physical Therapy,General Medicine,2021-02-19,2021-03-13,22,Improved,No,10,171,62,89,258,30.3,272,Government,47543.36
+P1005,Ritu Singh,66,Female,B-,Arthritis,Physical Therapy,Orthopedics,2022-04-03,2022-04-21,18,Improved,No,6,107,106,73,187,44.2,167,Government,44503.69
+P1006,Pradeep Verma,48,Male,O+,Hypertension,Lisinopril,Nephrology,2024-02-07,2024-03-06,28,Stable,No,10,141,61,78,254,23.7,239,Medicare,39028.92
+P1007,Robert Williams,52,Male,AB+,Migraine,Lifestyle Modification,Oncology,2022-03-27,2022-04-08,12,Deceased,No,9,137,96,85,289,23.9,218,Private,46594.07
+P1008,Ravi Gupta,28,Male,AB+,Asthma,Montelukast,Cardiology,2023-03-15,2023-03-27,12,Recovered,No,3,163,81,108,228,42.6,198,Medicaid,25648.26
+P1009,John Wilson,66,Male,O+,Anxiety,Therapy,Orthopedics,2025-01-03,2025-01-09,6,Recovered,No,2,91,89,110,140,20,214,Government,38957.52
+P1010,Deepak Verma,51,Male,AB+,Anemia,B12 Injections,Oncology,2022-10-12,2022-11-07,26,Deteriorated,Yes,10,104,79,104,151,41.7,174,Government,36060.52
+P1011,Amanda Joshi,31,Female,AB-,Cancer,Chemotherapy,Endocrinology,2020-05-02,2020-05-20,18,Stable,Yes,9,153,93,107,161,42.7,156,Private,46630.1
+P1012,Laura Mehta,58,Female,A+,Asthma,Corticosteroids,Neurology,2024-01-25,2024-02-21,27,Deceased,No,8,112,87,87,274,29.4,188,Private,42285.01
+P1013,Sushma Sharma,85,Female,A-,Anxiety,Therapy,Nephrology,2021-08-27,2021-09-04,8,Deteriorated,Yes,1,147,68,91,180,27.6,202,None,20633.51
+P1014,Anita Johnson,37,Female,B+,Thyroid Disorder,Surgery,Psychiatry,2020-09-14,2020-09-15,1,Deteriorated,Yes,3,131,101,88,238,44.5,129,Private,1753.2
+P1015,James Jones,42,Male,B-,Hypertension,Lifestyle Modification,Endocrinology,2020-04-18,2020-05-08,20,Improved,Yes,1,117,108,80,205,39.4,142,Private,24971.67
+P1016,Paul Johnson,62,Male,O-,Migraine,Topiramate,Cardiology,2025-10-23,2025-11-17,25,Improved,No,6,166,101,66,217,37.1,244,Government,39312.61
+P1017,Rekha Patel,37,Female,O-,Anemia,Blood Transfusion,General Medicine,2022-07-18,2022-08-10,23,Stable,No,4,167,98,66,70,24.3,241,Government,34713.9
+P1018,David Brown,29,Male,B+,COPD,Pulmonary Rehabilitation,Cardiology,2020-05-22,2020-06-07,16,Improved,No,9,160,89,57,200,21.4,275,Government,25142.79
+P1019,Suresh Sharma,80,Male,AB+,Hypertension,Amlodipine,General Medicine,2024-06-11,2024-06-15,4,Improved,No,8,118,95,98,213,34.3,166,None,35451.31
+P1020,Neha Williams,79,Female,O+,Heart Disease,Statins,Pulmonology,2024-12-17,2025-01-11,25,Improved,No,2,116,73,99,109,20.1,161,None,46022.31
+P1021,Sunita Davis,37,Other,B-,Migraine,Topiramate,Oncology,2022-01-01,2022-01-25,24,Deceased,No,7,97,84,66,280,41.8,206,Medicare,10947.65
+P1022,Pooja Singh,32,Female,A-,COPD,Bronchodilators,Nephrology,2023-01-17,2023-01-30,13,Stable,No,5,125,66,107,130,16.2,200,Medicaid,11841.2
+P1023,Rahul Singh,46,Male,O+,Back Pain,Surgery,General Medicine,2021-12-15,2021-12-28,13,Stable,No,6,126,102,80,128,32.6,241,Medicare,33014.12
+P1024,James Mehta,27,Male,A-,Back Pain,NSAIDs,Neurology,2020-10-02,2020-10-14,12,Recovered,No,10,99,64,91,266,42.6,207,Medicaid,16832.44
+P1025,Amy Shah,59,Female,A-,Obesity,Diet Program,Nephrology,2024-01-05,2024-01-31,26,Recovered,Yes,8,90,68,56,134,20.9,160,Government,33499.84
+P1026,Sunita Gupta,57,Female,A-,Hypertension,Amlodipine,Oncology,2022-09-24,2022-10-19,25,Stable,No,4,149,94,91,235,29.2,129,Government,28536.54
+P1027,William Joshi,28,Male,O-,Back Pain,NSAIDs,Cardiology,2021-06-24,2021-07-09,15,Stable,No,7,148,81,99,217,44,256,Government,31271.05
+P1028,Meena Wilson,57,Female,B+,Heart Disease,Aspirin Therapy,Psychiatry,2021-01-10,2021-01-31,21,Stable,Yes,2,129,72,56,201,35.5,268,Private,32028.24
+P1029,Mark Singh,63,Male,B+,Thyroid Disorder,Levothyroxine,Neurology,2023-11-30,2023-12-16,16,Stable,No,1,126,96,95,186,39.2,192,Medicare,24256.93
+P1030,Ritu Williams,57,Other,AB+,Arthritis,Corticosteroid Injection,Nephrology,2025-07-26,2025-08-08,13,Improved,No,6,165,88,74,296,43.3,227,Private,40902.68
+P1031,James Verma,20,Male,AB-,Anxiety,SSRIs,Nephrology,2023-12-16,2023-12-27,11,Stable,No,8,115,62,92,259,27.2,189,Private,28469.79
+P1032,Mark Johnson,35,Male,AB+,Kidney Disease,Kidney Transplant,Psychiatry,2022-07-01,2022-07-12,11,Recovered,No,8,165,89,101,72,21.2,209,Government,5951.04
+P1033,Sanjay Singh,58,Male,O+,Kidney Disease,Diet Modification,Psychiatry,2025-11-18,2025-12-08,20,Stable,No,5,168,85,77,142,28,231,Government,12776.68
+P1034,Ravi Singh,57,Male,O+,Kidney Disease,Dialysis,Orthopedics,2024-06-08,2024-06-27,19,Deteriorated,No,4,167,75,108,250,43.4,186,Medicare,14151.5
+P1035,Thomas Davis,39,Male,O+,Asthma,Corticosteroids,Oncology,2020-07-14,2020-08-02,19,Improved,No,9,106,98,101,192,37,175,Private,49422.2
+P1036,Suresh Sharma,75,Male,O-,Asthma,Albuterol Inhaler,Cardiology,2021-12-10,2021-12-14,4,Deteriorated,No,7,151,80,74,300,40.7,209,None,10039.46
+P1037,Mark Gupta,34,Male,O-,Diabetes,Insulin Therapy,Oncology,2020-02-11,2020-02-13,2,Improved,No,3,128,84,59,107,37,177,Private,28545.39
+P1038,Suresh Shah,77,Male,A-,Depression,Psychotherapy,Oncology,2023-12-30,2024-01-16,17,Stable,No,7,114,81,92,156,34.2,240,Medicaid,48210.2
+P1039,Sunita Mehta,64,Female,O+,COPD,Pulmonary Rehabilitation,Oncology,2022-02-13,2022-02-22,9,Stable,Yes,4,139,74,60,88,22.5,258,Government,27761.14
+P1040,David Patel,35,Male,AB+,Diabetes,Insulin Therapy,Pulmonology,2022-03-09,2022-03-19,10,Improved,No,10,123,86,68,237,19.1,197,Medicaid,11983.54
+P1041,Jessica Davis,21,Female,O+,Diabetes,Lifestyle Modification,Oncology,2021-07-30,2021-08-18,19,Deteriorated,No,8,164,63,64,296,39.3,142,Private,32508.34
+P1042,Pradeep Verma,56,Male,O-,Heart Disease,Statins,Psychiatry,2020-08-27,2020-09-01,5,Recovered,No,8,96,70,65,278,32.2,191,Government,21395.15
+P1043,Rajesh Miller,37,Male,AB+,Kidney Disease,ACE Inhibitors,Psychiatry,2020-02-08,2020-02-13,5,Recovered,No,5,141,96,61,125,21.9,122,Medicare,11871.23
+P1044,Suresh Brown,76,Male,O-,Depression,SSRIs,Nephrology,2024-11-27,2024-12-25,28,Improved,Yes,5,168,99,77,262,39.6,183,Government,44982.93
+P1045,Anil Joshi,51,Male,A-,Thyroid Disorder,Surgery,Neurology,2021-11-29,2021-12-07,8,Recovered,No,1,106,62,63,208,24.6,137,Medicare,47354.13
+P1046,Sushma Gupta,55,Female,O-,Diabetes,Lifestyle Modification,Oncology,2020-08-27,2020-09-11,15,Stable,No,8,123,102,89,188,37.2,146,None,41669
+P1047,Paul Taylor,41,Male,B+,Cancer,Surgery,General Medicine,2020-07-23,2020-08-05,13,Improved,No,2,119,94,110,182,20.5,240,Government,31631.65
+P1048,Amit Wilson,61,Male,A-,Anxiety,Mindfulness Program,General Medicine,2025-12-26,2026-01-05,10,Stable,No,3,108,75,86,133,34.2,235,Government,28883.47
+P1049,Amit Kumar,85,Male,O+,Obesity,Lifestyle Modification,General Medicine,2022-08-23,2022-09-15,23,Improved,Yes,8,143,107,94,82,35.4,138,Private,22993.52
+P1050,Pooja Taylor,37,Female,B-,Depression,SSRIs,Psychiatry,2022-10-28,2022-11-20,23,Improved,No,4,104,91,61,114,21.1,246,Medicaid,47294.65
+P1051,Anil Sharma,64,Male,B-,Thyroid Disorder,Radioactive Iodine,Pulmonology,2021-09-04,2021-09-09,5,Recovered,No,4,138,103,75,245,39.5,271,Private,44013.97
+P1052,Meena Shah,55,Female,AB-,Arthritis,Methotrexate,Cardiology,2024-12-18,2025-01-16,29,Deteriorated,No,5,129,92,108,202,30.5,273,Private,29215.48
+P1053,Priya Johnson,66,Female,B-,Back Pain,Epidural Injection,Psychiatry,2020-10-19,2020-11-08,20,Stable,Yes,7,114,110,98,184,30.4,279,Government,35248.54
+P1054,Lisa Smith,71,Female,O-,Heart Disease,Statins,Nephrology,2022-01-27,2022-02-11,15,Deteriorated,No,7,130,110,65,110,42.4,265,Medicaid,8103.74
+P1055,Paul Gupta,21,Male,AB+,Anemia,Erythropoietin,Endocrinology,2021-10-07,2021-10-12,5,Improved,No,10,99,80,110,266,27.9,130,Government,8005.92
+P1056,Robert Gupta,70,Male,B-,Asthma,Montelukast,Endocrinology,2022-01-06,2022-01-08,2,Improved,Yes,2,132,102,71,229,30.9,261,Medicaid,17312.3
+P1057,Anita Verma,52,Female,O-,Kidney Disease,ACE Inhibitors,Endocrinology,2021-10-05,2021-10-08,3,Stable,No,2,112,69,61,282,21,139,Medicaid,18919.6
+P1058,David Davis,71,Male,B+,COPD,Steroids,Endocrinology,2024-07-02,2024-07-12,10,Deteriorated,No,5,164,67,88,153,23.6,257,Private,3395.14
+P1059,Michael Patel,82,Male,O+,Cancer,Immunotherapy,Orthopedics,2024-12-16,2025-01-06,21,Improved,No,7,130,93,75,268,37.4,219,Private,32071.39
+P1060,Rekha Shah,55,Female,O+,Anemia,B12 Injections,Oncology,2021-04-02,2021-04-22,20,Recovered,Yes,3,108,71,59,119,21.3,198,Medicaid,34663.76
+P1061,Suresh Rao,80,Male,B+,COPD,Bronchodilators,Nephrology,2021-01-03,2021-01-19,16,Deteriorated,No,2,109,108,81,220,33.7,276,Medicaid,14245.41
+P1062,Kavita Davis,20,Female,AB+,Diabetes,Insulin Therapy,Pulmonology,2024-11-04,2024-11-18,14,Improved,No,4,180,60,58,71,26.1,170,Government,37525.79
+P1063,Priya Smith,23,Female,B+,Depression,Cognitive Behavioral Therapy,Orthopedics,2023-01-11,2023-01-19,8,Deteriorated,No,10,160,105,55,160,32,161,Medicaid,46282.79
+P1064,Anita Verma,75,Female,B-,Anxiety,Mindfulness Program,Oncology,2021-11-02,2021-11-29,27,Improved,No,7,121,74,66,286,32.1,172,Government,44159.7
+P1065,Ashley Singh,82,Female,B+,Depression,SSRIs,Endocrinology,2024-07-06,2024-07-12,6,Improved,Yes,3,121,87,90,148,44,147,Government,540.61
+P1066,Lisa Gupta,30,Female,AB+,Anemia,B12 Injections,Endocrinology,2023-12-01,2023-12-30,29,Recovered,No,8,157,90,75,251,43.2,125,Private,20600
+P1067,Ashley Johnson,39,Female,AB+,Diabetes,Metformin,Pulmonology,2022-12-27,2023-01-04,8,Stable,No,10,149,98,83,174,19.4,248,Medicaid,34892.28
+P1068,Pooja Davis,56,Female,O-,Depression,Psychotherapy,Pulmonology,2021-12-30,2022-01-23,24,Stable,No,10,179,85,79,164,36.2,222,Medicaid,26926.4
+P1069,Rekha Smith,75,Female,O+,Heart Disease,Statins,Pulmonology,2025-09-08,2025-09-27,19,Improved,Yes,8,133,80,69,224,23.9,231,Government,31599.59
+P1070,Lisa Sharma,74,Female,AB-,Arthritis,Corticosteroid Injection,Oncology,2021-08-07,2021-09-01,25,Stable,Yes,1,165,79,59,265,28.7,278,None,20119.69
+P1071,Melissa Mehta,63,Female,O-,Anemia,Erythropoietin,General Medicine,2024-07-19,2024-07-28,9,Recovered,No,8,114,98,106,199,40.6,148,Government,20842.2
+P1072,Mark Davis,31,Male,B+,Anxiety,Therapy,Psychiatry,2025-12-26,2025-12-27,1,Improved,No,6,91,110,93,112,35.2,251,Private,40407.08
+P1073,Anita Patel,69,Female,A-,Asthma,Bronchodilators,General Medicine,2020-06-09,2020-06-22,13,Improved,No,9,167,63,56,285,31.8,189,Government,26964.74
+P1074,Daniel Wilson,42,Male,O-,Thyroid Disorder,Levothyroxine,General Medicine,2023-09-13,2023-09-29,16,Improved,No,2,160,75,94,222,37.4,187,Medicare,41753.67
+P1075,William Sharma,37,Other,O-,Cancer,Immunotherapy,Cardiology,2024-02-26,2024-03-27,30,Recovered,No,10,117,62,98,158,36.9,223,Government,5540.21
+P1076,John Williams,55,Male,A-,Hypertension,Metoprolol,General Medicine,2022-02-23,2022-03-22,27,Improved,No,1,175,78,82,184,32.5,248,Medicaid,38177.92
+P1077,David Verma,21,Male,AB+,Hypertension,Amlodipine,Endocrinology,2024-10-17,2024-10-29,12,Deteriorated,No,1,96,74,72,145,24.8,184,Medicare,7010.57
+P1078,James Brown,69,Male,B+,Thyroid Disorder,Radioactive Iodine,Oncology,2021-11-06,2021-11-16,10,Deteriorated,No,8,108,110,104,102,19.4,208,None,30758.45
+P1079,Sushma Patel,41,Female,O-,Hypertension,Lisinopril,Neurology,2023-09-20,2023-09-28,8,Recovered,No,5,146,110,56,136,30.5,242,None,45087.95
+P1080,Lisa Brown,59,Female,A+,Asthma,Albuterol Inhaler,Cardiology,2022-08-07,2022-08-25,18,Recovered,Yes,10,152,65,63,143,25.7,209,Private,11298.99
+P1081,Jessica Gupta,41,Female,O-,Hypertension,Lisinopril,Pulmonology,2025-04-18,2025-04-26,8,Deteriorated,No,4,171,89,86,110,28.3,189,Medicaid,27035.55
+P1082,James Davis,59,Male,A-,Asthma,Corticosteroids,Psychiatry,2023-06-04,2023-06-10,6,Stable,No,6,107,105,109,150,18.9,149,Medicare,48886.17
+P1083,James Verma,85,Male,O+,Thyroid Disorder,Levothyroxine,Neurology,2024-01-27,2024-02-06,10,Improved,No,3,147,89,74,138,29.7,213,Medicare,32112.11
+P1084,Ritu Kumar,77,Female,A+,Hypertension,Metoprolol,Nephrology,2023-05-14,2023-06-06,23,Stable,No,9,115,76,73,286,42.1,172,Government,2314.03
+P1085,Thomas Shah,71,Male,A-,Hypertension,Lisinopril,General Medicine,2022-04-03,2022-04-11,8,Stable,Yes,9,166,71,82,79,30.9,249,None,26979.92
+P1086,Melissa Davis,78,Female,O-,Heart Disease,Aspirin Therapy,Pulmonology,2023-03-14,2023-04-10,27,Improved,No,4,130,103,59,150,21.3,233,Government,34729.72
+P1087,Jennifer Verma,30,Female,AB+,COPD,Bronchodilators,Orthopedics,2023-12-30,2024-01-13,14,Stable,No,3,127,77,110,167,30.4,242,Medicaid,22413.31
+P1088,Ritu Joshi,44,Female,A+,Thyroid Disorder,Surgery,Neurology,2021-07-13,2021-08-01,19,Stable,No,10,138,100,105,180,23.6,207,Private,3106.59
+P1089,Daniel Taylor,61,Male,B+,Obesity,Orlistat,Psychiatry,2020-03-10,2020-03-28,18,Deteriorated,No,5,110,66,100,91,31.7,224,None,33346.77
+P1090,Thomas Miller,56,Male,A+,Kidney Disease,Kidney Transplant,Psychiatry,2024-02-27,2024-03-13,15,Recovered,No,2,152,81,95,251,32.6,253,Government,6757.71
+P1091,Robert Wilson,77,Male,O+,Migraine,Sumatriptan,Orthopedics,2021-07-17,2021-07-27,10,Improved,No,10,171,98,110,185,42.1,238,None,1212.24
+P1092,Kavita Mehta,44,Female,A-,Anxiety,Mindfulness Program,General Medicine,2021-10-16,2021-11-02,17,Deceased,No,7,103,65,66,255,22.3,127,Private,10891.04
+P1093,Lisa Garcia,28,Female,B-,Arthritis,Methotrexate,Pulmonology,2020-02-16,2020-03-16,29,Stable,No,7,103,88,84,217,17.4,200,Government,7816.44
+P1094,Emily Singh,58,Female,A-,Migraine,Sumatriptan,Psychiatry,2025-03-18,2025-04-11,24,Recovered,No,10,114,68,98,171,16.6,151,Private,6532.1
+P1095,Daniel Gupta,78,Male,A+,Arthritis,Physical Therapy,Oncology,2023-07-14,2023-07-26,12,Recovered,No,2,95,96,58,246,31.4,256,None,39981.25
+P1096,Rajesh Rao,45,Male,A-,Migraine,Botox Injections,Psychiatry,2022-04-26,2022-05-09,13,Recovered,Yes,8,179,110,105,205,30.4,217,Government,37997.54
+P1097,Jennifer Taylor,69,Female,AB-,Kidney Disease,ACE Inhibitors,Cardiology,2022-05-06,2022-05-18,12,Recovered,No,5,180,60,95,155,31.8,230,Government,4972.21
+P1098,James Williams,66,Male,B-,Heart Disease,Bypass Surgery,Endocrinology,2022-01-31,2022-02-12,12,Improved,Yes,9,102,84,73,133,27.4,277,Medicare,2608.07
+P1099,Amanda Sharma,38,Female,A-,COPD,Steroids,Orthopedics,2024-03-29,2024-04-12,14,Recovered,No,7,127,71,88,91,27,185,Private,13193.03
+P1100,Lisa Jones,59,Female,B+,Anemia,B12 Injections,Neurology,2023-10-03,2023-10-21,18,Deteriorated,No,1,142,76,57,165,43.9,129,Medicare,9851.01
+P1101,Rahul Mehta,36,Other,O-,Obesity,Diet Program,General Medicine,2022-05-04,2022-05-18,14,Recovered,No,4,103,76,95,136,35.6,236,Government,6244.93
+P1102,Amy Brown,23,Female,O-,Anxiety,Mindfulness Program,Cardiology,2024-07-05,2024-07-14,9,Stable,No,5,162,71,66,199,31.6,191,None,46954.98
+P1103,Sanjay Smith,76,Male,O+,Asthma,Bronchodilators,Orthopedics,2021-05-19,2021-06-03,15,Improved,No,7,92,101,82,276,32,263,Private,49263.41
+P1104,Pradeep Wilson,82,Male,AB-,Back Pain,Physical Therapy,Nephrology,2025-09-08,2025-09-24,16,Recovered,No,5,146,101,102,161,43.9,176,Medicare,36748.76
+P1105,Ravi Kumar,47,Male,O-,Migraine,Sumatriptan,Psychiatry,2020-02-21,2020-03-12,20,Deteriorated,Yes,3,114,92,107,233,41.3,125,None,9721.34
+P1106,Anita Mehta,26,Female,AB-,Anemia,B12 Injections,Cardiology,2022-08-10,2022-09-08,29,Recovered,Yes,1,173,82,83,188,19.9,188,Medicaid,38019.11
+P1107,Neha Kumar,45,Female,B+,Asthma,Montelukast,General Medicine,2024-02-29,2024-03-25,25,Recovered,No,3,172,64,58,229,30,277,None,15823.54
+P1108,Amanda Sharma,78,Female,O+,Asthma,Bronchodilators,Oncology,2022-11-13,2022-12-11,28,Deteriorated,No,3,116,71,66,165,18.3,246,Private,42178.1
+P1109,Pradeep Patel,71,Male,AB+,Hypertension,Lisinopril,Cardiology,2025-12-25,2026-01-21,27,Stable,No,3,114,79,79,204,28.5,217,Medicare,11148.06
+P1110,Sushma Verma,37,Female,A+,Back Pain,Physical Therapy,Orthopedics,2020-05-10,2020-05-30,20,Improved,No,10,140,86,101,104,18,212,Private,10231.4
+P1111,William Taylor,58,Male,AB-,Diabetes,Metformin,Psychiatry,2021-01-27,2021-02-12,16,Recovered,Yes,1,162,60,56,274,29.4,277,Government,23343.22
+P1112,Suresh Shah,66,Male,AB+,Kidney Disease,Dialysis,Oncology,2025-09-17,2025-10-03,16,Deteriorated,No,5,153,69,66,100,16.7,184,Private,16152.56
+P1113,Sanjay Wilson,39,Other,B+,COPD,Bronchodilators,Neurology,2025-04-25,2025-05-22,27,Recovered,No,5,129,75,81,83,44.5,157,Government,41340.1
+P1114,Vijay Williams,19,Male,AB-,Asthma,Montelukast,Neurology,2022-01-11,2022-01-18,7,Deteriorated,No,8,100,69,101,240,37.2,269,Government,13944.06
+P1115,Rahul Shah,41,Male,O+,Anxiety,Therapy,Pulmonology,2023-07-17,2023-07-21,4,Recovered,Yes,3,150,86,60,236,29.5,196,None,36149.9
+P1116,Emily Wilson,62,Female,AB+,Hypertension,Lifestyle Modification,Endocrinology,2020-05-31,2020-06-05,5,Recovered,No,5,130,94,92,285,18.6,230,None,27254.38
+P1117,David Miller,71,Male,A-,Asthma,Corticosteroids,Cardiology,2025-03-13,2025-03-26,13,Deceased,No,9,154,93,72,149,29.2,126,Medicaid,25803.01
+P1118,Amit Garcia,55,Male,B-,Kidney Disease,ACE Inhibitors,Cardiology,2020-12-17,2020-12-31,14,Improved,No,3,141,96,102,255,38.2,171,None,19955.39
+P1119,Daniel Davis,52,Other,B+,COPD,Steroids,Cardiology,2023-01-12,2023-01-27,15,Deteriorated,No,3,154,70,62,127,32.6,255,Private,20805.81
+P1120,Anil Shah,80,Male,AB+,Anemia,B12 Injections,Cardiology,2020-02-29,2020-03-12,12,Deteriorated,No,5,116,108,68,70,17.8,124,Medicare,27652.92
+P1121,Suresh Taylor,18,Male,B+,Diabetes,Metformin,Cardiology,2021-05-11,2021-05-20,9,Recovered,No,4,92,97,109,287,18.7,265,Medicare,37771.94
+P1122,Robert Wilson,76,Male,B-,Migraine,Sumatriptan,Psychiatry,2024-05-09,2024-05-10,1,Improved,No,7,128,94,108,91,43.3,260,Private,21550.24
+P1123,Paul Wilson,83,Male,O-,Arthritis,Physical Therapy,Endocrinology,2022-10-17,2022-10-31,14,Recovered,No,9,121,88,60,94,31.2,141,None,16257.87
+P1124,Rajesh Wilson,57,Male,AB+,Asthma,Albuterol Inhaler,Cardiology,2022-02-13,2022-03-06,21,Improved,Yes,6,98,83,68,152,38.1,191,Medicaid,20937.21
+P1125,Neha Rao,52,Female,A-,Thyroid Disorder,Surgery,Cardiology,2024-11-04,2024-11-19,15,Recovered,No,9,102,63,90,105,23.7,124,Medicaid,40600.61
+P1126,Rajesh Joshi,83,Male,AB-,Obesity,Bariatric Surgery,Oncology,2020-01-05,2020-01-10,5,Deceased,No,3,108,62,88,158,30.5,137,Government,25095.59
+P1127,Emily Shah,70,Female,A-,Arthritis,Physical Therapy,Cardiology,2022-06-29,2022-07-11,12,Deceased,No,6,91,78,60,110,34,263,Medicaid,47545.68
+P1128,David Singh,40,Male,A+,Back Pain,Epidural Injection,Oncology,2023-11-18,2023-12-07,19,Recovered,No,1,104,62,58,188,33.4,176,Private,3241.38
+P1129,Sanjay Miller,36,Male,A+,Obesity,Lifestyle Modification,Pulmonology,2020-05-01,2020-05-04,3,Stable,No,3,115,68,91,258,44.7,280,None,21647.18
+P1130,Emily Sharma,81,Female,AB+,Migraine,Botox Injections,Neurology,2024-11-17,2024-12-12,25,Improved,No,8,129,84,101,81,44.1,198,Government,32927.03
+P1131,Ritu Williams,21,Female,A-,Hypertension,Lisinopril,Nephrology,2023-09-25,2023-10-03,8,Recovered,No,7,170,73,101,149,30.3,158,Medicare,13343.91
+P1132,Amanda Patel,38,Other,AB+,Depression,SSRIs,Pulmonology,2021-05-31,2021-06-27,27,Improved,No,6,140,88,55,200,27.4,227,Government,35327.82
+P1133,Neha Singh,74,Female,A+,Cancer,Immunotherapy,Neurology,2024-12-15,2025-01-01,17,Deteriorated,No,6,169,78,85,189,40.1,160,Private,29119.96
+P1134,Suresh Miller,56,Male,B+,COPD,Steroids,Psychiatry,2023-05-19,2023-05-24,5,Recovered,No,9,124,73,74,83,24.9,227,Private,43995.9
+P1135,James Brown,50,Male,A-,Kidney Disease,Diet Modification,Pulmonology,2021-11-01,2021-11-13,12,Improved,Yes,2,92,85,97,246,24,192,Medicaid,32319.5
+P1136,Meena Davis,28,Female,A-,COPD,Oxygen Therapy,Oncology,2025-03-13,2025-03-21,8,Recovered,No,3,119,79,69,156,35.6,193,Medicaid,25271.92
+P1137,Amy Brown,20,Female,A-,Anxiety,Mindfulness Program,Psychiatry,2022-11-29,2022-12-27,28,Stable,No,5,102,66,57,116,18.6,214,Government,15894.6
+P1138,Rahul Kumar,69,Male,B+,Diabetes,Lifestyle Modification,Orthopedics,2025-12-02,2025-12-16,14,Recovered,No,4,153,69,61,252,37.2,249,Private,19560
+P1139,Michael Kumar,75,Other,AB-,COPD,Bronchodilators,Cardiology,2020-11-24,2020-11-27,3,Stable,No,2,91,73,74,191,39.6,181,Medicaid,5793.42
+P1140,Suresh Williams,37,Male,A+,Back Pain,Epidural Injection,Endocrinology,2020-07-27,2020-08-20,24,Improved,No,6,164,101,73,286,44.4,239,Private,41163.04
+P1141,Robert Smith,46,Male,A+,Depression,Cognitive Behavioral Therapy,Pulmonology,2021-05-03,2021-05-04,1,Improved,No,8,161,93,98,292,40.3,253,Government,37361.53
+P1142,David Kumar,72,Male,B-,Diabetes,Metformin,Orthopedics,2025-04-09,2025-05-06,27,Recovered,No,2,176,98,103,220,34.4,218,Medicare,12940.05
+P1143,Sanjay Verma,75,Male,A+,Cancer,Immunotherapy,Pulmonology,2021-03-10,2021-04-08,29,Deteriorated,No,9,126,95,55,242,37,260,Private,18633.65
+P1144,Ravi Rao,42,Male,O-,Back Pain,NSAIDs,Pulmonology,2022-05-23,2022-06-21,29,Improved,No,9,110,67,80,219,17.1,218,Medicare,30322.01
+P1145,William Sharma,67,Male,AB+,Back Pain,Surgery,Endocrinology,2023-12-31,2024-01-03,3,Improved,Yes,2,121,96,109,163,36.2,156,None,4927.41
+P1146,Jessica Singh,18,Female,B+,Obesity,Lifestyle Modification,General Medicine,2022-06-10,2022-06-17,7,Improved,No,10,123,110,65,142,40.6,148,None,31190.14
+P1147,Ritu Miller,26,Female,AB+,Heart Disease,Aspirin Therapy,Oncology,2020-02-11,2020-02-21,10,Deteriorated,Yes,2,166,64,107,73,25.2,178,Medicare,2819.11
+P1148,Laura Williams,55,Female,AB-,Anxiety,SSRIs,Psychiatry,2022-08-04,2022-08-26,22,Deteriorated,Yes,5,119,79,90,93,18.7,203,Medicare,1345.26
+P1149,Rajesh Garcia,82,Male,AB-,Thyroid Disorder,Surgery,General Medicine,2021-05-15,2021-05-26,11,Improved,No,8,133,80,102,265,42.5,148,None,7272.38
+P1150,Rekha Joshi,65,Female,A+,Back Pain,Surgery,Neurology,2025-09-06,2025-09-10,4,Improved,No,7,109,84,109,233,17.3,273,Government,23362.06
+P1151,Deepak Brown,65,Male,A-,Back Pain,Epidural Injection,Pulmonology,2024-09-27,2024-10-22,25,Improved,No,8,94,82,59,183,19,237,None,10576.92
+P1152,Ravi Garcia,47,Male,O-,Obesity,Lifestyle Modification,Neurology,2022-06-05,2022-06-09,4,Improved,Yes,5,119,93,56,268,21.4,233,Medicare,15177.09
+P1153,Jessica Verma,38,Female,AB-,Kidney Disease,ACE Inhibitors,Oncology,2023-09-23,2023-10-02,9,Stable,No,1,177,93,80,107,41.9,167,Medicare,27972.53
+P1154,Rajesh Sharma,75,Male,B+,Anemia,Blood Transfusion,Endocrinology,2022-04-27,2022-05-02,5,Improved,No,6,180,73,76,123,37.1,222,Government,24056.46
+P1155,Ashley Miller,78,Female,B-,Kidney Disease,Dialysis,Cardiology,2024-07-22,2024-08-20,29,Stable,No,6,123,93,88,170,33.1,179,None,9230.06
+P1156,Rahul Miller,36,Male,AB+,Obesity,Orlistat,Psychiatry,2024-09-08,2024-10-02,24,Recovered,No,6,166,88,82,135,38.5,200,Medicare,9996.68
+P1157,William Miller,77,Male,B-,Obesity,Bariatric Surgery,Endocrinology,2023-11-11,2023-11-20,9,Recovered,No,8,165,105,110,77,23,254,Medicare,13353.76
+P1158,Rekha Jones,44,Female,AB+,Asthma,Albuterol Inhaler,Pulmonology,2021-12-22,2021-12-28,6,Deteriorated,No,8,151,66,61,264,18.2,238,Medicaid,41591.55
+P1159,William Kumar,72,Male,B+,Asthma,Albuterol Inhaler,General Medicine,2023-04-21,2023-04-27,6,Stable,No,6,137,67,73,138,40.3,223,Private,29067.66
+P1160,Amy Sharma,44,Female,A-,Kidney Disease,ACE Inhibitors,Oncology,2022-02-05,2022-02-06,1,Deteriorated,No,8,162,110,90,73,18.8,188,Private,9627.04
+P1161,Rahul Singh,75,Male,B-,Obesity,Lifestyle Modification,Oncology,2022-06-03,2022-06-29,26,Deceased,No,4,114,88,104,80,41.8,122,Government,47097.43
+P1162,Robert Patel,50,Male,B-,Cancer,Surgery,Endocrinology,2024-03-23,2024-04-11,19,Recovered,No,1,146,70,91,141,38.7,230,Medicaid,48954.95
+P1163,Michael Smith,51,Male,AB-,Diabetes,Insulin Therapy,General Medicine,2023-12-03,2023-12-23,20,Stable,No,3,131,66,99,224,22.4,274,Government,11630.88
+P1164,Sunita Patel,33,Female,AB-,Thyroid Disorder,Surgery,Neurology,2022-06-29,2022-07-11,12,Stable,No,3,162,87,58,102,40.1,227,Government,22901.84
+P1165,Ritu Johnson,44,Female,AB-,Kidney Disease,Kidney Transplant,Psychiatry,2022-12-20,2023-01-09,20,Stable,No,7,92,88,101,70,30.7,259,None,22025.03
+P1166,Priya Patel,23,Female,A+,COPD,Bronchodilators,Pulmonology,2021-02-27,2021-03-18,19,Deceased,No,4,166,62,65,117,38.4,215,None,38943.16
+P1167,Mark Verma,46,Male,O-,Asthma,Corticosteroids,Pulmonology,2023-11-28,2023-12-05,7,Recovered,No,6,90,70,70,161,17.9,159,Private,40574.58
+P1168,Sanjay Smith,54,Male,B+,Depression,SSRIs,General Medicine,2022-07-14,2022-08-11,28,Improved,No,4,160,95,73,247,38.7,279,None,10085.23
+P1169,Jessica Patel,72,Female,A+,Asthma,Albuterol Inhaler,General Medicine,2020-04-19,2020-05-01,12,Improved,Yes,10,172,74,62,102,40.1,188,Medicare,37756.6
+P1170,Lisa Williams,58,Female,AB+,Cancer,Radiation Therapy,Nephrology,2020-08-19,2020-08-23,4,Recovered,Yes,1,141,72,59,193,29.3,270,Government,18898.92
+P1171,Neha Singh,44,Female,B+,Cancer,Immunotherapy,Endocrinology,2023-11-01,2023-11-21,20,Deceased,No,7,165,68,66,171,28.9,178,Medicare,5443.79
+P1172,Neha Garcia,58,Female,O+,Asthma,Bronchodilators,Pulmonology,2022-10-28,2022-11-10,13,Recovered,No,3,179,61,94,178,19.5,178,None,1809.26
+P1173,Neha Verma,42,Female,B-,Asthma,Albuterol Inhaler,Psychiatry,2020-09-14,2020-09-26,12,Stable,No,5,135,60,75,94,23.9,155,Private,5468.19
+P1174,Amanda Garcia,77,Female,O+,Anemia,B12 Injections,Pulmonology,2022-12-04,2022-12-19,15,Stable,No,4,137,104,102,134,40.9,159,None,48552.02
+P1175,Laura Kumar,41,Female,B+,Migraine,Sumatriptan,Nephrology,2023-05-24,2023-06-18,25,Improved,No,4,95,87,86,232,27.1,267,Medicaid,10314.58
+P1176,Laura Brown,63,Female,B-,Hypertension,Metoprolol,General Medicine,2020-08-22,2020-08-28,6,Improved,No,6,175,78,82,140,17.7,253,Medicaid,17010.41
+P1177,James Brown,79,Male,O-,Asthma,Bronchodilators,Neurology,2021-12-05,2021-12-06,1,Stable,No,6,140,90,63,238,33,163,Private,18439.42
+P1178,Jessica Patel,38,Female,AB-,Asthma,Corticosteroids,General Medicine,2023-12-06,2023-12-07,1,Stable,No,5,113,82,101,273,35.2,223,Government,8816.13
+P1179,Meena Wilson,50,Female,AB+,Cancer,Radiation Therapy,Pulmonology,2020-02-22,2020-02-25,3,Deteriorated,Yes,1,110,75,72,92,24.3,266,Medicare,9162.65
+P1180,Robert Verma,35,Male,A+,Anxiety,Mindfulness Program,Psychiatry,2020-01-02,2020-01-11,9,Deteriorated,No,1,96,97,78,180,21.6,137,Government,24122.1
+P1181,Anita Singh,46,Female,AB+,Heart Disease,Statins,Pulmonology,2022-04-02,2022-04-20,18,Stable,No,1,110,79,108,188,18.7,271,Private,11498.54
+P1182,Rekha Jones,80,Female,O+,Anemia,Iron Supplements,Endocrinology,2023-08-05,2023-08-18,13,Improved,No,7,177,107,81,282,40.4,241,Government,48793.01
+P1183,Emily Sharma,19,Female,B-,Kidney Disease,Diet Modification,Neurology,2022-07-23,2022-08-07,15,Recovered,No,4,144,65,83,281,28.3,157,Medicare,42940.79
+P1184,Paul Mehta,54,Male,B+,Migraine,Sumatriptan,Orthopedics,2024-11-17,2024-11-27,10,Recovered,No,8,102,84,77,140,42.1,193,Medicare,6257.06
+P1185,Michael Miller,64,Male,AB-,Obesity,Diet Program,Orthopedics,2020-05-09,2020-05-23,14,Deteriorated,No,2,122,98,73,116,34.1,131,None,41030.08
+P1186,Kavita Miller,74,Female,O+,Diabetes,Metformin,Orthopedics,2025-07-18,2025-08-07,20,Stable,No,5,112,79,99,116,17.2,163,None,14708.04
+P1187,William Patel,46,Male,O-,Arthritis,Methotrexate,Orthopedics,2024-10-20,2024-11-14,25,Improved,No,9,154,84,91,135,29,122,Government,8692.64
+P1188,Rajesh Brown,23,Male,AB-,Arthritis,Corticosteroid Injection,Neurology,2021-12-09,2021-12-16,7,Improved,No,6,98,101,55,70,33.3,178,None,25292.56
+P1189,Michael Mehta,48,Male,A-,Depression,SSRIs,Nephrology,2020-05-13,2020-06-01,19,Stable,No,7,158,64,71,242,28.4,198,None,24692.07
+P1190,Thomas Miller,51,Male,AB-,Arthritis,Physical Therapy,Oncology,2025-02-15,2025-02-17,2,Improved,No,7,100,94,103,185,40.5,209,Government,43984.28
+P1191,Jessica Joshi,69,Female,AB-,COPD,Bronchodilators,Endocrinology,2024-02-15,2024-03-08,22,Improved,Yes,8,156,83,107,202,37.6,266,Government,2161.12
+P1192,Kavita Sharma,84,Female,B-,Arthritis,Methotrexate,General Medicine,2020-06-16,2020-07-09,23,Improved,No,4,139,61,73,130,26.5,229,Medicare,2146.68
+P1193,David Wilson,83,Male,AB+,Heart Disease,Beta Blockers,Nephrology,2020-04-20,2020-05-03,13,Improved,Yes,3,175,73,56,279,27.7,150,Medicare,27625.69
+P1194,Melissa Wilson,53,Female,AB+,Back Pain,Physical Therapy,General Medicine,2020-03-07,2020-04-01,25,Improved,No,1,172,92,82,154,22.3,204,Medicare,33974.51
+P1195,Amy Brown,44,Female,B+,Arthritis,Physical Therapy,General Medicine,2025-10-10,2025-11-02,23,Stable,No,5,151,85,56,259,40.5,202,Government,42483.95
+P1196,Amanda Verma,51,Female,A+,Anemia,Blood Transfusion,Nephrology,2020-11-14,2020-12-02,18,Deteriorated,No,3,93,86,80,122,21.4,135,Medicare,38245.56
+P1197,Mark Wilson,40,Male,AB+,Back Pain,Physical Therapy,Pulmonology,2021-10-16,2021-11-01,16,Recovered,No,1,143,104,75,296,38.3,179,None,23450.7
+P1198,Sushma Williams,55,Female,A+,Asthma,Albuterol Inhaler,General Medicine,2022-04-24,2022-05-17,23,Stable,No,10,177,102,70,296,18.5,180,Private,47903.24
+P1199,Mark Taylor,71,Male,B-,Obesity,Lifestyle Modification,Psychiatry,2024-04-07,2024-04-27,20,Recovered,No,5,158,88,67,70,26.7,275,Medicaid,26759.85
+P1200,Neha Joshi,24,Female,B-,Migraine,Topiramate,Endocrinology,2020-11-04,2020-11-19,15,Stable,No,5,143,90,87,290,42.9,218,Private,31883.88
